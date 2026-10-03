@@ -1,0 +1,8 @@
+{
+  "model": "FermionResearch/Phonon-2",
+  "cached_cold_load_s": 13.232836416980717,
+  "model_directory_bytes": 177716675,
+  "process_peak_rss_bytes": 3080159232,
+  "metal_peak_bytes": 1364894960,
+  "definition": "fresh process; imports and cache resolution excluded; weights cached; evaluated parameters for MLX models"
+}

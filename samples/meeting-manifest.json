@@ -1,0 +1,1002 @@
+[
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0064139_0064653.wav",
+    "reference": "YOU OPEN THE WINDOW YOU READ THROUGH IT YOU MIGHT CLICK ON YOU KNOW CLOSE IT AGAIN STRAIGHT AWAY",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 28,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 5.14
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0032731_0033237.wav",
+    "reference": "WE DON'T WE'RE NOT ACTUALLY SURE WHAT THE USER WANTS WITH IT BUT IT'S INTERESTING SO WHY NOT GIVE IT TO HIM",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 36,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 5.06
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0069723_0070329.wav",
+    "reference": "YEAH UH CHANGE THE CONTENTS OF THE SAME WINDOW LIKE FROM TRANSCRIPTION TO SUMMARY",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 52,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 6.06
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0005142_0005935.wav",
+    "reference": "WE'VE GO A BROWSER WE'VE UM WHICH COMES UP AUTOMATICALLY WITH A TRANSCRIPTION BOX AND THE TOPICS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 78,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 7.93
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H00_MEE073_0077098_0077878.wav",
+    "reference": "HAVE ALL THESE SORT OF USING THE SAME WINDOW AND SO WE CAN PUT A LOT OF AND PROBABLY MUTUALLY UM WHATE DISTINCT YEAH",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 94,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE073",
+    "duration_s": 7.8
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0199647_0200193.wav",
+    "reference": "IT SHOULD BE IT SHOULDN'T BE ANY WELL IT'S SUPPOSED TO BE NEXT WEEK",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 157,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 5.46
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0145209_0145714.wav",
+    "reference": "SO BASICALLY WE GO AND GO AND DO SOME WORK REALLY I THINK THAT'S THE UM THE UM THE ANSWER TO THAT ISN'T IT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 192,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 5.05
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0059679_0060216.wav",
+    "reference": "YEAH 'CAUSE OTHERWISE IT WILL THE IT WILL INCREASE THE AMOUNT OF DATA WE NEED BY A LOT WON'T IT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 213,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 5.37
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0130698_0131380.wav",
+    "reference": "FOUR AND IT W IT LI IT JUST HAS AN OPEN VARIABLE TRANSPARENT S LIST WHATEVER FIND EVERYTHING THAT'S GOT THAT AND THEN LOAD",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 221,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 6.82
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0100130_0101160.wav",
+    "reference": "I BASI I S STARTED LIKE BROWSING A BIT JUST LIKE TRYING TO SEE IF THERE'S ANYTHING OUT THERE TO USE S SORT OF UM JUST",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 247,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 10.3
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0109230_0110041.wav",
+    "reference": "SO IT WILL COME UP ON THE SCREEN FOR THE MOMENT I HAVEN'T MANAGED TO PUT IT INTO A VECTOR OR WHATEVER IN JAVA TO PLAY WITH IT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 260,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 8.11
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0113394_0114347.wav",
+    "reference": "UM YEAH I GUESS I MEAN IT WAS A GOOD POINT YOU HAD THAT LIKE COLLABORATING WITH THE FILE THINGS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 283,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 9.53
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0039120_0039859.wav",
+    "reference": "WE WANNA SOMEHOW CLICK BE ABLE TO CLICK ON A TOPIC AND IT POPS UP WITH ALL THE MEETINGS THAT CONTAIN THAT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 337,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 7.39
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0132084_0132683.wav",
+    "reference": "YEAH YEAH 'CAUSE THAT'S THE UH THE DECLARES A VARIABLE DOESN'T IT AND THEN THEY KEEP OKAY",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 363,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 5.99
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0071903_0072556.wav",
+    "reference": "NO NO IT COULD BE LIKE TRANSCRIPTION SUMMARY LIKE TWO BUTTONS AND YOU JUST PRESS ON WHICH EVER YOU WANT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 403,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 6.53
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0115980_0116747.wav",
+    "reference": "I MEAN I DON'T KNOW SEE WHAT YOU'VE DONE AND SEE WHAT WE NEED WHEN WE KNOW MORE OF WHAT WE NEED MAYBE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 414,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 7.67
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0192089_0192700.wav",
+    "reference": "WELL IF YOU FIND ME I'LL SHOW YOU WHERE I'LL I'LL LET US ALL IN THERE AND WE CAN ALL GO IN THERE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 471,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 6.11
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0122961_0124017.wav",
+    "reference": "IT WAS THERE WHEN I TOOK IT UM USES THE UM THE N. X. T. SEARCH TO GET THE DATA OUT OF THE OUT THE FILES",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 510,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 10.56
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0112504_0113049.wav",
+    "reference": "I'M SURE I'M MAKING A MEAL OF IT AT THE MOMENT ACTUALLY",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 543,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 5.45
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0028511_0029029.wav",
+    "reference": "YEAH UM I DON'T I MEAN IT W IT'S MORE LIKE PART OF THE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 577,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 5.18
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0041128_0042077.wav",
+    "reference": "SO WE HAVE BASICALLY TWO OPTIONS OF OF BROWSING THE MEETINGS IS BY EITHER UM SEARCHING AND OPENING INDIVIDUAL OBSERVATIONS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 608,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 9.49
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0101792_0102458.wav",
+    "reference": "SO IT JUST FOUND A TUTORIAL BUT I INVERTED SEARCH IN INDEXING BUT I HAVEN'T READ IT YET",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 639,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 6.6599375
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0057083_0057836.wav",
+    "reference": "I MEAN WE MIGHT USE THEM WHILE WO TO WORK WITH THEM BUT DO WE WANNA INTEGRATE THEM IN SO THAT WHEN YOU BROWSE YOU CAN HERE'S",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 709,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 7.53
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0152113_0152802.wav",
+    "reference": "WELL I'M DOING COMMUNICATIONS WHICH WE HAD ONE EXERCISE AND I'VE DONE THAT LIKE TWO WEEKS AGO",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 736,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 6.89
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0020774_0021798.wav",
+    "reference": "I GUESS A BUTTON BUTTON MAKES A BIT MORE SENSE 'CAUSE OTHERWISE YOU DON'T REALLY KNOW THAT OH WHAT IF I RIGHT CLICK NOW WHAT HAPPENS THEN",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 776,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 10.24
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0124736_0125544.wav",
+    "reference": "TO GET THE DATA I FOR EXAMPLE TO GET THE SUMMARISATION DATA YOU HAVE TO SEARCH FOR I THINK THE I. D. S OR SOMETHING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 798,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 8.08
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0126372_0126907.wav",
+    "reference": "SO THEY DON'T YOU KNOW THEY DON'T SAY LOOK IN THAT AND THAT FOLDER BUT THEY SAY SEARCH EVERYTHING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 849,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 5.35
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H00_MEE073_0187237_0187767.wav",
+    "reference": "ANYTIME UM NOT AT N NOT AT NOON OR TWO OR FOUR",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 875,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE073",
+    "duration_s": 5.3
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0007975_0008475.wav",
+    "reference": "YOU HAVE TO EITHER OPEN OPEN A PARTICULAR OBSERVATION OR DO A SEARCH AND OPEN IT THROUGH THAT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 943,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 5.0
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0007304_0007975.wav",
+    "reference": "AND IT LOADS UP UM JUST THE BACKGROUND WINDOW IS EMPTY AND UM SO WHEN YOU START",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 995,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 6.71
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H00_MEE073_0037844_0038530.wav",
+    "reference": "IS THAT IS THAT FROM ANY PARTICULAR WINDOW LIKE IF WE WANNA SORTA GET LIKE IF WE WERE ON THE USERS VERSUS LIKE TOPIC OR SOMETHING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1029,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE073",
+    "duration_s": 6.86
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0010958_0011582.wav",
+    "reference": "EITHER WE CAN WHEN YOU CLICK ON THE THE I. D. ANY SORT OF I. D. IN THE TRANSCRIPTION BOX",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1057,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 6.24
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0034102_0034749.wav",
+    "reference": "WELL IF YOU GET THE SPEAKER CHARACTERISATION THAT SOMEONE S TALKS A LOT IN UH A CERTAIN TOPIC",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1089,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 6.47
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H01_FEO070_0034749_0035495.wav",
+    "reference": "AND THEN IF YOU I DON'T KNOW CLICK ON THAT TOPIC YOU GET EVERYTHING THAT'S IN THAT TOPIC OR WHATEVER",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1132,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO070",
+    "duration_s": 7.46
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0018512_0019136.wav",
+    "reference": "YEAH YEAH BUT UM I DON'T KNOW ABOUT YOU BUT UH USUALLY IN WINDOWS RIGHT CLICK DOESN'T DO ANYTHING DOES IT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1146,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 6.24
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0190469_0191133.wav",
+    "reference": "WE COULD THREE THIRTY IN THE IN THE COMPUTER ROOM IN HERE AND THEN WE CAN JUST GO STRA IF YOU CAN'T CAN YOU GET IN THE FRONT DOOR",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1169,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 6.64
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0025014_0026007.wav",
+    "reference": "UM BUT ACTUALLY WHAT WE COULD DO IS ON IN THAT MENU AS WELL WE COULD HAVE AN OPTION THAT POPS UP A WINDOW WITH ALL THE ALL THE MEETINGS THAT THAT USER HAS BEEN IN",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1229,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 9.93
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H02_FEO072_0176565_0177317.wav",
+    "reference": "YEAH I MEAN I WAS GOING TO BUT YOU KNOW THE WHOLE DROP DOWN MENUS AND STUFF WHAT WE WANNA SEARCH FOR IS NOT QUITE AGREED ON",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1273,
+    "meeting_id": "EN2002a",
+    "speaker_id": "FEO072",
+    "duration_s": 7.52
+  },
+  {
+    "file": "meeting/AMI_EN2002a_H03_MEE071_0119796_0120427.wav",
+    "reference": "MORE DIFFI IT WAS IT WASN'T MARKED BUT IT WAS I HAD TO SIT THERE AND THINK ABOUT IT FOR A BIT WHICH IS A BIT IRRITATING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1294,
+    "meeting_id": "EN2002a",
+    "speaker_id": "MEE071",
+    "duration_s": 6.31
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0036928_0037935.wav",
+    "reference": "UM UM SO MAYBE I MEAN WE WE SHOULD WE SHOULD DEFINITELY WELL WE COULD PROBABLY NOT PUT IT UNDER THIS HEADING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1379,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 10.07
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0099364_0099946.wav",
+    "reference": "JUST THAT IT'S HARD TO TELL WHAT KIND OF OBJECT IT WAS ORIGINALLY ONCE IT'S PUT INTO LIKE A LIST BOX OR SOMETHING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1408,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.82
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0174290_0174848.wav",
+    "reference": "OKAY WE'RE CHANGING DIALOGUE BACK TO HELLO JEAN",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1428,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.58
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0021454_0021977.wav",
+    "reference": "UM SO I DON'T KNOW IF THERE'S OTHER STUFF THAT YOU THINK SHOULD BE DONE TO THIS I COULD DO THAT BEFORE I MAIL IT TO YOU GUYS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1445,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.23
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0078856_0079508.wav",
+    "reference": "I THOUGHT YOU SAID THAT YOU HAD WRITTEN SOME THINGS THAT MAYBE HAVE CAUSED SOME BUGS AND THAT YOU WERE GONNA FIX THOSE ON THE WEEKEND OR SOMETHING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1489,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 6.52
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0046502_0047118.wav",
+    "reference": "H UM IS ARE ONE OF THOSE SOMETHING THAT YOU WANNA CHANGE AND DELETE FROM OUR LIST OF EXPECTATIONS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1537,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 6.16
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0088813_0089409.wav",
+    "reference": "NO JUST JUST PANES JUST RESULT PANES FOR EACH OF THE THREE NO NO NO NO NO",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1557,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.96
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0141101_0141775.wav",
+    "reference": "FLIP IT INTO UH YEAH JUST UH TRANSFORMS UM LIKE UM STYLE SHEET THE UM X. M. L. STYLE SHEET",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1578,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 6.74
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0103329_0103842.wav",
+    "reference": "UM YEAH IT'S JUST LIKE FROM PAST EXPERIENCE I'VE THERE'S GOOFY LITTLE THINGS THAT HAPPEN",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1598,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.13
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H01_MEE071_0071927_0072435.wav",
+    "reference": "AND THEN YOU CAN EITHER DO IT AUTOMATICALLY OR YOU CAN JUST HARD CODE AND SAY LOOK GET ME THE TIME STAMPS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1630,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE071",
+    "duration_s": 5.08
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0105308_0105835.wav",
+    "reference": "'CAUSE YOU'RE WORKING WITH AN EVENT HANDLER WITHIN THE ONE PANEL OR LIST BOX OR WHATEVER IT IS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1673,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.27
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0026045_0026664.wav",
+    "reference": "UM AND THEN UH WE'LL SEND IT TO YOU AND YOU CAN DO THE FINAL REVISIONS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1696,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 6.19
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0053774_0054353.wav",
+    "reference": "WE SHOULD PROBABLY D SORRY WE SHOULD PROBABLY DO ANOTHER RESPONSIBILITY OF PACKAGES AS WELL",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1741,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 5.79
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H01_MEE071_0118766_0119675.wav",
+    "reference": "'CAUSE UM I WAS WONDERING HOW WE'RE GONNA WRITE IT BACK TO H. T. M. L. I MEAN X. M. L. IF WE TAKE IF WE DID THE PROCESSING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1760,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE071",
+    "duration_s": 9.09
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0139583_0140140.wav",
+    "reference": "IF IT'S GONNA TAKE TOO LONG WE'LL THINK ABOUT WRITING IT TO A FILE AND DOING IT OFF LINE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1784,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 5.57
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0142195_0142837.wav",
+    "reference": "I MEAN TO PROCESS X. M. L. INTO LIKE IN JUST CREATES WHATEVER FILE IT'S GONNA BE IN",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1826,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 6.42
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0038266_0038901.wav",
+    "reference": "AND SAY YOU KNOW WE DIDN'T WE DECIDED THE THE R TIME IS TOO SHORT WHATEVER",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1864,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 6.35
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0020117_0020934.wav",
+    "reference": "ANYWAYS SO UM SO YEAH THIS JUST VERY GENERAL STRUCTURE UM I GUESS FROM THIS WE CAN JUST POP IN OUR LITTLE BLURBS AND AND UH",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1886,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 8.17
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H00_FEO070_0033591_0034574.wav",
+    "reference": "I THINK IT UM ONE THING THAT WE COULD PROBABLY SKIP UH TOTALLY IS THE REMOVING THINGS FROM THE AUDIO FILES",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1944,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO070",
+    "duration_s": 9.83
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0083471_0083998.wav",
+    "reference": "LIKE JUST IF THEY CHECK ALL THREE SAY TOPICS SUMMARIES BLAH BLAH BLAH HAVE THREE DIFFERENT WINDOWS COME UP",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 1996,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.27
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0040496_0041100.wav",
+    "reference": "AND I THINK WE SHOULD PROBABLY UH COMMENT EXPLICITLY ON THE MILESTONES HERE AS WELL AND SAY WE MANAGED TO DO",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2063,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 6.04
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0063436_0063952.wav",
+    "reference": "HAVE AN IMAGE IN MY MIND AND I JUST WANNA SEE IT ON THE THING AND THEN GET A NICE SCREEN SHOT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2089,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.16
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H00_FEO070_0058775_0059373.wav",
+    "reference": "YEAH WE JUST KEEP IT TOGETHER ON THE THE PAP THERE RIGHT NOW AND JUST SEE WHAT WHAT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2147,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO070",
+    "duration_s": 5.98
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0022293_0022953.wav",
+    "reference": "UM DID SOMEONE ELSE WANNA THROW IT TOGETH ACTUALLY I CAN PROBABLY STILL THROW IT TOGETHER IF YOU WANT UM PUT YOUR PARTS INTO INTO THIS ONE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2175,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 6.6
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0134416_0135016.wav",
+    "reference": "YOU COULD NEARLY DO IT TOGETHER WITH WITH UH THE TRANSCRIPTION WITH THE ORIGINAL TRANSCRIPTION HAVE THEM RUN PARALLEL",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2210,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 6.0
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0061780_0062365.wav",
+    "reference": "UM I FOUND FINALLY TODAY SOMETHING THAT I CAN BUILD IT IN AND IT UH I SHOULD HAVE SOMETHING FOR TOMORROW",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2222,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.85
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0130967_0131486.wav",
+    "reference": "UNLESS WE EXTRACT THAT OUT OF THE FILE WHEN WE CREATE THE TEXT FILE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2248,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.19
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H03_MEE073_0015897_0016426.wav",
+    "reference": "WELL IT'S SOMETHING THAT HE HAD MENTIONED IN THE UM IN THE PREVIOUS LIKE JUST TO SORT OF HAVE A PROTOTYPE TOGETHER",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2273,
+    "meeting_id": "EN2002b",
+    "speaker_id": "MEE073",
+    "duration_s": 5.29
+  },
+  {
+    "file": "meeting/AMI_EN2002b_H02_FEO072_0027852_0028436.wav",
+    "reference": "YOU ALWAYS MAKE ME FEEL BAD BECAUSE UH WHEN I GO TO BED AT LIKE ONE YOU'RE STILL ONLINE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2309,
+    "meeting_id": "EN2002b",
+    "speaker_id": "FEO072",
+    "duration_s": 5.84
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H01_FEO072_0127554_0128257.wav",
+    "reference": "I MEAN YOU CAN UH YOU KNOW THE OPTION IS TO DO A SEARCH IN THE WAY THAT YOU D IF YOU DO A GLOBAL SEARCH",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2360,
+    "meeting_id": "EN2002c",
+    "speaker_id": "FEO072",
+    "duration_s": 7.03
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H01_FEO072_0103036_0103596.wav",
+    "reference": "M I MEAN AT THE MOMENT THE WAY IT IS IT'S UH IT'S A DROP DOWN MENU AS YOU'VE SEEN",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2386,
+    "meeting_id": "EN2002c",
+    "speaker_id": "FEO072",
+    "duration_s": 5.6000625
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0176931_0177652.wav",
+    "reference": "BUT IF IT'S SORT LIKE IF THE N. X. T. SEARCH HAS STILL GOTTA BE RUN TO FIND THESE TERMS OR THESE YOU KNOW THESE PATTERNS THEN UH",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2401,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 7.21
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0145030_0146188.wav",
+    "reference": "TERM FREQUENCY IS THE AMOUNT THAT THAT IT OCCURS IN EA ONE OF THEM IS THE AMOUNT IT OCCURS IN EACH DOCUMENT AND THE OTHER ONE IS THE AMOUNT IT G OCCURS GENERALLY",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2414,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 11.58
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0028342_0028849.wav",
+    "reference": "I MEAN SEARCH RESULTS IF THEY'RE ALL IN A PREDICTABLE THING WITH A NAME CERTAIN PROPERTIES OR A LIST OF PROPERTIES A VECTOR",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2438,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 5.07
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0135332_0135852.wav",
+    "reference": "I WANNA SEE THE MEETINGS ABOUT EVEN BETTER UNDERSTANDING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2479,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.2
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H01_FEO072_0167133_0167654.wav",
+    "reference": "BASICALLY ALL OF THE MEETINGS YOU WANNA SEE WHERE THEY ACTUALLY SPOKE ABOUT IT AND WHERE THEY JUST MENTIONED IT ONCE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2495,
+    "meeting_id": "EN2002c",
+    "speaker_id": "FEO072",
+    "duration_s": 5.21
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0213571_0214400.wav",
+    "reference": "SO THE F ONLY THING THAT COMES UP WHEN YOU'RE FINISHED IS A UM WHEN YOU START IT'S JUST ONE WINDOW LIKE THAT AND IT'S GOT ALL THE SEARCH STUFF LIKE DOWN THERE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2529,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 8.29
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0165350_0165897.wav",
+    "reference": "BUT TH UM THE THING IS WE'RE JUST LOOKING FOR WHEN IT HAPPENS IN A MEETING IF THEY'RE LOOKING FOR PARTICULAR TERM OR SOMETHING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2572,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 5.47
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0075245_0075906.wav",
+    "reference": "BUT I WILL YEAH I WAS GOING TO UPDATE THAT ONE JUST 'CAUSE YEAH IT JUST MAKES SENSE THAT THEN YOU THEN YOU CAN TEST OUT YEAH",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2590,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 6.61
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0031695_0032375.wav",
+    "reference": "SO IT CAN EITHER COME BACK AS A YOU CAN HAVE THE HASH TABLE OR YOU CAN HAVE IT RETURNED AS A VECTOR AND IT WILL SAY NOISE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2637,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 6.8
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0130271_0130817.wav",
+    "reference": "MA MAKE IT STRINGS FOR AS LONG AS POSSIBLE AND THEN ONLY RETURN THE THINGS WHEN THEY ACTUALLY NEEDS TO HAS TO SEARCH",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2643,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.46
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0180351_0180980.wav",
+    "reference": "I IF S IF YOU WERE IS THERE'S A LO WHOLE LOAD ABOUT IT IN MANNING AND SCHUTZ",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2672,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 6.29
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0030913_0031695.wav",
+    "reference": "SO AND THEN IT'S GOT INSIDE IT'S GOT A LINK FOR IT'S GOT A IT'S GOT THE N SPEAKER'S NAME AND THEN IT'S GOT THEIR PERCENTAGE FOR THAT THING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2697,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 7.82
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0240169_0241198.wav",
+    "reference": "OH IT'S A EXTENDED VERSION OF A STOP IT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2707,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 10.29
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0167571_0168186.wav",
+    "reference": "BUT IF IT'S LIKE A TWO WORD TERM DOES THE T. F. I. D. F. HANDLE THAT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2753,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 6.15
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H01_FEO072_0083866_0084550.wav",
+    "reference": "SO YOU CAN QUITE EASILY IF YOUR TEXT AREA IS CALLED AREA YOU JUST DO AREA DOT SET HIGHLIGHTS OR SOMETHING YOU KNOW",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2771,
+    "meeting_id": "EN2002c",
+    "speaker_id": "FEO072",
+    "duration_s": 6.84
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0253648_0254165.wav",
+    "reference": "THEN IF THREE O'CLOCK'S A PROBLEM FIVE OR SIX WILL BE A PROBLEM 'CAUSE I WON'T BE HERE",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2801,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.17
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H01_FEO072_0058078_0058747.wav",
+    "reference": "YOU HAVE THE OPTION OF POP POPPING OPEN A WINDOW WHICH GIVES YOU A LIST OF ALL THE MEETINGS CONTAINING THAT TOPIC",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2829,
+    "meeting_id": "EN2002c",
+    "speaker_id": "FEO072",
+    "duration_s": 6.69
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0158970_0159494.wav",
+    "reference": "NO NO NO BUT THAT'S WHAT ISN'T THAT WHAT THE IDEA WAS IN THE FIRST PLACE TO RANK THESE RANK THE RESULTS SO THAT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2856,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.24
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0261426_0262136.wav",
+    "reference": "WELL I D I KINDA THINK IT WOULD COMPLICATE THINGS QUITE A BIT AND NOT BRING US A LOT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2861,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 7.1
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0066787_0067293.wav",
+    "reference": "AND YOU'D HAVE TO AND THEN YOU'D HAVE A V MULTIPLE COPIES OF OBJECTS ALL OVER THE PLACE AND IT'D GET SILLY I THINK",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2883,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.06
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0010769_0011623.wav",
+    "reference": "UM ONE THING THAT I WAS WONDERING IS THERE A STANDARD CONTROL THAT YOU USE TO CONNECT THE DIFFERENT THINGS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2914,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 8.54
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0265179_0265811.wav",
+    "reference": "IT JUST DOESN'T YOU'RE LOOKING FOR THAT TERM AND RELEVANCE IS KIND OF IRRELEVANT BECAUSE IF THE TERM SHOWS UP IT SHOWS UP",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2928,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 6.32
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0281067_0281627.wav",
+    "reference": "YEAH THERE ARE ALREADY SEVENTY F BUT THERE ARE SEVENTY FIVE MEETING",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2950,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.6
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0085892_0086548.wav",
+    "reference": "UM SO YEAH JUST A FEW MORE THINGS TO DO WITH THAT AND THEN UH ONCE PERNILLA GETS THE UH THE INDEX",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2959,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 6.56
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H01_FEO072_0119572_0120392.wav",
+    "reference": "BUT YEAH THE THE GLOBAL UM INVERTED FILE SEARCH GIVES THE NOM OBJECTS BASICALLY TO THE LOCAL SEARCH RIGHT",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 2985,
+    "meeting_id": "EN2002c",
+    "speaker_id": "FEO072",
+    "duration_s": 8.2
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0279167_0279738.wav",
+    "reference": "BUT YOU HAVE NO RANKING SYSTEM AT THE MOMENT SO IF SOMETHING'S AN AMAZING W HIGHLY RANKED THING FROM T. F. I. D. F.",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 3010,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.71
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0029102_0030576.wav",
+    "reference": "SO UM SO I CAN HAVE IT SO THAT IT RETURNS YOU A 'CAUSE AT THE MOMENT THE MAIN DATA STRUCTURES ARE HASH TABLES FOR THE MEETINGS THAT SAY IT'S GOT ONE THAT SAYS PERCENT IT'S CALLED PERCENT TALK",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 3025,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 14.74
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0020295_0020877.wav",
+    "reference": "SO AND THEN THEY WR IT WRITES OBJECTS AND THE OBJECTS CONTAIN ALL THE INFORMATION ABOUT THE MEETINGS AND THE SPEAKERS",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 3040,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 5.82
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H03_MEE073_0273225_0273883.wav",
+    "reference": "'CAUSE IF WE ARE USING THAT I MEAN IT DOES MAKE SENSE FOR THAT BUT UH YEAH AND JUST ACTUALLY YEAH",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 3103,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE073",
+    "duration_s": 6.58
+  },
+  {
+    "file": "meeting/AMI_EN2002c_H02_MEE071_0156222_0157189.wav",
+    "reference": "THE EASY BIT IS IT'S PROBABLY THE EASIEST TO CALCULATE THEM BASED UPON IN THEIR WHOLE OCCURRENCES IN I IN THE CORPUS THAN IT IS TO CALCULATE THEM PER TOPIC",
+    "group": "ami-ihm-100",
+    "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+    "source_row": 3121,
+    "meeting_id": "EN2002c",
+    "speaker_id": "MEE071",
+    "duration_s": 9.67
+  }
+]

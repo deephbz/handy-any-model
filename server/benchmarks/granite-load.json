@@ -1,0 +1,8 @@
+{
+  "model": "mlx-community/granite-speech-4.1-2b-nar-mlx-5bit",
+  "cached_cold_load_s": 9.280697749985848,
+  "model_directory_bytes": 2375148708,
+  "process_peak_rss_bytes": 2870099968,
+  "metal_peak_bytes": 2371013000,
+  "definition": "fresh process; imports and cache resolution excluded; weights cached; evaluated parameters for MLX models"
+}

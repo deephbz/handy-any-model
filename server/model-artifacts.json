@@ -1,0 +1,163 @@
+[
+  {
+    "model": "mlx-community/parakeet-tdt-0.6b-v3",
+    "revision": "ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "source": "https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v3/tree/ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15",
+    "files": [
+      {
+        "name": "config.json",
+        "bytes": 244093
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 2508288736
+      },
+      {
+        "name": "tokenizer.model",
+        "bytes": 360916
+      },
+      {
+        "name": "vocab.txt",
+        "bytes": 46772
+      }
+    ]
+  },
+  {
+    "model": "mlx-community/Qwen3-ASR-1.7B-4bit",
+    "revision": "78a389c776a5483b2d0d4ea5494e11012e0d6159",
+    "source": "https://huggingface.co/mlx-community/Qwen3-ASR-1.7B-4bit/tree/78a389c776a5483b2d0d4ea5494e11012e0d6159",
+    "files": [
+      {
+        "name": "chat_template.json",
+        "bytes": 1161
+      },
+      {
+        "name": "config.json",
+        "bytes": 7188
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 142
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 1671853
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 1603081617
+      },
+      {
+        "name": "model.safetensors.index.json",
+        "bytes": 78968
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 330
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 12487
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 2776833
+      }
+    ]
+  },
+  {
+    "model": "mlx-community/Qwen3-ASR-1.7B-8bit",
+    "revision": "a8379a2e2f9e313c9292cdf1af4055ab56d50d55",
+    "source": "https://huggingface.co/mlx-community/Qwen3-ASR-1.7B-8bit/tree/a8379a2e2f9e313c9292cdf1af4055ab56d50d55",
+    "files": [
+      {
+        "name": "chat_template.json",
+        "bytes": 1161
+      },
+      {
+        "name": "config.json",
+        "bytes": 7188
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 142
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 1671853
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 2463307541
+      },
+      {
+        "name": "model.safetensors.index.json",
+        "bytes": 78968
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 330
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 12487
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 2776833
+      }
+    ]
+  },
+  {
+    "model": "mlx-community/granite-speech-4.1-2b-nar-mlx-5bit",
+    "revision": "22be7373b8b9b4cb3bd81a35ea3e8418244648b3",
+    "source": "https://huggingface.co/mlx-community/granite-speech-4.1-2b-nar-mlx-5bit/tree/22be7373b8b9b4cb3bd81a35ea3e8418244648b3",
+    "files": [
+      {
+        "name": "chat_template.jinja",
+        "bytes": 6418
+      },
+      {
+        "name": "config.json",
+        "bytes": 2704
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 38
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 2367984327
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 289
+      },
+      {
+        "name": "processor_config.json",
+        "bytes": 153
+      },
+      {
+        "name": "special_tokens_map.json",
+        "bytes": 579
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 7153802
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 398
+      }
+    ]
+  },
+  {
+    "model": "FermionResearch/Phonon-2",
+    "profile": "five-value",
+    "archive": "phonon-2.bps.tar.zst",
+    "archive_sha256": "98125795b6dda72f5c6eee9ba33d19815df65dcb18b50a357bf9f73c9935309e",
+    "download_bytes": 163515201,
+    "unpacked_bytes": 177716675,
+    "source": "https://huggingface.co/FermionResearch/Phonon-2"
+  }
+]

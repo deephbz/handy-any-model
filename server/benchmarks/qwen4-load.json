@@ -1,0 +1,8 @@
+{
+  "model": "mlx-community/Qwen3-ASR-1.7B-4bit",
+  "cached_cold_load_s": 4.478044582996517,
+  "model_directory_bytes": 1607630579,
+  "process_peak_rss_bytes": 1509408768,
+  "metal_peak_bytes": 1609349840,
+  "definition": "fresh process; imports and cache resolution excluded; weights cached; evaluated parameters for MLX models"
+}

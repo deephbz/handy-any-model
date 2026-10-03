@@ -1,0 +1,8 @@
+{
+  "model": "mlx-community/parakeet-tdt-0.6b-v3",
+  "cached_cold_load_s": 3.6749142089975066,
+  "model_directory_bytes": 2508940517,
+  "process_peak_rss_bytes": 2141372416,
+  "metal_peak_bytes": 2549697304,
+  "definition": "fresh process; imports and cache resolution excluded; weights cached; evaluated parameters for MLX models"
+}

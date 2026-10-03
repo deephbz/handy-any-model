@@ -1,0 +1,2531 @@
+{
+  "created_at": "2026-10-03T02:15:15.108015+00:00",
+  "model": "mlx-community/parakeet-tdt-0.6b-v3",
+  "endpoint": "http://127.0.0.1:8178/v1/audio/transcriptions",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "versions": {
+    "mlx-audio": "0.5.6",
+    "mlx": "0.32.2",
+    "jiwer": "4.0.0"
+  },
+  "normalization": "lowercase; remove punctuation; collapse spaces; strip; no number expansion",
+  "warmup_request_s": 5.0907224160037,
+  "peak_sampled_rss_bytes": 2149859328,
+  "rss_sampling_interval_s": 0.02,
+  "wer": 0.10167910447761194,
+  "errors": 218,
+  "reference_words": 2144,
+  "rows": [
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0064139_0064653.wav",
+      "reference": "YOU OPEN THE WINDOW YOU READ THROUGH IT YOU MIGHT CLICK ON YOU KNOW CLOSE IT AGAIN STRAIGHT AWAY",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 28,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 5.14,
+      "hypothesis": "you open the window, you read through it, you might click on you know, close it again straight away.",
+      "normalized_reference": "you open the window you read through it you might click on you know close it again straight away",
+      "normalized_hypothesis": "you open the window you read through it you might click on you know close it again straight away",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.1328948339796625
+      ],
+      "median_latency_s": 0.1328948339796625,
+      "repeat_hypotheses": [
+        "you open the window, you read through it, you might click on you know, close it again straight away."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0032731_0033237.wav",
+      "reference": "WE DON'T WE'RE NOT ACTUALLY SURE WHAT THE USER WANTS WITH IT BUT IT'S INTERESTING SO WHY NOT GIVE IT TO HIM",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 36,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 5.06,
+      "hypothesis": "We don't we're not actually sure what the user wants with it, but it's interesting, so why not give it to him?",
+      "normalized_reference": "we dont were not actually sure what the user wants with it but its interesting so why not give it to him",
+      "normalized_hypothesis": "we dont were not actually sure what the user wants with it but its interesting so why not give it to him",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 22,
+      "latencies_s": [
+        0.2244910419685766
+      ],
+      "median_latency_s": 0.2244910419685766,
+      "repeat_hypotheses": [
+        "We don't we're not actually sure what the user wants with it, but it's interesting, so why not give it to him?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0069723_0070329.wav",
+      "reference": "YEAH UH CHANGE THE CONTENTS OF THE SAME WINDOW LIKE FROM TRANSCRIPTION TO SUMMARY",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 52,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 6.06,
+      "hypothesis": "Yeah, change the contents of the same window. Like from transcription to summary.",
+      "normalized_reference": "yeah uh change the contents of the same window like from transcription to summary",
+      "normalized_hypothesis": "yeah change the contents of the same window like from transcription to summary",
+      "wer": 0.07142857142857142,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 14,
+      "latencies_s": [
+        0.12865329202031717
+      ],
+      "median_latency_s": 0.12865329202031717,
+      "repeat_hypotheses": [
+        "Yeah, change the contents of the same window. Like from transcription to summary."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0005142_0005935.wav",
+      "reference": "WE'VE GO A BROWSER WE'VE UM WHICH COMES UP AUTOMATICALLY WITH A TRANSCRIPTION BOX AND THE TOPICS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 78,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 7.93,
+      "hypothesis": "We've got a browser with um which comes up automatically with the transcription box and the topics.",
+      "normalized_reference": "weve go a browser weve um which comes up automatically with a transcription box and the topics",
+      "normalized_hypothesis": "weve got a browser with um which comes up automatically with the transcription box and the topics",
+      "wer": 0.17647058823529413,
+      "substitutions": 3,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 17,
+      "latencies_s": [
+        0.1405840419465676
+      ],
+      "median_latency_s": 0.1405840419465676,
+      "repeat_hypotheses": [
+        "We've got a browser with um which comes up automatically with the transcription box and the topics."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H00_MEE073_0077098_0077878.wav",
+      "reference": "HAVE ALL THESE SORT OF USING THE SAME WINDOW AND SO WE CAN PUT A LOT OF AND PROBABLY MUTUALLY UM WHATE DISTINCT YEAH",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 94,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE073",
+      "duration_s": 7.8,
+      "hypothesis": "Have all these sort of using the same window and so we can put a lot of and probably mutually um was it distinct.",
+      "normalized_reference": "have all these sort of using the same window and so we can put a lot of and probably mutually um whate distinct yeah",
+      "normalized_hypothesis": "have all these sort of using the same window and so we can put a lot of and probably mutually um was it distinct",
+      "wer": 0.125,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 1,
+      "reference_words": 24,
+      "latencies_s": [
+        0.15597812499618158
+      ],
+      "median_latency_s": 0.15597812499618158,
+      "repeat_hypotheses": [
+        "Have all these sort of using the same window and so we can put a lot of and probably mutually um was it distinct."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0199647_0200193.wav",
+      "reference": "IT SHOULD BE IT SHOULDN'T BE ANY WELL IT'S SUPPOSED TO BE NEXT WEEK",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 157,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 5.46,
+      "hypothesis": "week. It should be it shouldn't be any well, it's supposed to be next week.",
+      "normalized_reference": "it should be it shouldnt be any well its supposed to be next week",
+      "normalized_hypothesis": "week it should be it shouldnt be any well its supposed to be next week",
+      "wer": 0.07142857142857142,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 14,
+      "latencies_s": [
+        0.12649591598892584
+      ],
+      "median_latency_s": 0.12649591598892584,
+      "repeat_hypotheses": [
+        "week. It should be it shouldn't be any well, it's supposed to be next week."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0145209_0145714.wav",
+      "reference": "SO BASICALLY WE GO AND GO AND DO SOME WORK REALLY I THINK THAT'S THE UM THE UM THE ANSWER TO THAT ISN'T IT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 192,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 5.05,
+      "hypothesis": "So basically we've got kind of do some work really, yeah. That's the the um the answer to that, isn't it?",
+      "normalized_reference": "so basically we go and go and do some work really i think thats the um the um the answer to that isnt it",
+      "normalized_hypothesis": "so basically weve got kind of do some work really yeah thats the the um the answer to that isnt it",
+      "wer": 0.3333333333333333,
+      "substitutions": 5,
+      "deletions": 3,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.12597100000130013
+      ],
+      "median_latency_s": 0.12597100000130013,
+      "repeat_hypotheses": [
+        "So basically we've got kind of do some work really, yeah. That's the the um the answer to that, isn't it?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0059679_0060216.wav",
+      "reference": "YEAH 'CAUSE OTHERWISE IT WILL THE IT WILL INCREASE THE AMOUNT OF DATA WE NEED BY A LOT WON'T IT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 213,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 5.37,
+      "hypothesis": "Yeah, 'cause otherwise it will the it will increase the amount of data we need by a lot, won't it? Yeah.",
+      "normalized_reference": "yeah cause otherwise it will the it will increase the amount of data we need by a lot wont it",
+      "normalized_hypothesis": "yeah cause otherwise it will the it will increase the amount of data we need by a lot wont it yeah",
+      "wer": 0.05,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 20,
+      "latencies_s": [
+        0.13854570797411725
+      ],
+      "median_latency_s": 0.13854570797411725,
+      "repeat_hypotheses": [
+        "Yeah, 'cause otherwise it will the it will increase the amount of data we need by a lot, won't it? Yeah."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0130698_0131380.wav",
+      "reference": "FOUR AND IT W IT LI IT JUST HAS AN OPEN VARIABLE TRANSPARENT S LIST WHATEVER FIND EVERYTHING THAT'S GOT THAT AND THEN LOAD",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 221,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 6.82,
+      "hypothesis": "Four and it whi like it just has an open variable, transcript this, whatever, find everything that's got that and then load",
+      "normalized_reference": "four and it w it li it just has an open variable transparent s list whatever find everything thats got that and then load",
+      "normalized_hypothesis": "four and it whi like it just has an open variable transcript this whatever find everything thats got that and then load",
+      "wer": 0.25,
+      "substitutions": 4,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.1561190409702249
+      ],
+      "median_latency_s": 0.1561190409702249,
+      "repeat_hypotheses": [
+        "Four and it whi like it just has an open variable, transcript this, whatever, find everything that's got that and then load"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0100130_0101160.wav",
+      "reference": "I BASI I S STARTED LIKE BROWSING A BIT JUST LIKE TRYING TO SEE IF THERE'S ANYTHING OUT THERE TO USE S SORT OF UM JUST",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 247,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 10.3,
+      "hypothesis": "I basic I started like browsing a bit, just like trying to see if there's anything out there to use, sort of. Um just",
+      "normalized_reference": "i basi i s started like browsing a bit just like trying to see if theres anything out there to use s sort of um just",
+      "normalized_hypothesis": "i basic i started like browsing a bit just like trying to see if theres anything out there to use sort of um just",
+      "wer": 0.11538461538461539,
+      "substitutions": 1,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 26,
+      "latencies_s": [
+        0.2129287919960916
+      ],
+      "median_latency_s": 0.2129287919960916,
+      "repeat_hypotheses": [
+        "I basic I started like browsing a bit, just like trying to see if there's anything out there to use, sort of. Um just"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0109230_0110041.wav",
+      "reference": "SO IT WILL COME UP ON THE SCREEN FOR THE MOMENT I HAVEN'T MANAGED TO PUT IT INTO A VECTOR OR WHATEVER IN JAVA TO PLAY WITH IT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 260,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 8.11,
+      "hypothesis": "So it'll come up on the screen. For the moment I haven't managed to put it into a vector or whatever in Java to play with it.",
+      "normalized_reference": "so it will come up on the screen for the moment i havent managed to put it into a vector or whatever in java to play with it",
+      "normalized_hypothesis": "so itll come up on the screen for the moment i havent managed to put it into a vector or whatever in java to play with it",
+      "wer": 0.07142857142857142,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 28,
+      "latencies_s": [
+        0.20537858398165554
+      ],
+      "median_latency_s": 0.20537858398165554,
+      "repeat_hypotheses": [
+        "So it'll come up on the screen. For the moment I haven't managed to put it into a vector or whatever in Java to play with it."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0113394_0114347.wav",
+      "reference": "UM YEAH I GUESS I MEAN IT WAS A GOOD POINT YOU HAD THAT LIKE COLLABORATING WITH THE FILE THINGS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 283,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 9.53,
+      "hypothesis": "Um yeah, I guess I mean it was a good point you had that like collaborating with the FAL things",
+      "normalized_reference": "um yeah i guess i mean it was a good point you had that like collaborating with the file things",
+      "normalized_hypothesis": "um yeah i guess i mean it was a good point you had that like collaborating with the fal things",
+      "wer": 0.05,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 20,
+      "latencies_s": [
+        0.22818808298325166
+      ],
+      "median_latency_s": 0.22818808298325166,
+      "repeat_hypotheses": [
+        "Um yeah, I guess I mean it was a good point you had that like collaborating with the FAL things"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0039120_0039859.wav",
+      "reference": "WE WANNA SOMEHOW CLICK BE ABLE TO CLICK ON A TOPIC AND IT POPS UP WITH ALL THE MEETINGS THAT CONTAIN THAT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 337,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 7.39,
+      "hypothesis": "We wanna somehow click be able to click on a topic and it pops up with all the meetings that contain that.",
+      "normalized_reference": "we wanna somehow click be able to click on a topic and it pops up with all the meetings that contain that",
+      "normalized_hypothesis": "we wanna somehow click be able to click on a topic and it pops up with all the meetings that contain that",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 22,
+      "latencies_s": [
+        0.21119825000641868
+      ],
+      "median_latency_s": 0.21119825000641868,
+      "repeat_hypotheses": [
+        "We wanna somehow click be able to click on a topic and it pops up with all the meetings that contain that."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0132084_0132683.wav",
+      "reference": "YEAH YEAH 'CAUSE THAT'S THE UH THE DECLARES A VARIABLE DOESN'T IT AND THEN THEY KEEP OKAY",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 363,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 5.99,
+      "hypothesis": "Yeah, yeah, because that's the uh the guy c declares a variable, doesn't it, and then he can probably not.",
+      "normalized_reference": "yeah yeah cause thats the uh the declares a variable doesnt it and then they keep okay",
+      "normalized_hypothesis": "yeah yeah because thats the uh the guy c declares a variable doesnt it and then he can probably not",
+      "wer": 0.4117647058823529,
+      "substitutions": 4,
+      "deletions": 0,
+      "insertions": 3,
+      "reference_words": 17,
+      "latencies_s": [
+        0.2513011249830015
+      ],
+      "median_latency_s": 0.2513011249830015,
+      "repeat_hypotheses": [
+        "Yeah, yeah, because that's the uh the guy c declares a variable, doesn't it, and then he can probably not."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0071903_0072556.wav",
+      "reference": "NO NO IT COULD BE LIKE TRANSCRIPTION SUMMARY LIKE TWO BUTTONS AND YOU JUST PRESS ON WHICH EVER YOU WANT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 403,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 6.53,
+      "hypothesis": "No, no, it could be like transcription summary, like two butters and you just press on whichever you want.",
+      "normalized_reference": "no no it could be like transcription summary like two buttons and you just press on which ever you want",
+      "normalized_hypothesis": "no no it could be like transcription summary like two butters and you just press on whichever you want",
+      "wer": 0.15,
+      "substitutions": 2,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 20,
+      "latencies_s": [
+        0.23684974998468533
+      ],
+      "median_latency_s": 0.23684974998468533,
+      "repeat_hypotheses": [
+        "No, no, it could be like transcription summary, like two butters and you just press on whichever you want."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0115980_0116747.wav",
+      "reference": "I MEAN I DON'T KNOW SEE WHAT YOU'VE DONE AND SEE WHAT WE NEED WHEN WE KNOW MORE OF WHAT WE NEED MAYBE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 414,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 7.67,
+      "hypothesis": "I mean, I don't know, see what you've done and see what we need. Well we know more of what we need maybe.",
+      "normalized_reference": "i mean i dont know see what youve done and see what we need when we know more of what we need maybe",
+      "normalized_hypothesis": "i mean i dont know see what youve done and see what we need well we know more of what we need maybe",
+      "wer": 0.043478260869565216,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 23,
+      "latencies_s": [
+        0.28315791697241366
+      ],
+      "median_latency_s": 0.28315791697241366,
+      "repeat_hypotheses": [
+        "I mean, I don't know, see what you've done and see what we need. Well we know more of what we need maybe."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0192089_0192700.wav",
+      "reference": "WELL IF YOU FIND ME I'LL SHOW YOU WHERE I'LL I'LL LET US ALL IN THERE AND WE CAN ALL GO IN THERE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 471,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 6.11,
+      "hypothesis": "Well if you find me, I'll show you where I'll I'll let us all in there and we can all go in there.",
+      "normalized_reference": "well if you find me ill show you where ill ill let us all in there and we can all go in there",
+      "normalized_hypothesis": "well if you find me ill show you where ill ill let us all in there and we can all go in there",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 23,
+      "latencies_s": [
+        0.21888216596562415
+      ],
+      "median_latency_s": 0.21888216596562415,
+      "repeat_hypotheses": [
+        "Well if you find me, I'll show you where I'll I'll let us all in there and we can all go in there."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0122961_0124017.wav",
+      "reference": "IT WAS THERE WHEN I TOOK IT UM USES THE UM THE N. X. T. SEARCH TO GET THE DATA OUT OF THE OUT THE FILES",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 510,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 10.56,
+      "hypothesis": "It was there when I took it. Um uses the um the NXT search to get the data out of the out of the files.",
+      "normalized_reference": "it was there when i took it um uses the um the n x t search to get the data out of the out the files",
+      "normalized_hypothesis": "it was there when i took it um uses the um the nxt search to get the data out of the out of the files",
+      "wer": 0.15384615384615385,
+      "substitutions": 1,
+      "deletions": 2,
+      "insertions": 1,
+      "reference_words": 26,
+      "latencies_s": [
+        0.3356449580169283
+      ],
+      "median_latency_s": 0.3356449580169283,
+      "repeat_hypotheses": [
+        "It was there when I took it. Um uses the um the NXT search to get the data out of the out of the files."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0112504_0113049.wav",
+      "reference": "I'M SURE I'M MAKING A MEAL OF IT AT THE MOMENT ACTUALLY",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 543,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 5.45,
+      "hypothesis": "I'm sure I'm making a mail of it at the moment lately.",
+      "normalized_reference": "im sure im making a meal of it at the moment actually",
+      "normalized_hypothesis": "im sure im making a mail of it at the moment lately",
+      "wer": 0.16666666666666666,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 12,
+      "latencies_s": [
+        0.26627162500517443
+      ],
+      "median_latency_s": 0.26627162500517443,
+      "repeat_hypotheses": [
+        "I'm sure I'm making a mail of it at the moment lately."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0028511_0029029.wav",
+      "reference": "YEAH UM I DON'T I MEAN IT W IT'S MORE LIKE PART OF THE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 577,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 5.18,
+      "hypothesis": "Um I don't I mean i it's more like part of the",
+      "normalized_reference": "yeah um i dont i mean it w its more like part of the",
+      "normalized_hypothesis": "um i dont i mean i its more like part of the",
+      "wer": 0.21428571428571427,
+      "substitutions": 1,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 14,
+      "latencies_s": [
+        0.2710094999638386
+      ],
+      "median_latency_s": 0.2710094999638386,
+      "repeat_hypotheses": [
+        "Um I don't I mean i it's more like part of the"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0041128_0042077.wav",
+      "reference": "SO WE HAVE BASICALLY TWO OPTIONS OF OF BROWSING THE MEETINGS IS BY EITHER UM SEARCHING AND OPENING INDIVIDUAL OBSERVATIONS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 608,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 9.49,
+      "hypothesis": "So we have basically two options of of browsing the meetings is by either um searching and opening individual observations.",
+      "normalized_reference": "so we have basically two options of of browsing the meetings is by either um searching and opening individual observations",
+      "normalized_hypothesis": "so we have basically two options of of browsing the meetings is by either um searching and opening individual observations",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 20,
+      "latencies_s": [
+        0.3177676670020446
+      ],
+      "median_latency_s": 0.3177676670020446,
+      "repeat_hypotheses": [
+        "So we have basically two options of of browsing the meetings is by either um searching and opening individual observations."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0101792_0102458.wav",
+      "reference": "SO IT JUST FOUND A TUTORIAL BUT I INVERTED SEARCH IN INDEXING BUT I HAVEN'T READ IT YET",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 639,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 6.6599375,
+      "hypothesis": "",
+      "normalized_reference": "so it just found a tutorial but i inverted search in indexing but i havent read it yet",
+      "normalized_hypothesis": "",
+      "wer": 1.0,
+      "substitutions": 0,
+      "deletions": 18,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.22794400004204363
+      ],
+      "median_latency_s": 0.22794400004204363,
+      "repeat_hypotheses": [
+        ""
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0057083_0057836.wav",
+      "reference": "I MEAN WE MIGHT USE THEM WHILE WO TO WORK WITH THEM BUT DO WE WANNA INTEGRATE THEM IN SO THAT WHEN YOU BROWSE YOU CAN HERE'S",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 709,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 7.53,
+      "hypothesis": "I mean we might use them while w to work with them, but do we wanna integrate them so that when you browse you can hear",
+      "normalized_reference": "i mean we might use them while wo to work with them but do we wanna integrate them in so that when you browse you can heres",
+      "normalized_hypothesis": "i mean we might use them while w to work with them but do we wanna integrate them so that when you browse you can hear",
+      "wer": 0.1111111111111111,
+      "substitutions": 2,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 27,
+      "latencies_s": [
+        0.2308358330046758
+      ],
+      "median_latency_s": 0.2308358330046758,
+      "repeat_hypotheses": [
+        "I mean we might use them while w to work with them, but do we wanna integrate them so that when you browse you can hear"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0152113_0152802.wav",
+      "reference": "WELL I'M DOING COMMUNICATIONS WHICH WE HAD ONE EXERCISE AND I'VE DONE THAT LIKE TWO WEEKS AGO",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 736,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 6.89,
+      "hypothesis": "Well I'm doing communications, which we had one exercise and I've done that like two weeks ago.",
+      "normalized_reference": "well im doing communications which we had one exercise and ive done that like two weeks ago",
+      "normalized_hypothesis": "well im doing communications which we had one exercise and ive done that like two weeks ago",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 17,
+      "latencies_s": [
+        0.18492791603785008
+      ],
+      "median_latency_s": 0.18492791603785008,
+      "repeat_hypotheses": [
+        "Well I'm doing communications, which we had one exercise and I've done that like two weeks ago."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0020774_0021798.wav",
+      "reference": "I GUESS A BUTTON BUTTON MAKES A BIT MORE SENSE 'CAUSE OTHERWISE YOU DON'T REALLY KNOW THAT OH WHAT IF I RIGHT CLICK NOW WHAT HAPPENS THEN",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 776,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 10.24,
+      "hypothesis": "I guess a buttum button makes a bit more sense 'cause otherwise you don't really know that oh what if I right click now? What happens then?",
+      "normalized_reference": "i guess a button button makes a bit more sense cause otherwise you dont really know that oh what if i right click now what happens then",
+      "normalized_hypothesis": "i guess a buttum button makes a bit more sense cause otherwise you dont really know that oh what if i right click now what happens then",
+      "wer": 0.037037037037037035,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 27,
+      "latencies_s": [
+        0.25295520800864324
+      ],
+      "median_latency_s": 0.25295520800864324,
+      "repeat_hypotheses": [
+        "I guess a buttum button makes a bit more sense 'cause otherwise you don't really know that oh what if I right click now? What happens then?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0124736_0125544.wav",
+      "reference": "TO GET THE DATA I FOR EXAMPLE TO GET THE SUMMARISATION DATA YOU HAVE TO SEARCH FOR I THINK THE I. D. S OR SOMETHING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 798,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 8.08,
+      "hypothesis": "To get the data for example, to get the summarization data, you have to search for I think the IDs or something.",
+      "normalized_reference": "to get the data i for example to get the summarisation data you have to search for i think the i d s or something",
+      "normalized_hypothesis": "to get the data for example to get the summarization data you have to search for i think the ids or something",
+      "wer": 0.2,
+      "substitutions": 2,
+      "deletions": 3,
+      "insertions": 0,
+      "reference_words": 25,
+      "latencies_s": [
+        0.20138441701419652
+      ],
+      "median_latency_s": 0.20138441701419652,
+      "repeat_hypotheses": [
+        "To get the data for example, to get the summarization data, you have to search for I think the IDs or something."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0126372_0126907.wav",
+      "reference": "SO THEY DON'T YOU KNOW THEY DON'T SAY LOOK IN THAT AND THAT FOLDER BUT THEY SAY SEARCH EVERYTHING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 849,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 5.35,
+      "hypothesis": "So they don't you know, they don't say look in that and that folder, but they say search everything.",
+      "normalized_reference": "so they dont you know they dont say look in that and that folder but they say search everything",
+      "normalized_hypothesis": "so they dont you know they dont say look in that and that folder but they say search everything",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.15402575000189245
+      ],
+      "median_latency_s": 0.15402575000189245,
+      "repeat_hypotheses": [
+        "So they don't you know, they don't say look in that and that folder, but they say search everything."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H00_MEE073_0187237_0187767.wav",
+      "reference": "ANYTIME UM NOT AT N NOT AT NOON OR TWO OR FOUR",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 875,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE073",
+      "duration_s": 5.3,
+      "hypothesis": "Anytime, um not at not at noon or two or four.",
+      "normalized_reference": "anytime um not at n not at noon or two or four",
+      "normalized_hypothesis": "anytime um not at not at noon or two or four",
+      "wer": 0.08333333333333333,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 12,
+      "latencies_s": [
+        0.1429655000101775
+      ],
+      "median_latency_s": 0.1429655000101775,
+      "repeat_hypotheses": [
+        "Anytime, um not at not at noon or two or four."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0007975_0008475.wav",
+      "reference": "YOU HAVE TO EITHER OPEN OPEN A PARTICULAR OBSERVATION OR DO A SEARCH AND OPEN IT THROUGH THAT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 943,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 5.0,
+      "hypothesis": "You have to either open open a particular observation or do a search and open it through that.",
+      "normalized_reference": "you have to either open open a particular observation or do a search and open it through that",
+      "normalized_hypothesis": "you have to either open open a particular observation or do a search and open it through that",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.1253120000474155
+      ],
+      "median_latency_s": 0.1253120000474155,
+      "repeat_hypotheses": [
+        "You have to either open open a particular observation or do a search and open it through that."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0007304_0007975.wav",
+      "reference": "AND IT LOADS UP UM JUST THE BACKGROUND WINDOW IS EMPTY AND UM SO WHEN YOU START",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 995,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 6.71,
+      "hypothesis": "And it loads up um just the background window, so empty and um so when you start",
+      "normalized_reference": "and it loads up um just the background window is empty and um so when you start",
+      "normalized_hypothesis": "and it loads up um just the background window so empty and um so when you start",
+      "wer": 0.058823529411764705,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 17,
+      "latencies_s": [
+        0.1586504580336623
+      ],
+      "median_latency_s": 0.1586504580336623,
+      "repeat_hypotheses": [
+        "And it loads up um just the background window, so empty and um so when you start"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H00_MEE073_0037844_0038530.wav",
+      "reference": "IS THAT IS THAT FROM ANY PARTICULAR WINDOW LIKE IF WE WANNA SORTA GET LIKE IF WE WERE ON THE USERS VERSUS LIKE TOPIC OR SOMETHING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1029,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE073",
+      "duration_s": 6.86,
+      "hypothesis": "Is that is that from any particular w window? Like if we wanna sort of get like if we're on the users versus like a topic or something?",
+      "normalized_reference": "is that is that from any particular window like if we wanna sorta get like if we were on the users versus like topic or something",
+      "normalized_hypothesis": "is that is that from any particular w window like if we wanna sort of get like if were on the users versus like a topic or something",
+      "wer": 0.19230769230769232,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 3,
+      "reference_words": 26,
+      "latencies_s": [
+        0.1714105830178596
+      ],
+      "median_latency_s": 0.1714105830178596,
+      "repeat_hypotheses": [
+        "Is that is that from any particular w window? Like if we wanna sort of get like if we're on the users versus like a topic or something?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0010958_0011582.wav",
+      "reference": "EITHER WE CAN WHEN YOU CLICK ON THE THE I. D. ANY SORT OF I. D. IN THE TRANSCRIPTION BOX",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1057,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 6.24,
+      "hypothesis": "Either we can when you click on the the ID, any sort of ID in the transcription box",
+      "normalized_reference": "either we can when you click on the the i d any sort of i d in the transcription box",
+      "normalized_hypothesis": "either we can when you click on the the id any sort of id in the transcription box",
+      "wer": 0.2,
+      "substitutions": 2,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 20,
+      "latencies_s": [
+        0.14912449999246746
+      ],
+      "median_latency_s": 0.14912449999246746,
+      "repeat_hypotheses": [
+        "Either we can when you click on the the ID, any sort of ID in the transcription box"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0034102_0034749.wav",
+      "reference": "WELL IF YOU GET THE SPEAKER CHARACTERISATION THAT SOMEONE S TALKS A LOT IN UH A CERTAIN TOPIC",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1089,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 6.47,
+      "hypothesis": "Well, if you get the speaker characterization that someone s talks a lot in a certain topic",
+      "normalized_reference": "well if you get the speaker characterisation that someone s talks a lot in uh a certain topic",
+      "normalized_hypothesis": "well if you get the speaker characterization that someone s talks a lot in a certain topic",
+      "wer": 0.1111111111111111,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.1597549999714829
+      ],
+      "median_latency_s": 0.1597549999714829,
+      "repeat_hypotheses": [
+        "Well, if you get the speaker characterization that someone s talks a lot in a certain topic"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H01_FEO070_0034749_0035495.wav",
+      "reference": "AND THEN IF YOU I DON'T KNOW CLICK ON THAT TOPIC YOU GET EVERYTHING THAT'S IN THAT TOPIC OR WHATEVER",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1132,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO070",
+      "duration_s": 7.46,
+      "hypothesis": "And then if you I don't know, click on that topic you get everything that's in that topic or whatever.",
+      "normalized_reference": "and then if you i dont know click on that topic you get everything thats in that topic or whatever",
+      "normalized_hypothesis": "and then if you i dont know click on that topic you get everything thats in that topic or whatever",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 20,
+      "latencies_s": [
+        0.1670096250018105
+      ],
+      "median_latency_s": 0.1670096250018105,
+      "repeat_hypotheses": [
+        "And then if you I don't know, click on that topic you get everything that's in that topic or whatever."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0018512_0019136.wav",
+      "reference": "YEAH YEAH BUT UM I DON'T KNOW ABOUT YOU BUT UH USUALLY IN WINDOWS RIGHT CLICK DOESN'T DO ANYTHING DOES IT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1146,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 6.24,
+      "hypothesis": "Yeah, yeah, but um I don't know about you but uh usually in Windows right click doesn't do anything, does it?",
+      "normalized_reference": "yeah yeah but um i dont know about you but uh usually in windows right click doesnt do anything does it",
+      "normalized_hypothesis": "yeah yeah but um i dont know about you but uh usually in windows right click doesnt do anything does it",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 21,
+      "latencies_s": [
+        0.16650824999669567
+      ],
+      "median_latency_s": 0.16650824999669567,
+      "repeat_hypotheses": [
+        "Yeah, yeah, but um I don't know about you but uh usually in Windows right click doesn't do anything, does it?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0190469_0191133.wav",
+      "reference": "WE COULD THREE THIRTY IN THE IN THE COMPUTER ROOM IN HERE AND THEN WE CAN JUST GO STRA IF YOU CAN'T CAN YOU GET IN THE FRONT DOOR",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1169,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 6.64,
+      "hypothesis": "We c three thirty in the in the computer room in here and then we can just go stri if you can't can you get in the front door?",
+      "normalized_reference": "we could three thirty in the in the computer room in here and then we can just go stra if you cant can you get in the front door",
+      "normalized_hypothesis": "we c three thirty in the in the computer room in here and then we can just go stri if you cant can you get in the front door",
+      "wer": 0.06896551724137931,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 29,
+      "latencies_s": [
+        0.17253941600210965
+      ],
+      "median_latency_s": 0.17253941600210965,
+      "repeat_hypotheses": [
+        "We c three thirty in the in the computer room in here and then we can just go stri if you can't can you get in the front door?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0025014_0026007.wav",
+      "reference": "UM BUT ACTUALLY WHAT WE COULD DO IS ON IN THAT MENU AS WELL WE COULD HAVE AN OPTION THAT POPS UP A WINDOW WITH ALL THE ALL THE MEETINGS THAT THAT USER HAS BEEN IN",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1229,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 9.93,
+      "hypothesis": "Um but actually what we could do is on in that menu as well we could have an option that pops up a window with all the all the meetings that that user has been in.",
+      "normalized_reference": "um but actually what we could do is on in that menu as well we could have an option that pops up a window with all the all the meetings that that user has been in",
+      "normalized_hypothesis": "um but actually what we could do is on in that menu as well we could have an option that pops up a window with all the all the meetings that that user has been in",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 36,
+      "latencies_s": [
+        0.19951287499861792
+      ],
+      "median_latency_s": 0.19951287499861792,
+      "repeat_hypotheses": [
+        "Um but actually what we could do is on in that menu as well we could have an option that pops up a window with all the all the meetings that that user has been in."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H02_FEO072_0176565_0177317.wav",
+      "reference": "YEAH I MEAN I WAS GOING TO BUT YOU KNOW THE WHOLE DROP DOWN MENUS AND STUFF WHAT WE WANNA SEARCH FOR IS NOT QUITE AGREED ON",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1273,
+      "meeting_id": "EN2002a",
+      "speaker_id": "FEO072",
+      "duration_s": 7.52,
+      "hypothesis": "Yeah, I mean I was going to, but you know, the whole drop down menus and stuff, what we want to search for is not quite agreed on.",
+      "normalized_reference": "yeah i mean i was going to but you know the whole drop down menus and stuff what we wanna search for is not quite agreed on",
+      "normalized_hypothesis": "yeah i mean i was going to but you know the whole drop down menus and stuff what we want to search for is not quite agreed on",
+      "wer": 0.07407407407407407,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 27,
+      "latencies_s": [
+        0.17497991601703689
+      ],
+      "median_latency_s": 0.17497991601703689,
+      "repeat_hypotheses": [
+        "Yeah, I mean I was going to, but you know, the whole drop down menus and stuff, what we want to search for is not quite agreed on."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002a_H03_MEE071_0119796_0120427.wav",
+      "reference": "MORE DIFFI IT WAS IT WASN'T MARKED BUT IT WAS I HAD TO SIT THERE AND THINK ABOUT IT FOR A BIT WHICH IS A BIT IRRITATING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1294,
+      "meeting_id": "EN2002a",
+      "speaker_id": "MEE071",
+      "duration_s": 6.31,
+      "hypothesis": "More diff it was. It wasn't marked, but it was I had to sit there and think about it for a bit, which was a bit irritating.",
+      "normalized_reference": "more diffi it was it wasnt marked but it was i had to sit there and think about it for a bit which is a bit irritating",
+      "normalized_hypothesis": "more diff it was it wasnt marked but it was i had to sit there and think about it for a bit which was a bit irritating",
+      "wer": 0.07407407407407407,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 27,
+      "latencies_s": [
+        0.16588041599607095
+      ],
+      "median_latency_s": 0.16588041599607095,
+      "repeat_hypotheses": [
+        "More diff it was. It wasn't marked, but it was I had to sit there and think about it for a bit, which was a bit irritating."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0036928_0037935.wav",
+      "reference": "UM UM SO MAYBE I MEAN WE WE SHOULD WE SHOULD DEFINITELY WELL WE COULD PROBABLY NOT PUT IT UNDER THIS HEADING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1379,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 10.07,
+      "hypothesis": "Um so maybe I mean we we should we should definitely well we could probably not put it under this heading.",
+      "normalized_reference": "um um so maybe i mean we we should we should definitely well we could probably not put it under this heading",
+      "normalized_hypothesis": "um so maybe i mean we we should we should definitely well we could probably not put it under this heading",
+      "wer": 0.045454545454545456,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 22,
+      "latencies_s": [
+        0.22312174999387935
+      ],
+      "median_latency_s": 0.22312174999387935,
+      "repeat_hypotheses": [
+        "Um so maybe I mean we we should we should definitely well we could probably not put it under this heading."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0099364_0099946.wav",
+      "reference": "JUST THAT IT'S HARD TO TELL WHAT KIND OF OBJECT IT WAS ORIGINALLY ONCE IT'S PUT INTO LIKE A LIST BOX OR SOMETHING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1408,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.82,
+      "hypothesis": "Just that it's hard to tell what kind of object it was originally once it's put into like a listbox or something.",
+      "normalized_reference": "just that its hard to tell what kind of object it was originally once its put into like a list box or something",
+      "normalized_hypothesis": "just that its hard to tell what kind of object it was originally once its put into like a listbox or something",
+      "wer": 0.08695652173913043,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 23,
+      "latencies_s": [
+        0.16116174997296184
+      ],
+      "median_latency_s": 0.16116174997296184,
+      "repeat_hypotheses": [
+        "Just that it's hard to tell what kind of object it was originally once it's put into like a listbox or something."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0174290_0174848.wav",
+      "reference": "OKAY WE'RE CHANGING DIALOGUE BACK TO HELLO JEAN",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1428,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.58,
+      "hypothesis": "Okay, we're changing dialogue back into L O G.",
+      "normalized_reference": "okay were changing dialogue back to hello jean",
+      "normalized_hypothesis": "okay were changing dialogue back into l o g",
+      "wer": 0.5,
+      "substitutions": 3,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 8,
+      "latencies_s": [
+        0.15451987501000986
+      ],
+      "median_latency_s": 0.15451987501000986,
+      "repeat_hypotheses": [
+        "Okay, we're changing dialogue back into L O G."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0021454_0021977.wav",
+      "reference": "UM SO I DON'T KNOW IF THERE'S OTHER STUFF THAT YOU THINK SHOULD BE DONE TO THIS I COULD DO THAT BEFORE I MAIL IT TO YOU GUYS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1445,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.23,
+      "hypothesis": "Um so I don't know if there's other stuff that you think should be done to this, I could do that before I mail it to you guys.",
+      "normalized_reference": "um so i dont know if theres other stuff that you think should be done to this i could do that before i mail it to you guys",
+      "normalized_hypothesis": "um so i dont know if theres other stuff that you think should be done to this i could do that before i mail it to you guys",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 28,
+      "latencies_s": [
+        0.16588975000195205
+      ],
+      "median_latency_s": 0.16588975000195205,
+      "repeat_hypotheses": [
+        "Um so I don't know if there's other stuff that you think should be done to this, I could do that before I mail it to you guys."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0078856_0079508.wav",
+      "reference": "I THOUGHT YOU SAID THAT YOU HAD WRITTEN SOME THINGS THAT MAYBE HAVE CAUSED SOME BUGS AND THAT YOU WERE GONNA FIX THOSE ON THE WEEKEND OR SOMETHING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1489,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 6.52,
+      "hypothesis": "I thought you said that you had written some things that maybe have caused some bugs and that you were gonna fix those on the weekend or something.",
+      "normalized_reference": "i thought you said that you had written some things that maybe have caused some bugs and that you were gonna fix those on the weekend or something",
+      "normalized_hypothesis": "i thought you said that you had written some things that maybe have caused some bugs and that you were gonna fix those on the weekend or something",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 28,
+      "latencies_s": [
+        0.17468820797512308
+      ],
+      "median_latency_s": 0.17468820797512308,
+      "repeat_hypotheses": [
+        "I thought you said that you had written some things that maybe have caused some bugs and that you were gonna fix those on the weekend or something."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0046502_0047118.wav",
+      "reference": "H UM IS ARE ONE OF THOSE SOMETHING THAT YOU WANNA CHANGE AND DELETE FROM OUR LIST OF EXPECTATIONS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1537,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 6.16,
+      "hypothesis": "Um, is are one of those something that you wanna change and delete from our list of expectations?",
+      "normalized_reference": "h um is are one of those something that you wanna change and delete from our list of expectations",
+      "normalized_hypothesis": "um is are one of those something that you wanna change and delete from our list of expectations",
+      "wer": 0.05263157894736842,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.1766605000011623
+      ],
+      "median_latency_s": 0.1766605000011623,
+      "repeat_hypotheses": [
+        "Um, is are one of those something that you wanna change and delete from our list of expectations?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0088813_0089409.wav",
+      "reference": "NO JUST JUST PANES JUST RESULT PANES FOR EACH OF THE THREE NO NO NO NO NO",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1557,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.96,
+      "hypothesis": "No, just just pains, just result pains for each of the three. No, no, no, no. No.",
+      "normalized_reference": "no just just panes just result panes for each of the three no no no no no",
+      "normalized_hypothesis": "no just just pains just result pains for each of the three no no no no no",
+      "wer": 0.11764705882352941,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 17,
+      "latencies_s": [
+        0.20454704202711582
+      ],
+      "median_latency_s": 0.20454704202711582,
+      "repeat_hypotheses": [
+        "No, just just pains, just result pains for each of the three. No, no, no, no. No."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0141101_0141775.wav",
+      "reference": "FLIP IT INTO UH YEAH JUST UH TRANSFORMS UM LIKE UM STYLE SHEET THE UM X. M. L. STYLE SHEET",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1578,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 6.74,
+      "hypothesis": "flip it into uh it just uh transforms um like um the style sheet um xml style sheet",
+      "normalized_reference": "flip it into uh yeah just uh transforms um like um style sheet the um x m l style sheet",
+      "normalized_hypothesis": "flip it into uh it just uh transforms um like um the style sheet um xml style sheet",
+      "wer": 0.3,
+      "substitutions": 2,
+      "deletions": 3,
+      "insertions": 1,
+      "reference_words": 20,
+      "latencies_s": [
+        0.23351716599427164
+      ],
+      "median_latency_s": 0.23351716599427164,
+      "repeat_hypotheses": [
+        "flip it into uh it just uh transforms um like um the style sheet um xml style sheet"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0103329_0103842.wav",
+      "reference": "UM YEAH IT'S JUST LIKE FROM PAST EXPERIENCE I'VE THERE'S GOOFY LITTLE THINGS THAT HAPPEN",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1598,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.13,
+      "hypothesis": "Um yeah, it's just like from past experience I've there's goofy little things that happen.",
+      "normalized_reference": "um yeah its just like from past experience ive theres goofy little things that happen",
+      "normalized_hypothesis": "um yeah its just like from past experience ive theres goofy little things that happen",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 15,
+      "latencies_s": [
+        0.17832433298463002
+      ],
+      "median_latency_s": 0.17832433298463002,
+      "repeat_hypotheses": [
+        "Um yeah, it's just like from past experience I've there's goofy little things that happen."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H01_MEE071_0071927_0072435.wav",
+      "reference": "AND THEN YOU CAN EITHER DO IT AUTOMATICALLY OR YOU CAN JUST HARD CODE AND SAY LOOK GET ME THE TIME STAMPS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1630,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE071",
+      "duration_s": 5.08,
+      "hypothesis": "And then you can either do it automatically or you can just hard code and say, look, get me the timestamps.",
+      "normalized_reference": "and then you can either do it automatically or you can just hard code and say look get me the time stamps",
+      "normalized_hypothesis": "and then you can either do it automatically or you can just hard code and say look get me the timestamps",
+      "wer": 0.09090909090909091,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 22,
+      "latencies_s": [
+        0.13781924999784678
+      ],
+      "median_latency_s": 0.13781924999784678,
+      "repeat_hypotheses": [
+        "And then you can either do it automatically or you can just hard code and say, look, get me the timestamps."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0105308_0105835.wav",
+      "reference": "'CAUSE YOU'RE WORKING WITH AN EVENT HANDLER WITHIN THE ONE PANEL OR LIST BOX OR WHATEVER IT IS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1673,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.27,
+      "hypothesis": "because you're working with an event handler within the one panel or a listbox or whatever it is.",
+      "normalized_reference": "cause youre working with an event handler within the one panel or list box or whatever it is",
+      "normalized_hypothesis": "because youre working with an event handler within the one panel or a listbox or whatever it is",
+      "wer": 0.16666666666666666,
+      "substitutions": 3,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.1628134999773465
+      ],
+      "median_latency_s": 0.1628134999773465,
+      "repeat_hypotheses": [
+        "because you're working with an event handler within the one panel or a listbox or whatever it is."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0026045_0026664.wav",
+      "reference": "UM AND THEN UH WE'LL SEND IT TO YOU AND YOU CAN DO THE FINAL REVISIONS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1696,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 6.19,
+      "hypothesis": "Um and then uh we'll send it to you and you can do the final revisions.",
+      "normalized_reference": "um and then uh well send it to you and you can do the final revisions",
+      "normalized_hypothesis": "um and then uh well send it to you and you can do the final revisions",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 16,
+      "latencies_s": [
+        0.1604662910103798
+      ],
+      "median_latency_s": 0.1604662910103798,
+      "repeat_hypotheses": [
+        "Um and then uh we'll send it to you and you can do the final revisions."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0053774_0054353.wav",
+      "reference": "WE SHOULD PROBABLY D SORRY WE SHOULD PROBABLY DO ANOTHER RESPONSIBILITY OF PACKAGES AS WELL",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1741,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 5.79,
+      "hypothesis": "We should probably sorry, we should probably do another responsibility of packages as well.",
+      "normalized_reference": "we should probably d sorry we should probably do another responsibility of packages as well",
+      "normalized_hypothesis": "we should probably sorry we should probably do another responsibility of packages as well",
+      "wer": 0.06666666666666667,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 15,
+      "latencies_s": [
+        0.1608063749736175
+      ],
+      "median_latency_s": 0.1608063749736175,
+      "repeat_hypotheses": [
+        "We should probably sorry, we should probably do another responsibility of packages as well."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H01_MEE071_0118766_0119675.wav",
+      "reference": "'CAUSE UM I WAS WONDERING HOW WE'RE GONNA WRITE IT BACK TO H. T. M. L. I MEAN X. M. L. IF WE TAKE IF WE DID THE PROCESSING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1760,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE071",
+      "duration_s": 9.09,
+      "hypothesis": "'Cause um I was wondering how we're gonna write it back to HTML. I mean X ML if we take if we did the processing.",
+      "normalized_reference": "cause um i was wondering how were gonna write it back to h t m l i mean x m l if we take if we did the processing",
+      "normalized_hypothesis": "cause um i was wondering how were gonna write it back to html i mean x ml if we take if we did the processing",
+      "wer": 0.20689655172413793,
+      "substitutions": 2,
+      "deletions": 4,
+      "insertions": 0,
+      "reference_words": 29,
+      "latencies_s": [
+        0.21080075000645593
+      ],
+      "median_latency_s": 0.21080075000645593,
+      "repeat_hypotheses": [
+        "'Cause um I was wondering how we're gonna write it back to HTML. I mean X ML if we take if we did the processing."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0139583_0140140.wav",
+      "reference": "IF IT'S GONNA TAKE TOO LONG WE'LL THINK ABOUT WRITING IT TO A FILE AND DOING IT OFF LINE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1784,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 5.57,
+      "hypothesis": "If it's gonna take too long, well think about writing it to a file and doing it offline.",
+      "normalized_reference": "if its gonna take too long well think about writing it to a file and doing it off line",
+      "normalized_hypothesis": "if its gonna take too long well think about writing it to a file and doing it offline",
+      "wer": 0.10526315789473684,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.15886541700456291
+      ],
+      "median_latency_s": 0.15886541700456291,
+      "repeat_hypotheses": [
+        "If it's gonna take too long, well think about writing it to a file and doing it offline."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0142195_0142837.wav",
+      "reference": "I MEAN TO PROCESS X. M. L. INTO LIKE IN JUST CREATES WHATEVER FILE IT'S GONNA BE IN",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1826,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 6.42,
+      "hypothesis": "I mean to process XML into like and j just creates whatever file it's gonna be in.",
+      "normalized_reference": "i mean to process x m l into like in just creates whatever file its gonna be in",
+      "normalized_hypothesis": "i mean to process xml into like and j just creates whatever file its gonna be in",
+      "wer": 0.2777777777777778,
+      "substitutions": 2,
+      "deletions": 2,
+      "insertions": 1,
+      "reference_words": 18,
+      "latencies_s": [
+        0.1675657500163652
+      ],
+      "median_latency_s": 0.1675657500163652,
+      "repeat_hypotheses": [
+        "I mean to process XML into like and j just creates whatever file it's gonna be in."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0038266_0038901.wav",
+      "reference": "AND SAY YOU KNOW WE DIDN'T WE DECIDED THE THE R TIME IS TOO SHORT WHATEVER",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1864,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 6.35,
+      "hypothesis": "And say, Yeah, we didn't we decided the the time is too short or",
+      "normalized_reference": "and say you know we didnt we decided the the r time is too short whatever",
+      "normalized_hypothesis": "and say yeah we didnt we decided the the time is too short or",
+      "wer": 0.25,
+      "substitutions": 2,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 16,
+      "latencies_s": [
+        0.26523391698719934
+      ],
+      "median_latency_s": 0.26523391698719934,
+      "repeat_hypotheses": [
+        "And say, Yeah, we didn't we decided the the time is too short or"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0020117_0020934.wav",
+      "reference": "ANYWAYS SO UM SO YEAH THIS JUST VERY GENERAL STRUCTURE UM I GUESS FROM THIS WE CAN JUST POP IN OUR LITTLE BLURBS AND AND UH",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1886,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 8.17,
+      "hypothesis": "Anyways, so um so yeah, this is just very general structure. Um I guess from this we can just pop in our little blurbs and and uh so I don't know.",
+      "normalized_reference": "anyways so um so yeah this just very general structure um i guess from this we can just pop in our little blurbs and and uh",
+      "normalized_hypothesis": "anyways so um so yeah this is just very general structure um i guess from this we can just pop in our little blurbs and and uh so i dont know",
+      "wer": 0.19230769230769232,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 5,
+      "reference_words": 26,
+      "latencies_s": [
+        0.20010066701797768
+      ],
+      "median_latency_s": 0.20010066701797768,
+      "repeat_hypotheses": [
+        "Anyways, so um so yeah, this is just very general structure. Um I guess from this we can just pop in our little blurbs and and uh so I don't know."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H00_FEO070_0033591_0034574.wav",
+      "reference": "I THINK IT UM ONE THING THAT WE COULD PROBABLY SKIP UH TOTALLY IS THE REMOVING THINGS FROM THE AUDIO FILES",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1944,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO070",
+      "duration_s": 9.83,
+      "hypothesis": "I think um one thing that we could probably skip uh totally is the removing things from the audio files.",
+      "normalized_reference": "i think it um one thing that we could probably skip uh totally is the removing things from the audio files",
+      "normalized_hypothesis": "i think um one thing that we could probably skip uh totally is the removing things from the audio files",
+      "wer": 0.047619047619047616,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 21,
+      "latencies_s": [
+        0.18776395899476483
+      ],
+      "median_latency_s": 0.18776395899476483,
+      "repeat_hypotheses": [
+        "I think um one thing that we could probably skip uh totally is the removing things from the audio files."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0083471_0083998.wav",
+      "reference": "LIKE JUST IF THEY CHECK ALL THREE SAY TOPICS SUMMARIES BLAH BLAH BLAH HAVE THREE DIFFERENT WINDOWS COME UP",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 1996,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.27,
+      "hypothesis": "Like just if they check all three, say, topics, summaries, blah blah blah, have three different windows come up?",
+      "normalized_reference": "like just if they check all three say topics summaries blah blah blah have three different windows come up",
+      "normalized_hypothesis": "like just if they check all three say topics summaries blah blah blah have three different windows come up",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.159843459026888
+      ],
+      "median_latency_s": 0.159843459026888,
+      "repeat_hypotheses": [
+        "Like just if they check all three, say, topics, summaries, blah blah blah, have three different windows come up?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0040496_0041100.wav",
+      "reference": "AND I THINK WE SHOULD PROBABLY UH COMMENT EXPLICITLY ON THE MILESTONES HERE AS WELL AND SAY WE MANAGED TO DO",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2063,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 6.04,
+      "hypothesis": "And I think we should probably um comment explicitly on the milestones here as well and say we manage to do",
+      "normalized_reference": "and i think we should probably uh comment explicitly on the milestones here as well and say we managed to do",
+      "normalized_hypothesis": "and i think we should probably um comment explicitly on the milestones here as well and say we manage to do",
+      "wer": 0.09523809523809523,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 21,
+      "latencies_s": [
+        0.15841662499587983
+      ],
+      "median_latency_s": 0.15841662499587983,
+      "repeat_hypotheses": [
+        "And I think we should probably um comment explicitly on the milestones here as well and say we manage to do"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0063436_0063952.wav",
+      "reference": "HAVE AN IMAGE IN MY MIND AND I JUST WANNA SEE IT ON THE THING AND THEN GET A NICE SCREEN SHOT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2089,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.16,
+      "hypothesis": "have an image in my mind and I just wanna see it on the thing and then get my screenshot.",
+      "normalized_reference": "have an image in my mind and i just wanna see it on the thing and then get a nice screen shot",
+      "normalized_hypothesis": "have an image in my mind and i just wanna see it on the thing and then get my screenshot",
+      "wer": 0.18181818181818182,
+      "substitutions": 2,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 22,
+      "latencies_s": [
+        0.15581125003518537
+      ],
+      "median_latency_s": 0.15581125003518537,
+      "repeat_hypotheses": [
+        "have an image in my mind and I just wanna see it on the thing and then get my screenshot."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H00_FEO070_0058775_0059373.wav",
+      "reference": "YEAH WE JUST KEEP IT TOGETHER ON THE THE PAP THERE RIGHT NOW AND JUST SEE WHAT WHAT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2147,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO070",
+      "duration_s": 5.98,
+      "hypothesis": "Yeah. We just keep it together on the the paper there right now and just see what what",
+      "normalized_reference": "yeah we just keep it together on the the pap there right now and just see what what",
+      "normalized_hypothesis": "yeah we just keep it together on the the paper there right now and just see what what",
+      "wer": 0.05555555555555555,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.15170795802259818
+      ],
+      "median_latency_s": 0.15170795802259818,
+      "repeat_hypotheses": [
+        "Yeah. We just keep it together on the the paper there right now and just see what what"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0022293_0022953.wav",
+      "reference": "UM DID SOMEONE ELSE WANNA THROW IT TOGETH ACTUALLY I CAN PROBABLY STILL THROW IT TOGETHER IF YOU WANT UM PUT YOUR PARTS INTO INTO THIS ONE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2175,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 6.6,
+      "hypothesis": "Um, did someone else wanna throw it together? Actually I can probably still throw it together if you want. Um, put your parts into into this one.",
+      "normalized_reference": "um did someone else wanna throw it togeth actually i can probably still throw it together if you want um put your parts into into this one",
+      "normalized_hypothesis": "um did someone else wanna throw it together actually i can probably still throw it together if you want um put your parts into into this one",
+      "wer": 0.037037037037037035,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 27,
+      "latencies_s": [
+        0.17640495800878853
+      ],
+      "median_latency_s": 0.17640495800878853,
+      "repeat_hypotheses": [
+        "Um, did someone else wanna throw it together? Actually I can probably still throw it together if you want. Um, put your parts into into this one."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0134416_0135016.wav",
+      "reference": "YOU COULD NEARLY DO IT TOGETHER WITH WITH UH THE TRANSCRIPTION WITH THE ORIGINAL TRANSCRIPTION HAVE THEM RUN PARALLEL",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2210,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 6.0,
+      "hypothesis": "You could nearly do it together with with the the transcription, with the original transcription, have them run parallel.",
+      "normalized_reference": "you could nearly do it together with with uh the transcription with the original transcription have them run parallel",
+      "normalized_hypothesis": "you could nearly do it together with with the the transcription with the original transcription have them run parallel",
+      "wer": 0.05263157894736842,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.1609466249938123
+      ],
+      "median_latency_s": 0.1609466249938123,
+      "repeat_hypotheses": [
+        "You could nearly do it together with with the the transcription, with the original transcription, have them run parallel."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0061780_0062365.wav",
+      "reference": "UM I FOUND FINALLY TODAY SOMETHING THAT I CAN BUILD IT IN AND IT UH I SHOULD HAVE SOMETHING FOR TOMORROW",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2222,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.85,
+      "hypothesis": "Um, I found finally today something that I can build it in and it uh I should have something for tomorrow.",
+      "normalized_reference": "um i found finally today something that i can build it in and it uh i should have something for tomorrow",
+      "normalized_hypothesis": "um i found finally today something that i can build it in and it uh i should have something for tomorrow",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 21,
+      "latencies_s": [
+        0.16176041698781773
+      ],
+      "median_latency_s": 0.16176041698781773,
+      "repeat_hypotheses": [
+        "Um, I found finally today something that I can build it in and it uh I should have something for tomorrow."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0130967_0131486.wav",
+      "reference": "UNLESS WE EXTRACT THAT OUT OF THE FILE WHEN WE CREATE THE TEXT FILE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2248,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.19,
+      "hypothesis": "Unless we extract that out of the file when we create the text file.",
+      "normalized_reference": "unless we extract that out of the file when we create the text file",
+      "normalized_hypothesis": "unless we extract that out of the file when we create the text file",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 14,
+      "latencies_s": [
+        0.1539174590143375
+      ],
+      "median_latency_s": 0.1539174590143375,
+      "repeat_hypotheses": [
+        "Unless we extract that out of the file when we create the text file."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H03_MEE073_0015897_0016426.wav",
+      "reference": "WELL IT'S SOMETHING THAT HE HAD MENTIONED IN THE UM IN THE PREVIOUS LIKE JUST TO SORT OF HAVE A PROTOTYPE TOGETHER",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2273,
+      "meeting_id": "EN2002b",
+      "speaker_id": "MEE073",
+      "duration_s": 5.29,
+      "hypothesis": "Well it's just something that he had mentioned in the um in the previous like just to sort of have a prototype together.",
+      "normalized_reference": "well its something that he had mentioned in the um in the previous like just to sort of have a prototype together",
+      "normalized_hypothesis": "well its just something that he had mentioned in the um in the previous like just to sort of have a prototype together",
+      "wer": 0.045454545454545456,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 22,
+      "latencies_s": [
+        0.1699892919859849
+      ],
+      "median_latency_s": 0.1699892919859849,
+      "repeat_hypotheses": [
+        "Well it's just something that he had mentioned in the um in the previous like just to sort of have a prototype together."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002b_H02_FEO072_0027852_0028436.wav",
+      "reference": "YOU ALWAYS MAKE ME FEEL BAD BECAUSE UH WHEN I GO TO BED AT LIKE ONE YOU'RE STILL ONLINE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2309,
+      "meeting_id": "EN2002b",
+      "speaker_id": "FEO072",
+      "duration_s": 5.84,
+      "hypothesis": "They always make me feel bad because I when I go to bed at like one, you're still online.",
+      "normalized_reference": "you always make me feel bad because uh when i go to bed at like one youre still online",
+      "normalized_hypothesis": "they always make me feel bad because i when i go to bed at like one youre still online",
+      "wer": 0.10526315789473684,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.16139358299551532
+      ],
+      "median_latency_s": 0.16139358299551532,
+      "repeat_hypotheses": [
+        "They always make me feel bad because I when I go to bed at like one, you're still online."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H01_FEO072_0127554_0128257.wav",
+      "reference": "I MEAN YOU CAN UH YOU KNOW THE OPTION IS TO DO A SEARCH IN THE WAY THAT YOU D IF YOU DO A GLOBAL SEARCH",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2360,
+      "meeting_id": "EN2002c",
+      "speaker_id": "FEO072",
+      "duration_s": 7.03,
+      "hypothesis": "I mean you can you know, the option is to do a search in the way that y if you do a global search",
+      "normalized_reference": "i mean you can uh you know the option is to do a search in the way that you d if you do a global search",
+      "normalized_hypothesis": "i mean you can you know the option is to do a search in the way that y if you do a global search",
+      "wer": 0.11538461538461539,
+      "substitutions": 1,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 26,
+      "latencies_s": [
+        0.17281149997143075
+      ],
+      "median_latency_s": 0.17281149997143075,
+      "repeat_hypotheses": [
+        "I mean you can you know, the option is to do a search in the way that y if you do a global search"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H01_FEO072_0103036_0103596.wav",
+      "reference": "M I MEAN AT THE MOMENT THE WAY IT IS IT'S UH IT'S A DROP DOWN MENU AS YOU'VE SEEN",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2386,
+      "meeting_id": "EN2002c",
+      "speaker_id": "FEO072",
+      "duration_s": 5.6000625,
+      "hypothesis": "I mean at the moment the way it is it's uh it's a drop down menu, as you've seen. Um",
+      "normalized_reference": "m i mean at the moment the way it is its uh its a drop down menu as youve seen",
+      "normalized_hypothesis": "i mean at the moment the way it is its uh its a drop down menu as youve seen um",
+      "wer": 0.1,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 1,
+      "reference_words": 20,
+      "latencies_s": [
+        0.17122270801337436
+      ],
+      "median_latency_s": 0.17122270801337436,
+      "repeat_hypotheses": [
+        "I mean at the moment the way it is it's uh it's a drop down menu, as you've seen. Um"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0176931_0177652.wav",
+      "reference": "BUT IF IT'S SORT LIKE IF THE N. X. T. SEARCH HAS STILL GOTTA BE RUN TO FIND THESE TERMS OR THESE YOU KNOW THESE PATTERNS THEN UH",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2401,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 7.21,
+      "hypothesis": "But if it's sort of like if the NXT search has still gotta be run to find these terms or these you know, these patterns then uh",
+      "normalized_reference": "but if its sort like if the n x t search has still gotta be run to find these terms or these you know these patterns then uh",
+      "normalized_hypothesis": "but if its sort of like if the nxt search has still gotta be run to find these terms or these you know these patterns then uh",
+      "wer": 0.14285714285714285,
+      "substitutions": 1,
+      "deletions": 2,
+      "insertions": 1,
+      "reference_words": 28,
+      "latencies_s": [
+        0.19285745901288465
+      ],
+      "median_latency_s": 0.19285745901288465,
+      "repeat_hypotheses": [
+        "But if it's sort of like if the NXT search has still gotta be run to find these terms or these you know, these patterns then uh"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0145030_0146188.wav",
+      "reference": "TERM FREQUENCY IS THE AMOUNT THAT THAT IT OCCURS IN EA ONE OF THEM IS THE AMOUNT IT OCCURS IN EACH DOCUMENT AND THE OTHER ONE IS THE AMOUNT IT G OCCURS GENERALLY",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2414,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 11.58,
+      "hypothesis": "Term frequency is the amount that that it occurs in e one of them is the amount that occurs in each document and the other one is the amount it occurs generally.",
+      "normalized_reference": "term frequency is the amount that that it occurs in ea one of them is the amount it occurs in each document and the other one is the amount it g occurs generally",
+      "normalized_hypothesis": "term frequency is the amount that that it occurs in e one of them is the amount that occurs in each document and the other one is the amount it occurs generally",
+      "wer": 0.09090909090909091,
+      "substitutions": 2,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 33,
+      "latencies_s": [
+        0.28558916598558426
+      ],
+      "median_latency_s": 0.28558916598558426,
+      "repeat_hypotheses": [
+        "Term frequency is the amount that that it occurs in e one of them is the amount that occurs in each document and the other one is the amount it occurs generally."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0028342_0028849.wav",
+      "reference": "I MEAN SEARCH RESULTS IF THEY'RE ALL IN A PREDICTABLE THING WITH A NAME CERTAIN PROPERTIES OR A LIST OF PROPERTIES A VECTOR",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2438,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 5.07,
+      "hypothesis": "I mean search results if they're all in a predictable thing with a name, certain properties or a list of properties, a vector.",
+      "normalized_reference": "i mean search results if theyre all in a predictable thing with a name certain properties or a list of properties a vector",
+      "normalized_hypothesis": "i mean search results if theyre all in a predictable thing with a name certain properties or a list of properties a vector",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 23,
+      "latencies_s": [
+        0.1495303749688901
+      ],
+      "median_latency_s": 0.1495303749688901,
+      "repeat_hypotheses": [
+        "I mean search results if they're all in a predictable thing with a name, certain properties or a list of properties, a vector."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0135332_0135852.wav",
+      "reference": "I WANNA SEE THE MEETINGS ABOUT EVEN BETTER UNDERSTANDING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2479,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.2,
+      "hypothesis": "Okay. I wanna see the meetings about even better understanding.",
+      "normalized_reference": "i wanna see the meetings about even better understanding",
+      "normalized_hypothesis": "okay i wanna see the meetings about even better understanding",
+      "wer": 0.1111111111111111,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 9,
+      "latencies_s": [
+        0.16189133399166167
+      ],
+      "median_latency_s": 0.16189133399166167,
+      "repeat_hypotheses": [
+        "Okay. I wanna see the meetings about even better understanding."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H01_FEO072_0167133_0167654.wav",
+      "reference": "BASICALLY ALL OF THE MEETINGS YOU WANNA SEE WHERE THEY ACTUALLY SPOKE ABOUT IT AND WHERE THEY JUST MENTIONED IT ONCE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2495,
+      "meeting_id": "EN2002c",
+      "speaker_id": "FEO072",
+      "duration_s": 5.21,
+      "hypothesis": "basically all of the meetings, you wanna see where they actually spoke about it, where they just mentioned it once.",
+      "normalized_reference": "basically all of the meetings you wanna see where they actually spoke about it and where they just mentioned it once",
+      "normalized_hypothesis": "basically all of the meetings you wanna see where they actually spoke about it where they just mentioned it once",
+      "wer": 0.047619047619047616,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 21,
+      "latencies_s": [
+        0.17267775000073016
+      ],
+      "median_latency_s": 0.17267775000073016,
+      "repeat_hypotheses": [
+        "basically all of the meetings, you wanna see where they actually spoke about it, where they just mentioned it once."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0213571_0214400.wav",
+      "reference": "SO THE F ONLY THING THAT COMES UP WHEN YOU'RE FINISHED IS A UM WHEN YOU START IT'S JUST ONE WINDOW LIKE THAT AND IT'S GOT ALL THE SEARCH STUFF LIKE DOWN THERE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2529,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 8.29,
+      "hypothesis": "So the f only thing that comes up when you finish is a um when you start, it's just one window like that. And it's got all the search stuff like down there.",
+      "normalized_reference": "so the f only thing that comes up when youre finished is a um when you start its just one window like that and its got all the search stuff like down there",
+      "normalized_hypothesis": "so the f only thing that comes up when you finish is a um when you start its just one window like that and its got all the search stuff like down there",
+      "wer": 0.06060606060606061,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 33,
+      "latencies_s": [
+        0.24209150002570823
+      ],
+      "median_latency_s": 0.24209150002570823,
+      "repeat_hypotheses": [
+        "So the f only thing that comes up when you finish is a um when you start, it's just one window like that. And it's got all the search stuff like down there."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0165350_0165897.wav",
+      "reference": "BUT TH UM THE THING IS WE'RE JUST LOOKING FOR WHEN IT HAPPENS IN A MEETING IF THEY'RE LOOKING FOR PARTICULAR TERM OR SOMETHING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2572,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 5.47,
+      "hypothesis": "But um the thing is we're just looking for when it happens in a meeting, if they're looking for particular term or something.",
+      "normalized_reference": "but th um the thing is were just looking for when it happens in a meeting if theyre looking for particular term or something",
+      "normalized_hypothesis": "but um the thing is were just looking for when it happens in a meeting if theyre looking for particular term or something",
+      "wer": 0.041666666666666664,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.2022019590367563
+      ],
+      "median_latency_s": 0.2022019590367563,
+      "repeat_hypotheses": [
+        "But um the thing is we're just looking for when it happens in a meeting, if they're looking for particular term or something."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0075245_0075906.wav",
+      "reference": "BUT I WILL YEAH I WAS GOING TO UPDATE THAT ONE JUST 'CAUSE YEAH IT JUST MAKES SENSE THAT THEN YOU THEN YOU CAN TEST OUT YEAH",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2590,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 6.61,
+      "hypothesis": "But I will yeah, I was going to update that one just 'cause yeah, it just makes sense that then you then you can test it, yeah.",
+      "normalized_reference": "but i will yeah i was going to update that one just cause yeah it just makes sense that then you then you can test out yeah",
+      "normalized_hypothesis": "but i will yeah i was going to update that one just cause yeah it just makes sense that then you then you can test it yeah",
+      "wer": 0.037037037037037035,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 27,
+      "latencies_s": [
+        0.20565137499943376
+      ],
+      "median_latency_s": 0.20565137499943376,
+      "repeat_hypotheses": [
+        "But I will yeah, I was going to update that one just 'cause yeah, it just makes sense that then you then you can test it, yeah."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0031695_0032375.wav",
+      "reference": "SO IT CAN EITHER COME BACK AS A YOU CAN HAVE THE HASH TABLE OR YOU CAN HAVE IT RETURNED AS A VECTOR AND IT WILL SAY NOISE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2637,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 6.8,
+      "hypothesis": "So it can either come back as a ha you can have the hash table or you can have it returned as a vector and it will say noise.",
+      "normalized_reference": "so it can either come back as a you can have the hash table or you can have it returned as a vector and it will say noise",
+      "normalized_hypothesis": "so it can either come back as a ha you can have the hash table or you can have it returned as a vector and it will say noise",
+      "wer": 0.03571428571428571,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 28,
+      "latencies_s": [
+        0.19726300000911579
+      ],
+      "median_latency_s": 0.19726300000911579,
+      "repeat_hypotheses": [
+        "So it can either come back as a ha you can have the hash table or you can have it returned as a vector and it will say noise."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0130271_0130817.wav",
+      "reference": "MA MAKE IT STRINGS FOR AS LONG AS POSSIBLE AND THEN ONLY RETURN THE THINGS WHEN THEY ACTUALLY NEEDS TO HAS TO SEARCH",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2643,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.46,
+      "hypothesis": "Yeah, make it strings for as long as possible. And then only return the things when they actually sp when it needs to has to search.",
+      "normalized_reference": "ma make it strings for as long as possible and then only return the things when they actually needs to has to search",
+      "normalized_hypothesis": "yeah make it strings for as long as possible and then only return the things when they actually sp when it needs to has to search",
+      "wer": 0.17391304347826086,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 3,
+      "reference_words": 23,
+      "latencies_s": [
+        0.1899979580193758
+      ],
+      "median_latency_s": 0.1899979580193758,
+      "repeat_hypotheses": [
+        "Yeah, make it strings for as long as possible. And then only return the things when they actually sp when it needs to has to search."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0180351_0180980.wav",
+      "reference": "I IF S IF YOU WERE IS THERE'S A LO WHOLE LOAD ABOUT IT IN MANNING AND SCHUTZ",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2672,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 6.29,
+      "hypothesis": "Uh uh if you wear this there's a l whole load about it in mining and shut.",
+      "normalized_reference": "i if s if you were is theres a lo whole load about it in manning and schutz",
+      "normalized_hypothesis": "uh uh if you wear this theres a l whole load about it in mining and shut",
+      "wer": 0.4444444444444444,
+      "substitutions": 7,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.19722529198043048
+      ],
+      "median_latency_s": 0.19722529198043048,
+      "repeat_hypotheses": [
+        "Uh uh if you wear this there's a l whole load about it in mining and shut."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0030913_0031695.wav",
+      "reference": "SO AND THEN IT'S GOT INSIDE IT'S GOT A LINK FOR IT'S GOT A IT'S GOT THE N SPEAKER'S NAME AND THEN IT'S GOT THEIR PERCENTAGE FOR THAT THING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2697,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 7.82,
+      "hypothesis": "So and then it's got inside, it's got a link it's got a it's got the speaker's name and then it's got their percentage for that thing. Oh yeah.",
+      "normalized_reference": "so and then its got inside its got a link for its got a its got the n speakers name and then its got their percentage for that thing",
+      "normalized_hypothesis": "so and then its got inside its got a link its got a its got the speakers name and then its got their percentage for that thing oh yeah",
+      "wer": 0.13793103448275862,
+      "substitutions": 0,
+      "deletions": 2,
+      "insertions": 2,
+      "reference_words": 29,
+      "latencies_s": [
+        0.25063612504163757
+      ],
+      "median_latency_s": 0.25063612504163757,
+      "repeat_hypotheses": [
+        "So and then it's got inside, it's got a link it's got a it's got the speaker's name and then it's got their percentage for that thing. Oh yeah."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0240169_0241198.wav",
+      "reference": "OH IT'S A EXTENDED VERSION OF A STOP IT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2707,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 10.29,
+      "hypothesis": "Oh, it's uh extended version of my oh stop it.",
+      "normalized_reference": "oh its a extended version of a stop it",
+      "normalized_hypothesis": "oh its uh extended version of my oh stop it",
+      "wer": 0.3333333333333333,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 1,
+      "reference_words": 9,
+      "latencies_s": [
+        0.25752516702050343
+      ],
+      "median_latency_s": 0.25752516702050343,
+      "repeat_hypotheses": [
+        "Oh, it's uh extended version of my oh stop it."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0167571_0168186.wav",
+      "reference": "BUT IF IT'S LIKE A TWO WORD TERM DOES THE T. F. I. D. F. HANDLE THAT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2753,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 6.15,
+      "hypothesis": "But if it's like a two word term, does a TFIDF handle that?",
+      "normalized_reference": "but if its like a two word term does the t f i d f handle that",
+      "normalized_hypothesis": "but if its like a two word term does a tfidf handle that",
+      "wer": 0.35294117647058826,
+      "substitutions": 2,
+      "deletions": 4,
+      "insertions": 0,
+      "reference_words": 17,
+      "latencies_s": [
+        0.19013299996731803
+      ],
+      "median_latency_s": 0.19013299996731803,
+      "repeat_hypotheses": [
+        "But if it's like a two word term, does a TFIDF handle that?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H01_FEO072_0083866_0084550.wav",
+      "reference": "SO YOU CAN QUITE EASILY IF YOUR TEXT AREA IS CALLED AREA YOU JUST DO AREA DOT SET HIGHLIGHTS OR SOMETHING YOU KNOW",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2771,
+      "meeting_id": "EN2002c",
+      "speaker_id": "FEO072",
+      "duration_s": 6.84,
+      "hypothesis": "So you can quite easily if your text area is called area, you just do area dot set highlights or something, you know.",
+      "normalized_reference": "so you can quite easily if your text area is called area you just do area dot set highlights or something you know",
+      "normalized_hypothesis": "so you can quite easily if your text area is called area you just do area dot set highlights or something you know",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 23,
+      "latencies_s": [
+        0.21950474998448044
+      ],
+      "median_latency_s": 0.21950474998448044,
+      "repeat_hypotheses": [
+        "So you can quite easily if your text area is called area, you just do area dot set highlights or something, you know."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0253648_0254165.wav",
+      "reference": "THEN IF THREE O'CLOCK'S A PROBLEM FIVE OR SIX WILL BE A PROBLEM 'CAUSE I WON'T BE HERE",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2801,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.17,
+      "hypothesis": "Then if three o'clock's a problem, five or six will be a problem. 'Cause I won't be here.",
+      "normalized_reference": "then if three oclocks a problem five or six will be a problem cause i wont be here",
+      "normalized_hypothesis": "then if three oclocks a problem five or six will be a problem cause i wont be here",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.17447012499906123
+      ],
+      "median_latency_s": 0.17447012499906123,
+      "repeat_hypotheses": [
+        "Then if three o'clock's a problem, five or six will be a problem. 'Cause I won't be here."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H01_FEO072_0058078_0058747.wav",
+      "reference": "YOU HAVE THE OPTION OF POP POPPING OPEN A WINDOW WHICH GIVES YOU A LIST OF ALL THE MEETINGS CONTAINING THAT TOPIC",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2829,
+      "meeting_id": "EN2002c",
+      "speaker_id": "FEO072",
+      "duration_s": 6.69,
+      "hypothesis": "You have the option of po popping open a window which gives you a list of all the meetings containing that topic.",
+      "normalized_reference": "you have the option of pop popping open a window which gives you a list of all the meetings containing that topic",
+      "normalized_hypothesis": "you have the option of po popping open a window which gives you a list of all the meetings containing that topic",
+      "wer": 0.045454545454545456,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 22,
+      "latencies_s": [
+        0.1750592919997871
+      ],
+      "median_latency_s": 0.1750592919997871,
+      "repeat_hypotheses": [
+        "You have the option of po popping open a window which gives you a list of all the meetings containing that topic."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0158970_0159494.wav",
+      "reference": "NO NO NO BUT THAT'S WHAT ISN'T THAT WHAT THE IDEA WAS IN THE FIRST PLACE TO RANK THESE RANK THE RESULTS SO THAT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2856,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.24,
+      "hypothesis": "No, no, no. But that's what isn't that what the idea was in the first place, to rank the rank the results. So that",
+      "normalized_reference": "no no no but thats what isnt that what the idea was in the first place to rank these rank the results so that",
+      "normalized_hypothesis": "no no no but thats what isnt that what the idea was in the first place to rank the rank the results so that",
+      "wer": 0.041666666666666664,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.173228083003778
+      ],
+      "median_latency_s": 0.173228083003778,
+      "repeat_hypotheses": [
+        "No, no, no. But that's what isn't that what the idea was in the first place, to rank the rank the results. So that"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0261426_0262136.wav",
+      "reference": "WELL I D I KINDA THINK IT WOULD COMPLICATE THINGS QUITE A BIT AND NOT BRING US A LOT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2861,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 7.1,
+      "hypothesis": "Well I I kinda think it would complicate things quite a bit and not bring us a lot.",
+      "normalized_reference": "well i d i kinda think it would complicate things quite a bit and not bring us a lot",
+      "normalized_hypothesis": "well i i kinda think it would complicate things quite a bit and not bring us a lot",
+      "wer": 0.05263157894736842,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.18390362500213087
+      ],
+      "median_latency_s": 0.18390362500213087,
+      "repeat_hypotheses": [
+        "Well I I kinda think it would complicate things quite a bit and not bring us a lot."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0066787_0067293.wav",
+      "reference": "AND YOU'D HAVE TO AND THEN YOU'D HAVE A V MULTIPLE COPIES OF OBJECTS ALL OVER THE PLACE AND IT'D GET SILLY I THINK",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2883,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.06,
+      "hypothesis": "And you'd have to and then you'd have multiple copies of objects all over the place and it get silly, I think.",
+      "normalized_reference": "and youd have to and then youd have a v multiple copies of objects all over the place and itd get silly i think",
+      "normalized_hypothesis": "and youd have to and then youd have multiple copies of objects all over the place and it get silly i think",
+      "wer": 0.125,
+      "substitutions": 1,
+      "deletions": 2,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.14186491700820625
+      ],
+      "median_latency_s": 0.14186491700820625,
+      "repeat_hypotheses": [
+        "And you'd have to and then you'd have multiple copies of objects all over the place and it get silly, I think."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0010769_0011623.wav",
+      "reference": "UM ONE THING THAT I WAS WONDERING IS THERE A STANDARD CONTROL THAT YOU USE TO CONNECT THE DIFFERENT THINGS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2914,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 8.54,
+      "hypothesis": "Um one thing that I was wondering, is there standard control that you use to connect the different things?",
+      "normalized_reference": "um one thing that i was wondering is there a standard control that you use to connect the different things",
+      "normalized_hypothesis": "um one thing that i was wondering is there standard control that you use to connect the different things",
+      "wer": 0.05,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 20,
+      "latencies_s": [
+        0.19775558303808793
+      ],
+      "median_latency_s": 0.19775558303808793,
+      "repeat_hypotheses": [
+        "Um one thing that I was wondering, is there standard control that you use to connect the different things?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0265179_0265811.wav",
+      "reference": "IT JUST DOESN'T YOU'RE LOOKING FOR THAT TERM AND RELEVANCE IS KIND OF IRRELEVANT BECAUSE IF THE TERM SHOWS UP IT SHOWS UP",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2928,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 6.32,
+      "hypothesis": "It just doesn't you're looking for that term and relevance is kind of irrelevant because if the term shows up, it shows up.",
+      "normalized_reference": "it just doesnt youre looking for that term and relevance is kind of irrelevant because if the term shows up it shows up",
+      "normalized_hypothesis": "it just doesnt youre looking for that term and relevance is kind of irrelevant because if the term shows up it shows up",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 23,
+      "latencies_s": [
+        0.18085250002332032
+      ],
+      "median_latency_s": 0.18085250002332032,
+      "repeat_hypotheses": [
+        "It just doesn't you're looking for that term and relevance is kind of irrelevant because if the term shows up, it shows up."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0281067_0281627.wav",
+      "reference": "YEAH THERE ARE ALREADY SEVENTY F BUT THERE ARE SEVENTY FIVE MEETING",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2950,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.6,
+      "hypothesis": "Yeah there are only seventy f but there are seventy five meetings.",
+      "normalized_reference": "yeah there are already seventy f but there are seventy five meeting",
+      "normalized_hypothesis": "yeah there are only seventy f but there are seventy five meetings",
+      "wer": 0.16666666666666666,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 12,
+      "latencies_s": [
+        0.1839750000508502
+      ],
+      "median_latency_s": 0.1839750000508502,
+      "repeat_hypotheses": [
+        "Yeah there are only seventy f but there are seventy five meetings."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0085892_0086548.wav",
+      "reference": "UM SO YEAH JUST A FEW MORE THINGS TO DO WITH THAT AND THEN UH ONCE PERNILLA GETS THE UH THE INDEX",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2959,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 6.56,
+      "hypothesis": "Mm so yeah there's a few more things to do with that and then uh once Pernilla gets the uh the index.",
+      "normalized_reference": "um so yeah just a few more things to do with that and then uh once pernilla gets the uh the index",
+      "normalized_hypothesis": "mm so yeah theres a few more things to do with that and then uh once pernilla gets the uh the index",
+      "wer": 0.09090909090909091,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 22,
+      "latencies_s": [
+        0.18747437500860542
+      ],
+      "median_latency_s": 0.18747437500860542,
+      "repeat_hypotheses": [
+        "Mm so yeah there's a few more things to do with that and then uh once Pernilla gets the uh the index."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H01_FEO072_0119572_0120392.wav",
+      "reference": "BUT YEAH THE THE GLOBAL UM INVERTED FILE SEARCH GIVES THE NOM OBJECTS BASICALLY TO THE LOCAL SEARCH RIGHT",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 2985,
+      "meeting_id": "EN2002c",
+      "speaker_id": "FEO072",
+      "duration_s": 8.2,
+      "hypothesis": "But yeah, the the global um inverted file search gives the NOM objects basically to the local search, right?",
+      "normalized_reference": "but yeah the the global um inverted file search gives the nom objects basically to the local search right",
+      "normalized_hypothesis": "but yeah the the global um inverted file search gives the nom objects basically to the local search right",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.21491191699169576
+      ],
+      "median_latency_s": 0.21491191699169576,
+      "repeat_hypotheses": [
+        "But yeah, the the global um inverted file search gives the NOM objects basically to the local search, right?"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0279167_0279738.wav",
+      "reference": "BUT YOU HAVE NO RANKING SYSTEM AT THE MOMENT SO IF SOMETHING'S AN AMAZING W HIGHLY RANKED THING FROM T. F. I. D. F.",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 3010,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.71,
+      "hypothesis": "But you have no ranking system at the moment. So if something's an amazing highly ranked thing from T F IDF",
+      "normalized_reference": "but you have no ranking system at the moment so if somethings an amazing w highly ranked thing from t f i d f",
+      "normalized_hypothesis": "but you have no ranking system at the moment so if somethings an amazing highly ranked thing from t f idf",
+      "wer": 0.16666666666666666,
+      "substitutions": 1,
+      "deletions": 3,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.18025108298752457
+      ],
+      "median_latency_s": 0.18025108298752457,
+      "repeat_hypotheses": [
+        "But you have no ranking system at the moment. So if something's an amazing highly ranked thing from T F IDF"
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0029102_0030576.wav",
+      "reference": "SO UM SO I CAN HAVE IT SO THAT IT RETURNS YOU A 'CAUSE AT THE MOMENT THE MAIN DATA STRUCTURES ARE HASH TABLES FOR THE MEETINGS THAT SAY IT'S GOT ONE THAT SAYS PERCENT IT'S CALLED PERCENT TALK",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 3025,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 14.74,
+      "hypothesis": "So um so I can have it so that it returns you a because at the moment the main data structures are hash tables for the meetings that say it's got one that says percent is called percent talk.",
+      "normalized_reference": "so um so i can have it so that it returns you a cause at the moment the main data structures are hash tables for the meetings that say its got one that says percent its called percent talk",
+      "normalized_hypothesis": "so um so i can have it so that it returns you a because at the moment the main data structures are hash tables for the meetings that say its got one that says percent is called percent talk",
+      "wer": 0.05128205128205128,
+      "substitutions": 2,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 39,
+      "latencies_s": [
+        0.35543616698123515
+      ],
+      "median_latency_s": 0.35543616698123515,
+      "repeat_hypotheses": [
+        "So um so I can have it so that it returns you a because at the moment the main data structures are hash tables for the meetings that say it's got one that says percent is called percent talk."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0020295_0020877.wav",
+      "reference": "SO AND THEN THEY WR IT WRITES OBJECTS AND THE OBJECTS CONTAIN ALL THE INFORMATION ABOUT THE MEETINGS AND THE SPEAKERS",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 3040,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 5.82,
+      "hypothesis": "So and then they ri it writes objects and the objects contain all the information about the meetings and the speakers.",
+      "normalized_reference": "so and then they wr it writes objects and the objects contain all the information about the meetings and the speakers",
+      "normalized_hypothesis": "so and then they ri it writes objects and the objects contain all the information about the meetings and the speakers",
+      "wer": 0.047619047619047616,
+      "substitutions": 1,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 21,
+      "latencies_s": [
+        0.19391070801066235
+      ],
+      "median_latency_s": 0.19391070801066235,
+      "repeat_hypotheses": [
+        "So and then they ri it writes objects and the objects contain all the information about the meetings and the speakers."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H03_MEE073_0273225_0273883.wav",
+      "reference": "'CAUSE IF WE ARE USING THAT I MEAN IT DOES MAKE SENSE FOR THAT BUT UH YEAH AND JUST ACTUALLY YEAH",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 3103,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE073",
+      "duration_s": 6.58,
+      "hypothesis": "'Cause if we are using that, I mean it does make sense for that. But uh yeah, just actually yeah.",
+      "normalized_reference": "cause if we are using that i mean it does make sense for that but uh yeah and just actually yeah",
+      "normalized_hypothesis": "cause if we are using that i mean it does make sense for that but uh yeah just actually yeah",
+      "wer": 0.047619047619047616,
+      "substitutions": 0,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 21,
+      "latencies_s": [
+        0.19155970902647823
+      ],
+      "median_latency_s": 0.19155970902647823,
+      "repeat_hypotheses": [
+        "'Cause if we are using that, I mean it does make sense for that. But uh yeah, just actually yeah."
+      ]
+    },
+    {
+      "file": "meeting/AMI_EN2002c_H02_MEE071_0156222_0157189.wav",
+      "reference": "THE EASY BIT IS IT'S PROBABLY THE EASIEST TO CALCULATE THEM BASED UPON IN THEIR WHOLE OCCURRENCES IN I IN THE CORPUS THAN IT IS TO CALCULATE THEM PER TOPIC",
+      "group": "ami-ihm-100",
+      "source": "https://huggingface.co/datasets/edinburghcstr/ami/resolve/main/ihm/test-00000-of-00004.parquet",
+      "source_row": 3121,
+      "meeting_id": "EN2002c",
+      "speaker_id": "MEE071",
+      "duration_s": 9.67,
+      "hypothesis": "The easy bit is uh it's probably easier to calculate them based upon in their whole occurrences in i in the corpus than it is to calculate them per topic.",
+      "normalized_reference": "the easy bit is its probably the easiest to calculate them based upon in their whole occurrences in i in the corpus than it is to calculate them per topic",
+      "normalized_hypothesis": "the easy bit is uh its probably easier to calculate them based upon in their whole occurrences in i in the corpus than it is to calculate them per topic",
+      "wer": 0.1,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 1,
+      "reference_words": 30,
+      "latencies_s": [
+        0.2491635829792358
+      ],
+      "median_latency_s": 0.2491635829792358,
+      "repeat_hypotheses": [
+        "The easy bit is uh it's probably easier to calculate them based upon in their whole occurrences in i in the corpus than it is to calculate them per topic."
+      ]
+    }
+  ],
+  "manifest": "samples/meeting-manifest.json",
+  "rss_processes": [
+    25013
+  ],
+  "per_set": {
+    "ami-ihm-100": {
+      "errors": 218,
+      "reference_words": 2144,
+      "wer": 0.10167910447761194
+    }
+  }
+}

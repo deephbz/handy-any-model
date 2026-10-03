@@ -1,0 +1,117 @@
+[
+  {
+    "file": "test-clean-1089-134686-0000.wav",
+    "reference": "HE HOPED THERE WOULD BE STEW FOR DINNER TURNIPS AND CARROTS AND BRUISED POTATOES AND FAT MUTTON PIECES TO BE LADLED OUT IN THICK PEPPERED FLOUR FATTENED SAUCE",
+    "group": "test-clean",
+    "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+    "source_member": "LibriSpeech/test-clean/1089/134686/1089-134686-0000.flac",
+    "duration_s": 10.435
+  },
+  {
+    "file": "test-clean-1188-133604-0000.wav",
+    "reference": "YOU WILL FIND ME CONTINUALLY SPEAKING OF FOUR MEN TITIAN HOLBEIN TURNER AND TINTORET IN ALMOST THE SAME TERMS",
+    "group": "test-clean",
+    "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+    "source_member": "LibriSpeech/test-clean/1188/133604/1188-133604-0000.flac",
+    "duration_s": 10.725
+  },
+  {
+    "file": "test-clean-121-121726-0000.wav",
+    "reference": "ALSO A POPULAR CONTRIVANCE WHEREBY LOVE MAKING MAY BE SUSPENDED BUT NOT STOPPED DURING THE PICNIC SEASON",
+    "group": "test-clean",
+    "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+    "source_member": "LibriSpeech/test-clean/121/121726/121-121726-0000.flac",
+    "duration_s": 8.46
+  },
+  {
+    "file": "test-clean-1221-135766-0000.wav",
+    "reference": "HOW STRANGE IT SEEMED TO THE SAD WOMAN AS SHE WATCHED THE GROWTH AND THE BEAUTY THAT BECAME EVERY DAY MORE BRILLIANT AND THE INTELLIGENCE THAT THREW ITS QUIVERING SUNSHINE OVER THE TINY FEATURES OF THIS CHILD",
+    "group": "test-clean",
+    "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+    "source_member": "LibriSpeech/test-clean/1221/135766/1221-135766-0000.flac",
+    "duration_s": 12.435
+  },
+  {
+    "file": "test-clean-1284-1180-0000.wav",
+    "reference": "HE WORE BLUE SILK STOCKINGS BLUE KNEE PANTS WITH GOLD BUCKLES A BLUE RUFFLED WAIST AND A JACKET OF BRIGHT BLUE BRAIDED WITH GOLD",
+    "group": "test-clean",
+    "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+    "source_member": "LibriSpeech/test-clean/1284/1180/1284-1180-0000.flac",
+    "duration_s": 8.12
+  },
+  {
+    "file": "test-other-1688-142285-0000.wav",
+    "reference": "THERE'S IRON THEY SAY IN ALL OUR BLOOD AND A GRAIN OR TWO PERHAPS IS GOOD BUT HIS HE MAKES ME HARSHLY FEEL HAS GOT A LITTLE TOO MUCH OF STEEL ANON",
+    "group": "test-other",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0000.flac",
+    "duration_s": 15.0
+  },
+  {
+    "file": "test-other-1998-15444-0000.wav",
+    "reference": "IF CALLED TO A CASE SUPPOSED OR SUSPECTED TO BE ONE OF POISONING THE MEDICAL MAN HAS TWO DUTIES TO PERFORM TO SAVE THE PATIENT'S LIFE AND TO PLACE HIMSELF IN A POSITION TO GIVE EVIDENCE IF CALLED ON TO DO SO",
+    "group": "test-other",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/15444/1998-15444-0000.flac",
+    "duration_s": 13.315
+  },
+  {
+    "file": "test-other-2033-164914-0000.wav",
+    "reference": "REPLIED HE OF A TRUTH I HEARD HIM NOT AND I WOT HIM NOT AND FOLKS ARE ALL SLEEPING",
+    "group": "test-other",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2033/164914/2033-164914-0000.flac",
+    "duration_s": 9.075
+  },
+  {
+    "file": "test-other-2414-128291-0001.wav",
+    "reference": "HE ASKED HIMSELF SOMETHING WARM AND LIVING QUICKENETH ME IT MUST BE IN THE NEIGHBOURHOOD",
+    "group": "test-other",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/128291/2414-128291-0001.flac",
+    "duration_s": 8.44
+  },
+  {
+    "file": "test-other-2609-156975-0002.wav",
+    "reference": "LET US HAVE FAITH THAT RIGHT MAKES MIGHT AND IN THAT FAITH LET US DARE TO DO OUR DUTY AS WE UNDERSTAND IT LINCOLN",
+    "group": "test-other",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2609/156975/2609-156975-0002.flac",
+    "duration_s": 10.745
+  },
+  {
+    "file": "dictation-01.wav",
+    "reference": "Please send the updated meeting notes to the engineering team before Friday afternoon.",
+    "group": "synthetic-dictation",
+    "source": "macOS say; Samantha; 130 words/minute",
+    "duration_s": 5.4991875
+  },
+  {
+    "file": "dictation-02.wav",
+    "reference": "The appointment is on Tuesday at nine thirty. Please remind me to bring the signed documents.",
+    "group": "synthetic-dictation",
+    "source": "macOS say; Samantha; 130 words/minute",
+    "duration_s": 6.08075
+  },
+  {
+    "file": "dictation-03.wav",
+    "reference": "I tested the new version this morning and found two issues with the audio settings.",
+    "group": "synthetic-dictation",
+    "source": "macOS say; Samantha; 130 words/minute",
+    "duration_s": 5.266375
+  },
+  {
+    "file": "dictation-04.wav",
+    "reference": "Create a shopping list with apples, brown rice, olive oil, and a loaf of bread.",
+    "group": "synthetic-dictation",
+    "source": "macOS say; Samantha; 130 words/minute",
+    "duration_s": 6.067875
+  },
+  {
+    "file": "dictation-05.wav",
+    "reference": "The server runs on my computer. It keeps the recording private and returns the transcript to the application.",
+    "group": "synthetic-dictation",
+    "source": "macOS say; Samantha; 130 words/minute",
+    "duration_s": 7.184375
+  }
+]

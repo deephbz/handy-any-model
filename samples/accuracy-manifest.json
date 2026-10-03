@@ -1,0 +1,1602 @@
+[
+  {
+    "file": "accuracy/1688-142285-0001.wav",
+    "reference": "MARGARET SAID MISTER HALE AS HE RETURNED FROM SHOWING HIS GUEST DOWNSTAIRS I COULD NOT HELP WATCHING YOUR FACE WITH SOME ANXIETY WHEN MISTER THORNTON MADE HIS CONFESSION OF HAVING BEEN A SHOP BOY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0001.flac",
+    "duration_s": 12.625
+  },
+  {
+    "file": "accuracy/1688-142285-0015.wav",
+    "reference": "HOW TAINTED ASKED HER FATHER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0015.flac",
+    "duration_s": 2.91
+  },
+  {
+    "file": "accuracy/1688-142285-0030.wav",
+    "reference": "SHE AND DIXON HELD MYSTERIOUS CONSULTATIONS IN HER BEDROOM FROM WHICH DIXON WOULD COME OUT CRYING AND CROSS AS WAS HER CUSTOM WHEN ANY DISTRESS OF HER MISTRESS CALLED UPON HER SYMPATHY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0030.flac",
+    "duration_s": 12.3
+  },
+  {
+    "file": "accuracy/1688-142285-0045.wav",
+    "reference": "BESSY WAS SILENT IN HER TURN FOR A MINUTE OR TWO THEN SHE REPLIED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0045.flac",
+    "duration_s": 5.81
+  },
+  {
+    "file": "accuracy/1688-142285-0059.wav",
+    "reference": "NOW I'LL NOT HAVE MY WENCH PREACHED TO",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0059.flac",
+    "duration_s": 3.56
+  },
+  {
+    "file": "accuracy/1688-142285-0074.wav",
+    "reference": "I'LL GO TO BED IT'S BEST PLACE BUT CATCHING AT MARGARET'S GOWN YO'LL COME AGAIN I KNOW YO WILL BUT JUST SAY IT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0074.flac",
+    "duration_s": 11.13
+  },
+  {
+    "file": "accuracy/1688-142285-0089.wav",
+    "reference": "PERHAPS SHE MAY HAVE A RELATION WHO MIGHT SUIT US AND BE GLAD OF OUR PLACE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0089.flac",
+    "duration_s": 5.48
+  },
+  {
+    "file": "accuracy/1998-15444-0008.wav",
+    "reference": "THE DOSE FOR AN ADULT IS TEN MINIMS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/15444/1998-15444-0008.flac",
+    "duration_s": 2.945
+  },
+  {
+    "file": "accuracy/1998-15444-0023.wav",
+    "reference": "SEPARATE THE ETHEREAL SOLUTION AND EVAPORATE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/15444/1998-15444-0023.flac",
+    "duration_s": 3.465
+  },
+  {
+    "file": "accuracy/1998-29454-0010.wav",
+    "reference": "NOT EXACKLY SAID THE MAN BUT IT'S ALL RIGHT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/29454/1998-29454-0010.flac",
+    "duration_s": 2.865
+  },
+  {
+    "file": "accuracy/1998-29454-0024.wav",
+    "reference": "THE SUN SHOT LONG GOLDEN BEAMS THROUGH THE GAPS IN THE HEDGE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/29454/1998-29454-0024.flac",
+    "duration_s": 3.535
+  },
+  {
+    "file": "accuracy/1998-29454-0039.wav",
+    "reference": "SO YOU SHALL SAID MISTER BEALE A REG'LER WASH ALL OVER THIS VERY NIGHT I ALWAYS LIKE A WASH MESELF",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/29454/1998-29454-0039.flac",
+    "duration_s": 6.59
+  },
+  {
+    "file": "accuracy/1998-29455-0007.wav",
+    "reference": "HI THERE GOES A RABBIT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/29455/1998-29455-0007.flac",
+    "duration_s": 1.995
+  },
+  {
+    "file": "accuracy/1998-29455-0021.wav",
+    "reference": "PLEASE DO NOT BE TOO SHOCKED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/29455/1998-29455-0021.flac",
+    "duration_s": 1.96
+  },
+  {
+    "file": "accuracy/1998-29455-0036.wav",
+    "reference": "DICKIE WAS FULL OF QUESTIONS BUT MISTER BEALE HAD NO ANSWERS FOR THEM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/1998/29455/1998-29455-0036.flac",
+    "duration_s": 3.94
+  },
+  {
+    "file": "accuracy/2033-164914-0012.wav",
+    "reference": "RETURN QUICKLY AND LINGER NOT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2033/164914/2033-164914-0012.flac",
+    "duration_s": 3.13
+  },
+  {
+    "file": "accuracy/2033-164915-0003.wav",
+    "reference": "AFTER A WHILE THEY CAME TO THEMSELVES AND NUZHAT AL ZAMAN REJOICED WITH EXCEEDING JOY OPPRESSION AND DEPRESSION LEFT HER AND GLADNESS TOOK THE MASTERY OF HER AND SHE REPEATED THESE VERSES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2033/164915/2033-164915-0003.flac",
+    "duration_s": 15.89
+  },
+  {
+    "file": "accuracy/2033-164916-0000.wav",
+    "reference": "SO HE TURNED TO THE WAZIR DANDAN AND SAID TO HIM VERILY YOUR TALE IS A WONDER OF WONDERS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2033/164916/2033-164916-0000.flac",
+    "duration_s": 7.95
+  },
+  {
+    "file": "accuracy/2414-128291-0005.wav",
+    "reference": "FOR I TELL THEE THAT I HAVE ALREADY TALKED HALF A MORNING UNTO THEM AND JUST NOW WERE THEY ABOUT TO GIVE ME THEIR ANSWER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/128291/2414-128291-0005.flac",
+    "duration_s": 10.65
+  },
+  {
+    "file": "accuracy/2414-128291-0019.wav",
+    "reference": "THEY ALSO ABSTAIN FROM ALL HEAVY THOUGHTS WHICH INFLATE THE HEART",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/128291/2414-128291-0019.flac",
+    "duration_s": 6.205
+  },
+  {
+    "file": "accuracy/2414-128292-0007.wav",
+    "reference": "BUT DOTH ZARATHUSTRA NEED TO BE FRIGHTENED BY HIS SHADOW",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/128292/2414-128292-0007.flac",
+    "duration_s": 4.32
+  },
+  {
+    "file": "accuracy/2414-128292-0022.wav",
+    "reference": "FOR IT DO I ASK AND SEEK AND HAVE SOUGHT BUT HAVE NOT FOUND IT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/128292/2414-128292-0022.flac",
+    "duration_s": 6.26
+  },
+  {
+    "file": "accuracy/2414-159411-0003.wav",
+    "reference": "I WILL NEVER BE SO UNGRATEFUL ONLY LET ME OUT THAT I MAY DRINK SOME WATER AND RETURN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/159411/2414-159411-0003.flac",
+    "duration_s": 7.27
+  },
+  {
+    "file": "accuracy/2414-159411-0018.wav",
+    "reference": "AFTER THIS THEY SAW AN ALLIGATOR AND THE BRAHMAN RELATED THE MATTER TO HIM HOPING FOR A MORE FAVORABLE VERDICT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/159411/2414-159411-0018.flac",
+    "duration_s": 8.765
+  },
+  {
+    "file": "accuracy/2414-159411-0033.wav",
+    "reference": "WHEN THE GOOD BRAHMAN OPENED YOUR CAGE DOOR IS TO EAT HIM THE ONLY RETURN YOU WOULD MAKE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2414/159411/2414-159411-0033.flac",
+    "duration_s": 6.66
+  },
+  {
+    "file": "accuracy/2609-156975-0010.wav",
+    "reference": "HERE WERE FOUND SEVERAL INSCRIPTIONS BEARING THE EGYPTIAN NAME OF THE CITY P ATUM HOUSE OF THE GOD ATUM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2609/156975/2609-156975-0010.flac",
+    "duration_s": 8.575
+  },
+  {
+    "file": "accuracy/2609-156975-0025.wav",
+    "reference": "THE STORY OF MOSES IS IN MANY WAYS CLOSELY PARALLEL TO THAT OF SINUHIT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2609/156975/2609-156975-0025.flac",
+    "duration_s": 5.79
+  },
+  {
+    "file": "accuracy/2609-157645-0001.wav",
+    "reference": "THE PROHIBITION IN THE REGULATION QUOTED OF SMOKING IN SAINT MARY'S CHURCH REFERRED IT MAY BE NOTED TO THE ACT WHICH WAS HELD THEREIN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2609/157645/2609-157645-0001.flac",
+    "duration_s": 9.5
+  },
+  {
+    "file": "accuracy/2609-169640-0000.wav",
+    "reference": "PROAS IN THAT QUARTER WERE USUALLY DISTRUSTED BY SHIPS IT IS TRUE BUT THE SEA IS FULL OF THEM AND FAR MORE ARE INNOCENT THAN ARE GUILTY OF ANY ACTS OF VIOLENCE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2609/169640/2609-169640-0000.flac",
+    "duration_s": 12.075
+  },
+  {
+    "file": "accuracy/2609-169640-0015.wav",
+    "reference": "KITE WENT AFT AND RETURNED WITH THREE OR FOUR MUSKETS AND AS MANY PIKES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/2609/169640/2609-169640-0015.flac",
+    "duration_s": 5.875
+  },
+  {
+    "file": "accuracy/3005-163389-0005.wav",
+    "reference": "BECAUSE THEY'RE AFRAID THE MAN'S FRIENDS WILL SHOOT THEM IN THE BACK IN THE DARKAND IT'S JUST WHAT THEY WOULD DO",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163389/3005-163389-0005.flac",
+    "duration_s": 7.92
+  },
+  {
+    "file": "accuracy/3005-163390-0000.wav",
+    "reference": "ANDBUT NEVER MIND THE REST OF HIS OUTFIT IT WAS JUST WILD BUT IT WAS AWFUL FUNNY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163390/3005-163390-0000.flac",
+    "duration_s": 6.725
+  },
+  {
+    "file": "accuracy/3005-163390-0015.wav",
+    "reference": "AND LOOK AT CHARLES SECOND AND LOUIS FOURTEEN AND LOUIS FIFTEEN AND JAMES SECOND AND EDWARD SECOND AND RICHARD THIRD AND FORTY MORE BESIDES ALL THEM SAXON HEPTARCHIES THAT USED TO RIP AROUND SO IN OLD TIMES AND RAISE CAIN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163390/3005-163390-0015.flac",
+    "duration_s": 16.005
+  },
+  {
+    "file": "accuracy/3005-163390-0030.wav",
+    "reference": "JIS AS LOUD AS I COULD YELL",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163390/3005-163390-0030.flac",
+    "duration_s": 2.415
+  },
+  {
+    "file": "accuracy/3005-163391-0013.wav",
+    "reference": "I'M GOING IN A SHIP NEXT WEDNESDAY FOR RYO JANEERO WHERE MY UNCLE LIVES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163391/3005-163391-0013.flac",
+    "duration_s": 6.025
+  },
+  {
+    "file": "accuracy/3005-163399-0001.wav",
+    "reference": "I WENT AROUND AND CLUMB OVER THE BACK STILE BY THE ASH HOPPER AND STARTED FOR THE KITCHEN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163399/3005-163399-0001.flac",
+    "duration_s": 5.775
+  },
+  {
+    "file": "accuracy/3005-163399-0016.wav",
+    "reference": "I OPENED MY MOUTH TO BEGIN BUT SHE GRABBED ME AND HUSTLED ME IN BEHIND THE BED AND SAYS HERE HE COMES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163399/3005-163399-0016.flac",
+    "duration_s": 7.08
+  },
+  {
+    "file": "accuracy/3005-163399-0030.wav",
+    "reference": "THEN I SAYS TO MYSELF S'POSE TOM SAWYER COMES DOWN ON THAT BOAT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3005/163399/3005-163399-0030.flac",
+    "duration_s": 4.62
+  },
+  {
+    "file": "accuracy/3080-5032-0014.wav",
+    "reference": "BUT BESIDES I CAN GIVE YOU OTHERS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3080/5032/3080-5032-0014.flac",
+    "duration_s": 3.28
+  },
+  {
+    "file": "accuracy/3080-5040-0002.wav",
+    "reference": "SHE HAS TOLD NOW ALL THAT WAS TOLD HER BUT VOWS SHE WILL NEVER SAY FROM WHENCE SHE HAD IT WE SHALL SEE WHETHER HER RESOLUTIONS ARE AS UNALTERABLE AS THOSE OF MY LADY TALMASH",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3080/5040/3080-5040-0002.flac",
+    "duration_s": 13.15
+  },
+  {
+    "file": "accuracy/3080-5040-0016.wav",
+    "reference": "I DO NOT FIND IT THOUGH I AM TOLD I WAS SO EXTREMELY WHEN I BELIEVED YOU LOVED ME",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3080/5040/3080-5040-0016.flac",
+    "duration_s": 5.75
+  },
+  {
+    "file": "accuracy/3080-5040-0031.wav",
+    "reference": "NOT TO KNOW WHEN YOU WOULD COME HOME I CAN ASSURE YOU NOR FOR ANY OTHER OCCASION OF MY OWN BUT WITH A COUSIN OF MINE THAT HAD LONG DESIGNED TO MAKE HERSELF SPORT WITH HIM AND DID NOT MISS OF HER AIM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3080/5040/3080-5040-0031.flac",
+    "duration_s": 12.77
+  },
+  {
+    "file": "accuracy/3331-159605-0012.wav",
+    "reference": "LATELY THIS HAD CHANGED ESPECIALLY TOWARDS POLLY AND IT FLATTERED HER MORE THAN SHE WOULD CONFESS EVEN TO HERSELF",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3331/159605/3331-159605-0012.flac",
+    "duration_s": 7.42
+  },
+  {
+    "file": "accuracy/3331-159605-0026.wav",
+    "reference": "HOW LOVELY THE PARK LOOKS SHE SAID IN GREAT CONFUSION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3331/159605/3331-159605-0026.flac",
+    "duration_s": 4.5
+  },
+  {
+    "file": "accuracy/3331-159605-0041.wav",
+    "reference": "WELL I ALWAYS MEANT TO TRY IT IF I GOT A CHANCE AND I HAVE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3331/159605/3331-159605-0041.flac",
+    "duration_s": 5.255
+  },
+  {
+    "file": "accuracy/3331-159609-0009.wav",
+    "reference": "CRIED POLLY WITH THE HEARTIEST SATISFACTION IN HER VOICE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3331/159609/3331-159609-0009.flac",
+    "duration_s": 3.555
+  },
+  {
+    "file": "accuracy/3331-159609-0023.wav",
+    "reference": "FOR NED WAS SO ABSORBED IN BUSINESS THAT HE IGNORED THE WHOLE BAILEY QUESTION AND LEFT THEM IN UTTER DARKNESS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3331/159609/3331-159609-0023.flac",
+    "duration_s": 6.34
+  },
+  {
+    "file": "accuracy/3528-168656-0012.wav",
+    "reference": "MORAL LOVE CONQUERED BY THE COLIC",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168656/3528-168656-0012.flac",
+    "duration_s": 3.05
+  },
+  {
+    "file": "accuracy/3528-168669-0014.wav",
+    "reference": "THERE IS A RING IN THE STONE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0014.flac",
+    "duration_s": 1.995
+  },
+  {
+    "file": "accuracy/3528-168669-0028.wav",
+    "reference": "AND THEN THE WIND IS NOT BLOWING IN MY DIRECTION THIS MORNING",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0028.flac",
+    "duration_s": 3.56
+  },
+  {
+    "file": "accuracy/3528-168669-0043.wav",
+    "reference": "FATHER FAUVENT THE COMMUNITY HAS BEEN BLESSED IN MOTHER CRUCIFIXION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0043.flac",
+    "duration_s": 4.16
+  },
+  {
+    "file": "accuracy/3528-168669-0058.wav",
+    "reference": "IT IS A CONTINUATION OF HER SLUMBER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0058.flac",
+    "duration_s": 2.605
+  },
+  {
+    "file": "accuracy/3528-168669-0072.wav",
+    "reference": "THINK FATHER FAUVENT IF SHE WERE TO WORK MIRACLES HERE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0072.flac",
+    "duration_s": 3.125
+  },
+  {
+    "file": "accuracy/3528-168669-0087.wav",
+    "reference": "WE LIVE IN TIMES OF TERRIBLE CONFUSION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0087.flac",
+    "duration_s": 2.445
+  },
+  {
+    "file": "accuracy/3528-168669-0102.wav",
+    "reference": "BESIDES WHAT THE CLOISTER KNOWS THE WORLD LEARNS NOT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0102.flac",
+    "duration_s": 3.515
+  },
+  {
+    "file": "accuracy/3528-168669-0116.wav",
+    "reference": "EVERYTHING MUST HAVE BEEN COMPLETED A GOOD QUARTER OF AN HOUR BEFORE THAT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3528/168669/3528-168669-0116.flac",
+    "duration_s": 3.675
+  },
+  {
+    "file": "accuracy/3538-142836-0000.wav",
+    "reference": "GENERAL OBSERVATIONS ON PRESERVES CONFECTIONARY ICES AND DESSERT DISHES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3538/142836/3538-142836-0000.flac",
+    "duration_s": 5.16
+  },
+  {
+    "file": "accuracy/3538-142836-0015.wav",
+    "reference": "MARMALADES AND JAMS DIFFER LITTLE FROM EACH OTHER THEY ARE PRESERVES OF A HALF LIQUID CONSISTENCY MADE BY BOILING THE PULP OF FRUITS AND SOMETIMES PART OF THE RINDS WITH SUGAR",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3538/142836/3538-142836-0015.flac",
+    "duration_s": 9.78
+  },
+  {
+    "file": "accuracy/3538-163619-0002.wav",
+    "reference": "BUT HIS SISTER WHO WAS STILL AT HOME FARED WORSE AND WORSE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3538/163619/3538-163619-0002.flac",
+    "duration_s": 3.885
+  },
+  {
+    "file": "accuracy/3538-163622-0002.wav",
+    "reference": "HAST THOU WATCHED FAITHFULLY AND WELL THE WHOLE DAY LONG SAID THE KING WHEN THE LAD CAME INTO HIS PRESENCE IN THE EVENING",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3538/163622/3538-163622-0002.flac",
+    "duration_s": 6.19
+  },
+  {
+    "file": "accuracy/3538-163622-0017.wav",
+    "reference": "IT LOOKS LIKE THE TRUNK OF A GREAT THICK BIRCH TREE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3538/163622/3538-163622-0017.flac",
+    "duration_s": 3.085
+  },
+  {
+    "file": "accuracy/3538-163624-0006.wav",
+    "reference": "THEN THE PERSON WHO HAD KILLED OTTER WENT DOWN AND CAUGHT THE DWARF WHO OWNED ALL THE TREASURE AND TOOK IT FROM HIM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3538/163624/3538-163624-0006.flac",
+    "duration_s": 5.795
+  },
+  {
+    "file": "accuracy/3538-163624-0021.wav",
+    "reference": "THEN HE TOOK THE HELMET OFF THE HEAD OF THE SLEEPER AND BEHOLD SHE WAS A MOST BEAUTIFUL LADY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3538/163624/3538-163624-0021.flac",
+    "duration_s": 5.41
+  },
+  {
+    "file": "accuracy/367-130732-0009.wav",
+    "reference": "SERVE IN A CHAFING DISH WITH THIN SLICES OF DRY TOAST",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/367/130732/367-130732-0009.flac",
+    "duration_s": 3.765
+  },
+  {
+    "file": "accuracy/367-130732-0023.wav",
+    "reference": "ALL OF THE BETTER CLASS RESTAURANTS HOWEVER WILL SERVE THEM IF YOU ORDER THEM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/367/130732/367-130732-0023.flac",
+    "duration_s": 4.255
+  },
+  {
+    "file": "accuracy/367-293981-0004.wav",
+    "reference": "UNLUCKY ME AND THE MOTHER THAT BORE ME",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/367/293981/367-293981-0004.flac",
+    "duration_s": 2.325
+  },
+  {
+    "file": "accuracy/367-293981-0019.wav",
+    "reference": "HE SAW HIM RISING AND FALLING IN THE AIR WITH SUCH GRACE AND NIMBLENESS THAT HAD HIS RAGE ALLOWED HIM IT IS MY BELIEF HE WOULD HAVE LAUGHED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/367/293981/367-293981-0019.flac",
+    "duration_s": 7.09
+  },
+  {
+    "file": "accuracy/3764-168670-0012.wav",
+    "reference": "FAUCHELEVENT WENT ON",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3764/168670/3764-168670-0012.flac",
+    "duration_s": 1.88
+  },
+  {
+    "file": "accuracy/3764-168670-0027.wav",
+    "reference": "HOW LONG IS THE COFFIN SIX FEET",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3764/168670/3764-168670-0027.flac",
+    "duration_s": 3.51
+  },
+  {
+    "file": "accuracy/3764-168670-0042.wav",
+    "reference": "JEAN VALJEAN HAD BEEN IN WORSE STRAITS THAN THIS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3764/168670/3764-168670-0042.flac",
+    "duration_s": 3.555
+  },
+  {
+    "file": "accuracy/3764-168670-0056.wav",
+    "reference": "ONE OF TWO THINGS WILL HAPPEN HE WILL EITHER BE SOBER OR HE WILL NOT BE SOBER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3764/168670/3764-168670-0056.flac",
+    "duration_s": 5.4
+  },
+  {
+    "file": "accuracy/3764-168671-0013.wav",
+    "reference": "MAKE AS MANY LAWS AS YOU PLEASE MEN BUT KEEP THEM FOR YOURSELVES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3764/168671/3764-168671-0013.flac",
+    "duration_s": 4.595
+  },
+  {
+    "file": "accuracy/3764-168671-0028.wav",
+    "reference": "HE HAD HARDLY THE STRENGTH TO STAMMER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3764/168671/3764-168671-0028.flac",
+    "duration_s": 2.415
+  },
+  {
+    "file": "accuracy/3764-168671-0042.wav",
+    "reference": "YOU ARE A PEASANT I AM A PARISIAN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3764/168671/3764-168671-0042.flac",
+    "duration_s": 3.645
+  },
+  {
+    "file": "accuracy/3997-180294-0002.wav",
+    "reference": "WELL DO IT FOR ME FOR I SWEAR TO YOU THAT I DON'T LOVE YOU AS THE OTHERS HAVE LOVED YOU",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3997/180294/3997-180294-0002.flac",
+    "duration_s": 6.425
+  },
+  {
+    "file": "accuracy/3997-180294-0017.wav",
+    "reference": "BUT TO RETURN TO THE FIRST DAY OF MY LIAISON",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3997/180294/3997-180294-0017.flac",
+    "duration_s": 4.11
+  },
+  {
+    "file": "accuracy/3997-180294-0031.wav",
+    "reference": "YOU STILL LOVE ME CAN YOU ASK",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3997/180294/3997-180294-0031.flac",
+    "duration_s": 3.19
+  },
+  {
+    "file": "accuracy/3997-180297-0012.wav",
+    "reference": "I LISTENED AND I GAZED AT MARGUERITE WITH ADMIRATION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3997/180297/3997-180297-0012.flac",
+    "duration_s": 4.04
+  },
+  {
+    "file": "accuracy/3997-180297-0027.wav",
+    "reference": "I TORE THE LETTER INTO FRAGMENTS AND KISSED WITH TEARS THE HAND THAT GAVE IT TO ME",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3997/180297/3997-180297-0027.flac",
+    "duration_s": 5.235
+  },
+  {
+    "file": "accuracy/3997-182399-0009.wav",
+    "reference": "EVERYBODY LOOKED AT PETER AND LAUGHED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/3997/182399/3997-182399-0009.flac",
+    "duration_s": 2.82
+  },
+  {
+    "file": "accuracy/4198-12259-0003.wav",
+    "reference": "YOU HAVE CATCHED A COLD GAMMER YEA FORSOOTH SIR",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4198/12259/4198-12259-0003.flac",
+    "duration_s": 3.96
+  },
+  {
+    "file": "accuracy/4198-12259-0018.wav",
+    "reference": "AND I TANQUAM SPONSUS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4198/12259/4198-12259-0018.flac",
+    "duration_s": 3.03
+  },
+  {
+    "file": "accuracy/4198-12259-0032.wav",
+    "reference": "LET US WIND OUR HORNS BY THE SOUND OF FLAGONS AND BOTTLES AND CRY ALOUD THAT WHOEVER HATH LOST HIS THIRST COME NOT HITHER TO SEEK IT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4198/12259/4198-12259-0032.flac",
+    "duration_s": 11.63
+  },
+  {
+    "file": "accuracy/4198-12281-0003.wav",
+    "reference": "BY THE VIRTUE OF GOD WHY DO NOT YOU SING PANNIERS FAREWELL VINTAGE IS DONE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4198/12281/4198-12281-0003.flac",
+    "duration_s": 8.095
+  },
+  {
+    "file": "accuracy/4198-61336-0002.wav",
+    "reference": "WELL MIGHT SHARDURIS EXCLAIM IN THE WORDS OF THE PROPHET WHERE IS THE KING OF ARPAD",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4198/61336/4198-61336-0002.flac",
+    "duration_s": 7.725
+  },
+  {
+    "file": "accuracy/4198-61336-0016.wav",
+    "reference": "NO RESISTANCE WAS POSSIBLE ON THE PART OF MENAHEM THE USURPER WHO WAS PROBABLY READY TO WELCOME THE ASSYRIAN CONQUEROR SO THAT BY ARRANGING AN ALLIANCE HE MIGHT SECURE HIS OWN POSITION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4198/61336/4198-61336-0016.flac",
+    "duration_s": 12.92
+  },
+  {
+    "file": "accuracy/4294-14317-0000.wav",
+    "reference": "AS I THOUGHT THAT THIS WAS DUE TO SOME FAULT IN THE EARTH I WANTED TO MAKE THESE FIRST EXPERIMENTS BEFORE I UNDERTOOK MY PERSEUS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4294/14317/4294-14317-0000.flac",
+    "duration_s": 7.515
+  },
+  {
+    "file": "accuracy/4294-14317-0015.wav",
+    "reference": "AFTER SEVERAL MONTHS WERE WASTED AND PIERO WOULD NEITHER WORK NOR PUT MEN TO WORK UPON THE PIECE I MADE HIM GIVE IT BACK",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4294/14317/4294-14317-0015.flac",
+    "duration_s": 6.685
+  },
+  {
+    "file": "accuracy/4294-35475-0004.wav",
+    "reference": "FORTHWITH THE GRINNING JESTER BEGAN SHRIEKING WITH LAUGHTER SO THAT THE BELLS UPON HIS MOTLEY CAP WERE ALL SET A JANGLING",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4294/35475/4294-35475-0004.flac",
+    "duration_s": 7.525
+  },
+  {
+    "file": "accuracy/4294-35475-0019.wav",
+    "reference": "WHILE HE STOOD LOOKING AROUND HIM IN BEWILDERMENT A FIREFLY ALIGHTED ON HIS ARM FLASHING ITS LITTLE LANTERN IN THE PRINCE'S FACE IT CRIED THIS WAY MY FRIEND THE FLY SENT ME TO GUIDE YOU TO A PLACE OF SAFETY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4294/35475/4294-35475-0019.flac",
+    "duration_s": 14.06
+  },
+  {
+    "file": "accuracy/4294-9934-0007.wav",
+    "reference": "HE FEARED AFTER HAVING TAKEN SO MANY STEPS WHICH HAD BROUGHT HIM NEARER TO HIS FATHER TO NOW TAKE A STEP WHICH SHOULD ESTRANGE HIM FROM THAT FATHER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4294/9934/4294-9934-0007.flac",
+    "duration_s": 8.705
+  },
+  {
+    "file": "accuracy/4294-9934-0021.wav",
+    "reference": "HE PAID TWENTY FRANCS FOR THE CAST OFF GARMENTS THEY WENT TO THE WATCHMAKER'S",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4294/9934/4294-9934-0021.flac",
+    "duration_s": 4.765
+  },
+  {
+    "file": "accuracy/4350-10919-0006.wav",
+    "reference": "THE FAMILY DOCTOR RESPECTFULLY CEASED IN THE MIDDLE OF HIS OBSERVATIONS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4350/10919/4350-10919-0006.flac",
+    "duration_s": 3.55
+  },
+  {
+    "file": "accuracy/4350-10919-0021.wav",
+    "reference": "OH NO ONLY A FEW DETAILS PRINCESS COME THIS WAY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4350/10919/4350-10919-0021.flac",
+    "duration_s": 4.175
+  },
+  {
+    "file": "accuracy/4350-9170-0001.wav",
+    "reference": "THIS IS ABSOLUTELY INCORRECT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4350/9170/4350-9170-0001.flac",
+    "duration_s": 2.06
+  },
+  {
+    "file": "accuracy/4350-9170-0016.wav",
+    "reference": "AFTER CONQUEST THE POWER OF THE EMPEROR PUTS AN END TO INTERNAL DISSENSIONS AND SO THE STATE CONCEPTION OF LIFE JUSTIFIES ITSELF",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4350/9170/4350-9170-0016.flac",
+    "duration_s": 7.47
+  },
+  {
+    "file": "accuracy/4350-9170-0031.wav",
+    "reference": "EVERY INCREASE IN THE ARMY OF ONE STATE WITH THE AIM OF SELF DEFENSE AGAINST ITS SUBJECTS BECOMES A SOURCE OF DANGER FOR NEIGHBORING STATES AND CALLS FOR A SIMILAR INCREASE IN THEIR ARMIES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4350/9170/4350-9170-0031.flac",
+    "duration_s": 9.67
+  },
+  {
+    "file": "accuracy/4350-9170-0045.wav",
+    "reference": "I AM EXPECTED FOR THE SAKE OF THE STATE TO MAKE THESE SACRIFICES TO RENOUNCE EVERYTHING THAT CAN BE PRECIOUS TO MAN PEACE FAMILY SECURITY AND HUMAN DIGNITY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4350/9170/4350-9170-0045.flac",
+    "duration_s": 8.62
+  },
+  {
+    "file": "accuracy/4350-9170-0060.wav",
+    "reference": "FOR A MAN OF THE POOR WORKING CLASS THE ADVANTAGES AND DISADVANTAGES WILL BE THE SAME BUT WITH A GREAT INCREASE OF DISADVANTAGES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4350/9170/4350-9170-0060.flac",
+    "duration_s": 6.66
+  },
+  {
+    "file": "accuracy/4852-28311-0014.wav",
+    "reference": "CHRIS STARTED OFF ONCE MORE PASSING THE BLEAK LITTLE VICTORIAN CHURCH PERCHED ON THE HILL ABOVE MISTER WICKER'S HOUSE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4852/28311/4852-28311-0014.flac",
+    "duration_s": 6.59
+  },
+  {
+    "file": "accuracy/4852-28312-0002.wav",
+    "reference": "WHAT WITH THE ONE WINDOW AND THE LOWERING DAY OUTSIDE THE LONG NARROW SHOP WAS SOMBER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4852/28312/4852-28312-0002.flac",
+    "duration_s": 5.66
+  },
+  {
+    "file": "accuracy/4852-28312-0016.wav",
+    "reference": "WOULD THAT INTERFERE WITH JAKEY'S GETTING THE JOB SIR",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4852/28312/4852-28312-0016.flac",
+    "duration_s": 4.185
+  },
+  {
+    "file": "accuracy/4852-28312-0031.wav",
+    "reference": "MY WINDOW HAS A POWER FOR THOSE FEW WHO ARE TO SEE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4852/28312/4852-28312-0031.flac",
+    "duration_s": 5.195
+  },
+  {
+    "file": "accuracy/4852-28319-0014.wav",
+    "reference": "THEN ALL AT ONCE THE IDEA CAME TO CHRIS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4852/28319/4852-28319-0014.flac",
+    "duration_s": 2.87
+  },
+  {
+    "file": "accuracy/4852-28330-0000.wav",
+    "reference": "THEY WENT DOWN TO THEIR QUARTERS FIRST",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4852/28330/4852-28330-0000.flac",
+    "duration_s": 2.4
+  },
+  {
+    "file": "accuracy/4852-28330-0015.wav",
+    "reference": "THIS SHIP ITS CARGO AND ITS MEN WILL BE IN YOUR HANDS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/4852/28330/4852-28330-0015.flac",
+    "duration_s": 4.555
+  },
+  {
+    "file": "accuracy/533-1066-0004.wav",
+    "reference": "OUT OF DEFERENCE TO LIDDY THEY WASHED THEIR DISHES ONCE A DAY AND THEY CONCOCTED QUEER MESSES ACCORDING TO THEIR SEVERAL ABILITIES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/533/1066/533-1066-0004.flac",
+    "duration_s": 9.02
+  },
+  {
+    "file": "accuracy/533-1066-0018.wav",
+    "reference": "I CONFESS THAT JUST AT THAT MINUTE EVEN SUNNYSIDE SEEMED A CHEERFUL SPOT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/533/1066/533-1066-0018.flac",
+    "duration_s": 5.92
+  },
+  {
+    "file": "accuracy/533-131556-0008.wav",
+    "reference": "YOU MAY GO MILICENT AND SHE'LL FOLLOW IN A WHILE MILICENT WENT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/533/131556/533-131556-0008.flac",
+    "duration_s": 5.29
+  },
+  {
+    "file": "accuracy/533-131556-0023.wav",
+    "reference": "I WOULD NOT FOR MUCH THAT SHE SHOULD KNOW THE INFAMY AND DISGRACE OF HER RELATION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/533/131556/533-131556-0023.flac",
+    "duration_s": 4.725
+  },
+  {
+    "file": "accuracy/533-131562-0011.wav",
+    "reference": "WHAT GREAT DISCOVERY HAVE YOU MADE NOW MISTER HUNTINGDON",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/533/131562/533-131562-0011.flac",
+    "duration_s": 3.625
+  },
+  {
+    "file": "accuracy/533-131564-0009.wav",
+    "reference": "OH NO I COULDN'T STAND THAT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/533/131564/533-131564-0009.flac",
+    "duration_s": 3.06
+  },
+  {
+    "file": "accuracy/533-131564-0024.wav",
+    "reference": "MILICENT FLEW TO THANK ME OVERFLOWING WITH GRATITUDE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/533/131564/533-131564-0024.flac",
+    "duration_s": 4.355
+  },
+  {
+    "file": "accuracy/5442-32873-0010.wav",
+    "reference": "AND SHE THREW BACK HER VEIL AND GOING HURRIEDLY TO THE TOILET MECHANICALLY SURVEYED HERSELF IN THE GLASS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5442/32873/5442-32873-0010.flac",
+    "duration_s": 6.535
+  },
+  {
+    "file": "accuracy/5442-41168-0005.wav",
+    "reference": "THE CONFIDENCE OF THE MONARCH NO CHECKING THE ACCOUNTS OF THE MARSHAL HE'S NOT A CASHIER BUT THAT'S NOT THE POINT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5442/41168/5442-41168-0005.flac",
+    "duration_s": 7.585
+  },
+  {
+    "file": "accuracy/5442-41168-0020.wav",
+    "reference": "BUT THE OLD PARTY DID NOT CONSIDER THEMSELVES CONQUERED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5442/41168/5442-41168-0020.flac",
+    "duration_s": 3.855
+  },
+  {
+    "file": "accuracy/5442-41169-0006.wav",
+    "reference": "LAST YEAR AT OUR DISTRICT MARSHAL NIKOLAY IVANOVITCH'S",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5442/41169/5442-41169-0006.flac",
+    "duration_s": 3.895
+  },
+  {
+    "file": "accuracy/5442-41169-0021.wav",
+    "reference": "WE WALKED ABOUT THE FIELDS AND THE GARDEN NO SAID HE STEPAN VASSILIEVITCH EVERYTHING'S WELL LOOKED AFTER BUT YOUR GARDEN'S NEGLECTED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5442/41169/5442-41169-0021.flac",
+    "duration_s": 9.565
+  },
+  {
+    "file": "accuracy/5484-24317-0004.wav",
+    "reference": "THE BANQUET WAS TO BEGIN IN A FEW HOURS YET HE COULD NOT LET THE DAY PASS WITHOUT SEEING DAPHNE AND TELLING HER THE WORDS OF THE ORACLE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5484/24317/5484-24317-0004.flac",
+    "duration_s": 8.195
+  },
+  {
+    "file": "accuracy/5484-24317-0018.wav",
+    "reference": "THE THREE MOST TRUSTWORTHY ONES ARE HERE AMYNTAS THE LEECH CHRYSIPPUS AND THE ADMIRABLE PROCLUS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5484/24317/5484-24317-0018.flac",
+    "duration_s": 8.93
+  },
+  {
+    "file": "accuracy/5484-24317-0033.wav",
+    "reference": "IT WAS NAY IT COULD HAVE BEEN NOTHING ELSE THAT VERY SPIDER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5484/24317/5484-24317-0033.flac",
+    "duration_s": 4.755
+  },
+  {
+    "file": "accuracy/5484-24318-0014.wav",
+    "reference": "CRIED HERMON IN GRATEFUL AGITATION BUT SHE WOULD NOT LISTEN TO HIM AND FOLLOWED THE SOLDIER WHOM THE CAPTAIN DETAILED TO GUIDE HER INTO THE PALACE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5484/24318/5484-24318-0014.flac",
+    "duration_s": 8.055
+  },
+  {
+    "file": "accuracy/5484-24318-0028.wav",
+    "reference": "HE HIMSELF ON THE WAY TO EXPOSE HIMSELF TO THE MALICE AND MOCKERY OF THE WHOLE CITY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5484/24318/5484-24318-0028.flac",
+    "duration_s": 4.94
+  },
+  {
+    "file": "accuracy/5764-299665-0005.wav",
+    "reference": "ARE THE FAILURES UNDER OBLIGATION TO THEIR CREATOR",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5764/299665/5764-299665-0005.flac",
+    "duration_s": 4.665
+  },
+  {
+    "file": "accuracy/5764-299665-0020.wav",
+    "reference": "DO WE PROVE HIS GOODNESS BY SHOWING THAT HE HAS OPENED THE EARTH AND SWALLOWED THOUSANDS OF HIS HELPLESS CHILDREN OR THAT WITH THE VOLCANOES HE HAS OVERWHELMED THEM WITH RIVERS OF FIRE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5764/299665/5764-299665-0020.flac",
+    "duration_s": 15.745
+  },
+  {
+    "file": "accuracy/5764-299665-0034.wav",
+    "reference": "THEY ARE PRAISED ADMIRED AND RESPECTED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5764/299665/5764-299665-0034.flac",
+    "duration_s": 4.32
+  },
+  {
+    "file": "accuracy/5764-299665-0049.wav",
+    "reference": "COULD THEY HAVE BEEN WORSE HAD THEY HAD ANY OTHER RELIGION THAN CHRISTIANITY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5764/299665/5764-299665-0049.flac",
+    "duration_s": 5.745
+  },
+  {
+    "file": "accuracy/5764-299665-0064.wav",
+    "reference": "CAN WE CURE DISEASE BY SUPPLICATION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5764/299665/5764-299665-0064.flac",
+    "duration_s": 3.685
+  },
+  {
+    "file": "accuracy/5764-299665-0078.wav",
+    "reference": "IN THE INFINITE CHAIN THERE IS AND THERE CAN BE NO BROKEN NO MISSING LINK",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5764/299665/5764-299665-0078.flac",
+    "duration_s": 6.84
+  },
+  {
+    "file": "accuracy/5764-299665-0093.wav",
+    "reference": "THIS CANNOT BE DONE BY TALK OR EXAMPLE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/5764/299665/5764-299665-0093.flac",
+    "duration_s": 3.615
+  },
+  {
+    "file": "accuracy/6070-63485-0010.wav",
+    "reference": "CRIED THE SCHOOLMASTER A THOUSAND FRANCS AND I'LL KILL HIM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6070/63485/6070-63485-0010.flac",
+    "duration_s": 4.59
+  },
+  {
+    "file": "accuracy/6070-86744-0005.wav",
+    "reference": "SHALL WE MAKE A POSITIVE APPOINTMENT FOR A PARTICULAR DAY AND HOUR INQUIRED THE COUNT ONLY LET ME WARN YOU THAT I AM PROVERBIAL FOR MY PUNCTILIOUS EXACTITUDE IN KEEPING MY ENGAGEMENTS DAY FOR DAY HOUR FOR HOUR SAID ALBERT THAT WILL SUIT ME TO A DOT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6070/86744/6070-86744-0005.flac",
+    "duration_s": 17.365
+  },
+  {
+    "file": "accuracy/6070-86744-0020.wav",
+    "reference": "BUT SAID FRANZ THE CORSICAN BANDITS THAT WERE AMONG THE CREW OF HIS VESSEL",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6070/86744/6070-86744-0020.flac",
+    "duration_s": 5.23
+  },
+  {
+    "file": "accuracy/6070-86745-0005.wav",
+    "reference": "IS THE COUNTESS UP YET",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6070/86745/6070-86745-0005.flac",
+    "duration_s": 2.33
+  },
+  {
+    "file": "accuracy/6070-86745-0019.wav",
+    "reference": "WITH YOUR TALENTS YOU WOULD MAKE YOUR FORTUNE IN THREE OR FOUR YEARS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6070/86745/6070-86745-0019.flac",
+    "duration_s": 4.385
+  },
+  {
+    "file": "accuracy/6128-63240-0014.wav",
+    "reference": "HAVE YOU BEEN IN EUROPE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6128/63240/6128-63240-0014.flac",
+    "duration_s": 1.655
+  },
+  {
+    "file": "accuracy/6128-63241-0001.wav",
+    "reference": "THE WOMEN HE HAD HITHERTO KNOWN HAD BEEN MAINLY OF HIS OWN SOFT CLIME AND IT WAS NOT OFTEN THEY EXHIBITED THE TENDENCY HE DETECTED AND CURSORILY DEPLORED IN MISSUS LUNA'S SISTER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6128/63241/6128-63241-0001.flac",
+    "duration_s": 13.095
+  },
+  {
+    "file": "accuracy/6128-63244-0001.wav",
+    "reference": "HOW DID THE LADIES ON BEACON STREET FEEL ABOUT THE BALLOT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6128/63244/6128-63244-0001.flac",
+    "duration_s": 4.04
+  },
+  {
+    "file": "accuracy/6128-63244-0016.wav",
+    "reference": "I WANT TO BE NEAR TO THEM TO HELP THEM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6128/63244/6128-63244-0016.flac",
+    "duration_s": 3.4
+  },
+  {
+    "file": "accuracy/6432-63722-0005.wav",
+    "reference": "PINKUS AND DONOVAN HAVEN'T THEY CARROLL YEP",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63722/6432-63722-0005.flac",
+    "duration_s": 3.54
+  },
+  {
+    "file": "accuracy/6432-63722-0019.wav",
+    "reference": "I HAPPENED TO SEE THOSE CANDLESTICKS IN THE WINDOW OF SINGA PHUT'S SHOP THE OTHER DAY AND I MADE UP MY MIND TO BUY THEM WHEN I HAD A CHANCE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63722/6432-63722-0019.flac",
+    "duration_s": 7.855
+  },
+  {
+    "file": "accuracy/6432-63722-0034.wav",
+    "reference": "IF YOU DON'T MIND I SHOULD LIKE TO EXAMINE THIS A BIT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63722/6432-63722-0034.flac",
+    "duration_s": 3.26
+  },
+  {
+    "file": "accuracy/6432-63722-0049.wav",
+    "reference": "AND YOU I DON'T WANT IT EITHER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63722/6432-63722-0049.flac",
+    "duration_s": 2.29
+  },
+  {
+    "file": "accuracy/6432-63723-0003.wav",
+    "reference": "NO I WASN'T THINKING OF THAT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63723/6432-63723-0003.flac",
+    "duration_s": 2.24
+  },
+  {
+    "file": "accuracy/6432-63723-0018.wav",
+    "reference": "STILL I WOULD LIKE TO KNOW",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63723/6432-63723-0018.flac",
+    "duration_s": 2.445
+  },
+  {
+    "file": "accuracy/6432-63723-0033.wav",
+    "reference": "DON'T WORRY IT WILL COME OUT ALL RIGHT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63723/6432-63723-0033.flac",
+    "duration_s": 2.51
+  },
+  {
+    "file": "accuracy/6432-63723-0047.wav",
+    "reference": "THAT IS NOT ALWAYS BUT SOMETIMES IT HAPPENED TO BE SO NOW",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6432/63723/6432-63723-0047.flac",
+    "duration_s": 4.26
+  },
+  {
+    "file": "accuracy/6938-70848-0004.wav",
+    "reference": "HAVEN'T I GOT SOMETHING TO REMEMBER THEM BY THE DEVILS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6938/70848/6938-70848-0004.flac",
+    "duration_s": 3.645
+  },
+  {
+    "file": "accuracy/6938-70848-0019.wav",
+    "reference": "ON THE TWENTY SEVENTH OCCURRED THE DEBATE ON THE LAND QUESTION WHICH REVEALED THE DIFFERENCES BETWEEN THE AGRARIAN PROGRAMME OF THE BOLSHEVIKI AND THE LEFT SOCIALIST REVOLUTIONARIES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/6938/70848/6938-70848-0019.flac",
+    "duration_s": 10.94
+  },
+  {
+    "file": "accuracy/7018-75788-0002.wav",
+    "reference": "HEARING THIS I WAS SORE TROUBLED REMEMBERING WHAT I HAD BEFORE SUFFERED FROM THE APE KIND",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7018/75788/7018-75788-0002.flac",
+    "duration_s": 6.1
+  },
+  {
+    "file": "accuracy/7018-75788-0017.wav",
+    "reference": "BUT IT BURNETH IN THEIR BELLIES SO THEY CAST IT UP AGAIN AND IT CONGEALETH ON THE SURFACE OF THE WATER WHEREBY ITS COLOR AND QUANTITIES ARE CHANGED AND AT LAST THE WAVES CAST IT ASHORE AND THE TRAVELLERS AND MERCHANTS WHO KNOW IT COLLECT IT AND SELL IT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7018/75788/7018-75788-0017.flac",
+    "duration_s": 17.47
+  },
+  {
+    "file": "accuracy/7018-75789-0012.wav",
+    "reference": "SO I CONSORTED WITH THE CHIEF OF THE ISLANDERS AND THEY PAID ME THE UTMOST RESPECT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7018/75789/7018-75789-0012.flac",
+    "duration_s": 5.395
+  },
+  {
+    "file": "accuracy/7018-75789-0026.wav",
+    "reference": "KNOW O COMPANY THAT AFTER MY RETURN FROM MY SIXTH VOYAGE WHICH BROUGHT ME ABUNDANT PROFIT I RESUMED MY FORMER LIFE IN ALL POSSIBLE JOYANCE AND ENJOYMENT AND MIRTH AND MAKING MERRY DAY AND NIGHT AND I TARRIED SOME TIME IN THIS SOLACE AND SATISFACTION TILL MY SOUL BEGAN ONCE MORE TO LONG TO SAIL THE SEAS AND SEE FOREIGN COUNTRIES AND COMPANY WITH MERCHANTS AND HEAR NEW THINGS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7018/75789/7018-75789-0026.flac",
+    "duration_s": 26.09
+  },
+  {
+    "file": "accuracy/7105-2330-0009.wav",
+    "reference": "THE JURY WISH TO ADD A RIDER DRAWING ATTENTION TO THE FACT THAT A BY ELECTION IS PENDING IN THE PARLIAMENTARY DIVISION OF NEMESIS ON HAND",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7105/2330/7105-2330-0009.flac",
+    "duration_s": 9.8
+  },
+  {
+    "file": "accuracy/7105-2330-0024.wav",
+    "reference": "THE CHIEF ORGANISER RANG OFF",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7105/2330/7105-2330-0024.flac",
+    "duration_s": 2.83
+  },
+  {
+    "file": "accuracy/7105-2330-0038.wav",
+    "reference": "IT WAS A TUNE THEY HAD ALL HEARD HUNDREDS OF TIMES SO THERE WAS NO DIFFICULTY IN TURNING OUT A PASSABLE IMITATION OF IT TO THE IMPROVISED STRAINS OF I DIDN'T WANT TO DO IT THE PRISONER STRODE FORTH TO FREEDOM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7105/2330/7105-2330-0038.flac",
+    "duration_s": 14.25
+  },
+  {
+    "file": "accuracy/7105-2340-0011.wav",
+    "reference": "THE TALK FLITTED NERVOUSLY AND HURRIEDLY FROM ONE IMPERSONAL TOPIC TO ANOTHER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7105/2340/7105-2340-0011.flac",
+    "duration_s": 5.29
+  },
+  {
+    "file": "accuracy/7105-2340-0026.wav",
+    "reference": "I SHOULD HAVE GIVEN IT TO YOU LAST NIGHT AFTER DINNER ONLY IT HAPPENED TO BE A CREAM JUG AND YOU SEEMED ANNOYED AT HAVING SO MANY DUPLICATES SO I FELT RATHER AWKWARD ABOUT GIVING YOU ANOTHER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7105/2340/7105-2340-0026.flac",
+    "duration_s": 13.095
+  },
+  {
+    "file": "accuracy/7902-96591-0002.wav",
+    "reference": "AND AND YOU HAVE NOT FOUND OUT ANYTHING CAME IN QUICK FRIGHTENED TONES",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96591/7902-96591-0002.flac",
+    "duration_s": 5.02
+  },
+  {
+    "file": "accuracy/7902-96591-0017.wav",
+    "reference": "NEXT MOMENT AS HE FELT HIS WAY ABOUT HIS HAND TOUCHED AN OLD FASHIONED MARBLE MANTELPIECE FIREPLACE CHIMNEY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96591/7902-96591-0017.flac",
+    "duration_s": 6.675
+  },
+  {
+    "file": "accuracy/7902-96592-0007.wav",
+    "reference": "BUT HOW QUEER FOR MISTER GURR TO BE TALKING LIKE THAT TO ANDREW TEAL THE BOY WHO HELPED THE COOK",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96592/7902-96592-0007.flac",
+    "duration_s": 5.14
+  },
+  {
+    "file": "accuracy/7902-96592-0021.wav",
+    "reference": "WON'T DO SAID RAM GRINNING",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96592/7902-96592-0021.flac",
+    "duration_s": 2.005
+  },
+  {
+    "file": "accuracy/7902-96592-0036.wav",
+    "reference": "NOT YOU ONLY A SHAM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96592/7902-96592-0036.flac",
+    "duration_s": 2.2
+  },
+  {
+    "file": "accuracy/7902-96594-0000.wav",
+    "reference": "SEEMED IN GOOD SPIRITS LAST NIGHT MISTER GURR EH",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96594/7902-96594-0000.flac",
+    "duration_s": 3.0
+  },
+  {
+    "file": "accuracy/7902-96594-0014.wav",
+    "reference": "THEN I MUST REQUEST THAT YOU WILL NOT MAKE IT AGAIN VERY TRUE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96594/7902-96594-0014.flac",
+    "duration_s": 3.32
+  },
+  {
+    "file": "accuracy/7902-96594-0029.wav",
+    "reference": "PIPE AWAY THE MEN TO THAT BOAT THERE HE SAID AND AS THE CREW SPRANG IN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96594/7902-96594-0029.flac",
+    "duration_s": 3.705
+  },
+  {
+    "file": "accuracy/7902-96595-0011.wav",
+    "reference": "IF SHE KNEW EVIL HAD COME TO THE POOR LAD HER FACE WOULD TELL TALES LIKE PRINT",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96595/7902-96595-0011.flac",
+    "duration_s": 3.745
+  },
+  {
+    "file": "accuracy/7902-96595-0025.wav",
+    "reference": "YOU DO NOT KNOW NO",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7902/96595/7902-96595-0025.flac",
+    "duration_s": 2.8
+  },
+  {
+    "file": "accuracy/7975-280057-0014.wav",
+    "reference": "BUT SHE FAILED TO FIND THE COMFORT SHE SOUGHT FOR ANNOYANCES CONTINUED IN A MORE AGGRAVATED FORM",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7975/280057/7975-280057-0014.flac",
+    "duration_s": 5.54
+  },
+  {
+    "file": "accuracy/7975-280063-0008.wav",
+    "reference": "THEY DID MARK MY CLOTHES IN ONE OR TWO PLACES HOWEVER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7975/280063/7975-280063-0008.flac",
+    "duration_s": 2.955
+  },
+  {
+    "file": "accuracy/7975-280076-0009.wav",
+    "reference": "AT THE TIME OF THE GALLATIN BANK ROBBERY I WAS GATHERING CATTLE IN ELLIS COUNTY TEXAS CATTLE THAT I BOUGHT FROM PLEAS TAYLOR AND RECTOR",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7975/280076/7975-280076-0009.flac",
+    "duration_s": 7.24
+  },
+  {
+    "file": "accuracy/7975-280076-0024.wav",
+    "reference": "HELVIN FICKLE AND WIFE OF GREENTON VALLEY WERE ATTENDING THE SPRINGS AT THAT TIME AND EITHER OF THEM WILL TESTIFY TO THE ABOVE FOR JOHN AND I SAT IN FRONT OF MISTER SMITH WHILE HE WAS PREACHING AND WAS IN HIS COMPANY FOR A FEW MOMENTS TOGETHER WITH HIS WIFE AND MISTER AND MISSUS FICKLE AFTER SERVICE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7975/280076/7975-280076-0024.flac",
+    "duration_s": 15.585
+  },
+  {
+    "file": "accuracy/7975-280084-0010.wav",
+    "reference": "EVERY TIME I SAW ANY ONE WITH A BEAD ON ME I WOULD DROP OFF MY HORSE AND TRY TO DRIVE THE SHOOTER INSIDE BUT I COULD NOT SEE IN EVERY DIRECTION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7975/280084/7975-280084-0010.flac",
+    "duration_s": 7.545
+  },
+  {
+    "file": "accuracy/7975-280085-0006.wav",
+    "reference": "THE WHISTLE ON THE OIL MILL BLEW AND WE FEARED THAT IT WAS A SIGNAL THAT HAD BEEN AGREED UPON TO ALARM THE TOWN IN CASE WE WERE OBSERVED BUT WE WERE NOT MOLESTED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/7975/280085/7975-280085-0006.flac",
+    "duration_s": 8.4
+  },
+  {
+    "file": "accuracy/8131-117016-0002.wav",
+    "reference": "SOME OF MARS LAWS DATED FROM THE TIME WHEN LAW ENFORCEMENT HAD BEEN HAMPERED BY LACK OF MEN RATHER THAN BY THE TYPE OF MEN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117016/8131-117016-0002.flac",
+    "duration_s": 8.29
+  },
+  {
+    "file": "accuracy/8131-117016-0017.wav",
+    "reference": "FOR A SECOND GORDON CURSED HIMSELF",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117016/8131-117016-0017.flac",
+    "duration_s": 2.92
+  },
+  {
+    "file": "accuracy/8131-117016-0031.wav",
+    "reference": "IF THEY TRIED TO RUN THEY WERE HIT FROM BEHIND IF THEY STOOD STILL THEY WERE CLUBBED CAREFULLY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117016/8131-117016-0031.flac",
+    "duration_s": 6.685
+  },
+  {
+    "file": "accuracy/8131-117016-0046.wav",
+    "reference": "BRUCE GORDON GRIMACED I'VE GOT A YELLOW TICKET FROM SECURITY",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117016/8131-117016-0046.flac",
+    "duration_s": 5.33
+  },
+  {
+    "file": "accuracy/8131-117016-0061.wav",
+    "reference": "BUT THERE PROBABLY WOULDN'T BE TIME FOR IT IF MAYOR WAYNE WAS RE ELECTED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117016/8131-117016-0061.flac",
+    "duration_s": 4.185
+  },
+  {
+    "file": "accuracy/8131-117017-0013.wav",
+    "reference": "THERE MUST HAVE BEEN OVER TWO THOUSAND CREDITS IN THE WALLET",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117017/8131-117017-0013.flac",
+    "duration_s": 3.62
+  },
+  {
+    "file": "accuracy/8131-117017-0028.wav",
+    "reference": "THE KID POCKETED THE MONEY CHEERFULLY NODDING",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117017/8131-117017-0028.flac",
+    "duration_s": 3.995
+  },
+  {
+    "file": "accuracy/8131-117029-0010.wav",
+    "reference": "THAT'S MARS GORDON ECHOED THE OTHER'S COMMENT WHY DON'T YOU PULL OFF THE PLANET FATS YOU COULD GO BACK TO EARTH I'D GUESS THE OTHER NODDED",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8131/117029/8131-117029-0010.flac",
+    "duration_s": 10.955
+  },
+  {
+    "file": "accuracy/8188-269288-0001.wav",
+    "reference": "LESLIE DETERMINED TO TRY FOR HONORS IN ENGLISH LANGUAGE AND LITERATURE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269288/8188-269288-0001.flac",
+    "duration_s": 4.575
+  },
+  {
+    "file": "accuracy/8188-269288-0016.wav",
+    "reference": "HER EYES SHONE WITH PLEASURE AT THE ANTICIPATION OF THE DELIGHTFUL TIME SHE WOULD HAVE REVELING IN THE HOME NEWS THE OTHER LETTER WAS DIRECTED TO ANNIE COLCHESTER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269288/8188-269288-0016.flac",
+    "duration_s": 10.18
+  },
+  {
+    "file": "accuracy/8188-269288-0031.wav",
+    "reference": "SHE IS A VERY QUEER ERRATIC CREATURE AND THAT LETTER THERE WAS BAD NEWS IN THAT LETTER",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269288/8188-269288-0031.flac",
+    "duration_s": 6.72
+  },
+  {
+    "file": "accuracy/8188-269288-0045.wav",
+    "reference": "DRINK THAT SHE SAID",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269288/8188-269288-0045.flac",
+    "duration_s": 2.295
+  },
+  {
+    "file": "accuracy/8188-269290-0002.wav",
+    "reference": "I'M NOT COMING SAID ANNIE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269290/8188-269290-0002.flac",
+    "duration_s": 2.505
+  },
+  {
+    "file": "accuracy/8188-269290-0017.wav",
+    "reference": "AS SHE WALKED DOWN THE CORRIDOR SHE HEARD IT BEING TURNED IN THE LOCK",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269290/8188-269290-0017.flac",
+    "duration_s": 4.02
+  },
+  {
+    "file": "accuracy/8188-269290-0031.wav",
+    "reference": "DO COME ANNIE DO",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269290/8188-269290-0031.flac",
+    "duration_s": 2.235
+  },
+  {
+    "file": "accuracy/8188-269290-0046.wav",
+    "reference": "ALL MEN ARE YOUR BROTHERS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/269290/8188-269290-0046.flac",
+    "duration_s": 2.065
+  },
+  {
+    "file": "accuracy/8188-274364-0003.wav",
+    "reference": "THE COURT WHICH CONSISTED OF THE CHIEF OFFICERS OF THE ARMY FOUND THE CRIME TO BE CAPITAL AND CONDEMNED THAT NOBLEMAN TO LOSE HIS HEAD",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8188/274364/8188-274364-0003.flac",
+    "duration_s": 8.32
+  },
+  {
+    "file": "accuracy/8280-266249-0005.wav",
+    "reference": "BESIDE OURSELVES ADDED COUSIN RONALD LAUGHING",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8280/266249/8280-266249-0005.flac",
+    "duration_s": 3.4
+  },
+  {
+    "file": "accuracy/8280-266249-0020.wav",
+    "reference": "IN A SMALL COUNTRY TOWN SEVEN OF THESE MYSTERIOUS PROVIDENCES OCCURRED WITHIN THE CIRCUIT OF A MILE ALL DIRECTLY TRACEABLE TO TOBACCO AND ANY PHYSICIAN ON A FEW MOMENTS REFLECTION CAN MATCH THIS FACT BY HIS OWN OBSERVATION",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8280/266249/8280-266249-0020.flac",
+    "duration_s": 14.31
+  },
+  {
+    "file": "accuracy/8280-266249-0035.wav",
+    "reference": "HIS VICTIM WHO HAD BEEN LOOKING ON DURING THE LITTLE SCENE AND LISTENING TO THE MYSTERIOUS VOICE IN SILENT WIDE EYED WONDER AND FEAR NOW ROSE HASTILY HIS FACE DEATHLY PALE WITH TREMBLING HANDS GATHERED UP THE MONEY HE HAD STAKED AND HURRYING INTO HIS STATE ROOM LOCKED HIMSELF IN",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8280/266249/8280-266249-0035.flac",
+    "duration_s": 17.285
+  },
+  {
+    "file": "accuracy/8280-266249-0049.wav",
+    "reference": "THEN MISTER LILBURN WAKING FROM HIS FIRST SLEEP IN A STATEROOM NEAR BY THOUGHT HE WOULD BREAK IT UP ONCE MORE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8280/266249/8280-266249-0049.flac",
+    "duration_s": 6.685
+  },
+  {
+    "file": "accuracy/8280-266249-0064.wav",
+    "reference": "YE ARE ALL ONE IN CHRIST JESUS",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8280/266249/8280-266249-0064.flac",
+    "duration_s": 2.555
+  },
+  {
+    "file": "accuracy/8461-258277-0013.wav",
+    "reference": "SO I WENT ROUND ABOUT THE HIGHWAYS OF THE CITY TILL I MET A SWEETMEAT SELLER AND BUYING HIS CLOTHES AND STOCK IN TRADE AND GEAR FOR TEN DINARS DID WHAT WAS DONE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8461/258277/8461-258277-0013.flac",
+    "duration_s": 10.27
+  },
+  {
+    "file": "accuracy/8461-278226-0010.wav",
+    "reference": "I SHOULD SO LIKE ONE TO HANG IN MY MORNING ROOM AT JOCELYN'S ROCK",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8461/278226/8461-278226-0010.flac",
+    "duration_s": 4.815
+  },
+  {
+    "file": "accuracy/8461-281231-0009.wav",
+    "reference": "THE DEFENDERS FINDING THE CASTLE TO BE ON FIRE NOW DETERMINED TO SELL THEIR LIVES AS DEARLY AS THEY COULD AND HEADED BY DE BRACY THEY THREW OPEN THE GATE AND WERE AT ONCE INVOLVED IN A TERRIFIC CONFLICT WITH THOSE OUTSIDE",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8461/281231/8461-281231-0009.flac",
+    "duration_s": 14.61
+  },
+  {
+    "file": "accuracy/8461-281231-0024.wav",
+    "reference": "HE LEFT THE GALLANT BAND OF FORESTERS SORROWING DEEPLY FOR HIS LOST FRIEND THE LORD OF CONINGSBURGH AND HE AND HIS FOLLOWERS HAD SCARCE DEPARTED WHEN A PROCESSION MOVED SLOWLY FROM UNDER THE GREENWOOD BRANCHES IN THE DIRECTION WHICH HE HAD TAKEN IN THE CENTRE OF WHICH WAS THE CAR IN WHICH THE BODY OF ATHELSTANE WAS LAID",
+    "group": "test-other-200",
+    "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+    "source_member": "LibriSpeech/test-other/8461/281231/8461-281231-0024.flac",
+    "duration_s": 20.21
+  }
+]

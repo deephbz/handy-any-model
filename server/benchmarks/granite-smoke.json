@@ -1,0 +1,441 @@
+{
+  "created_at": "2026-10-03T02:19:31.871568+00:00",
+  "model": "mlx-community/granite-speech-4.1-2b-nar-mlx-5bit",
+  "endpoint": "http://127.0.0.1:8178/v1/audio/transcriptions",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "versions": {
+    "mlx-audio": "0.5.6",
+    "mlx": "0.32.2",
+    "jiwer": "4.0.0"
+  },
+  "normalization": "lowercase; remove punctuation; collapse spaces; strip; no number expansion",
+  "warmup_request_s": 4.0495130000053905,
+  "peak_sampled_rss_bytes": 2893430784,
+  "rss_sampling_interval_s": 0.02,
+  "wer": 0.005988023952095809,
+  "errors": 2,
+  "reference_words": 334,
+  "rows": [
+    {
+      "file": "test-clean-1089-134686-0000.wav",
+      "reference": "HE HOPED THERE WOULD BE STEW FOR DINNER TURNIPS AND CARROTS AND BRUISED POTATOES AND FAT MUTTON PIECES TO BE LADLED OUT IN THICK PEPPERED FLOUR FATTENED SAUCE",
+      "group": "test-clean",
+      "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+      "source_member": "LibriSpeech/test-clean/1089/134686/1089-134686-0000.flac",
+      "duration_s": 10.435,
+      "hypothesis": "he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce",
+      "normalized_reference": "he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce",
+      "normalized_hypothesis": "he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 28,
+      "latencies_s": [
+        0.668934958986938,
+        1.5435591250425205,
+        1.319241541030351
+      ],
+      "median_latency_s": 1.319241541030351,
+      "repeat_hypotheses": [
+        "he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce",
+        "he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce",
+        "he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce"
+      ]
+    },
+    {
+      "file": "test-clean-1188-133604-0000.wav",
+      "reference": "YOU WILL FIND ME CONTINUALLY SPEAKING OF FOUR MEN TITIAN HOLBEIN TURNER AND TINTORET IN ALMOST THE SAME TERMS",
+      "group": "test-clean",
+      "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+      "source_member": "LibriSpeech/test-clean/1188/133604/1188-133604-0000.flac",
+      "duration_s": 10.725,
+      "hypothesis": "you will find me continually speaking of four men titian holbein turner and tintoret in almost the same terms",
+      "normalized_reference": "you will find me continually speaking of four men titian holbein turner and tintoret in almost the same terms",
+      "normalized_hypothesis": "you will find me continually speaking of four men titian holbein turner and tintoret in almost the same terms",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.7627403329825029,
+        0.7170039999764413,
+        0.6922436659806408
+      ],
+      "median_latency_s": 0.7170039999764413,
+      "repeat_hypotheses": [
+        "you will find me continually speaking of four men titian holbein turner and tintoret in almost the same terms",
+        "you will find me continually speaking of four men titian holbein turner and tintoret in almost the same terms",
+        "you will find me continually speaking of four men titian holbein turner and tintoret in almost the same terms"
+      ]
+    },
+    {
+      "file": "test-clean-121-121726-0000.wav",
+      "reference": "ALSO A POPULAR CONTRIVANCE WHEREBY LOVE MAKING MAY BE SUSPENDED BUT NOT STOPPED DURING THE PICNIC SEASON",
+      "group": "test-clean",
+      "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+      "source_member": "LibriSpeech/test-clean/121/121726/121-121726-0000.flac",
+      "duration_s": 8.46,
+      "hypothesis": "also a popular contrivance whereby love making may be suspended but not stopped during the picnic season",
+      "normalized_reference": "also a popular contrivance whereby love making may be suspended but not stopped during the picnic season",
+      "normalized_hypothesis": "also a popular contrivance whereby love making may be suspended but not stopped during the picnic season",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 17,
+      "latencies_s": [
+        0.6609972919686697,
+        0.6758076249971054,
+        0.5807992080226541
+      ],
+      "median_latency_s": 0.6609972919686697,
+      "repeat_hypotheses": [
+        "also a popular contrivance whereby love making may be suspended but not stopped during the picnic season",
+        "also a popular contrivance whereby love making may be suspended but not stopped during the picnic season",
+        "also a popular contrivance whereby love making may be suspended but not stopped during the picnic season"
+      ]
+    },
+    {
+      "file": "test-clean-1221-135766-0000.wav",
+      "reference": "HOW STRANGE IT SEEMED TO THE SAD WOMAN AS SHE WATCHED THE GROWTH AND THE BEAUTY THAT BECAME EVERY DAY MORE BRILLIANT AND THE INTELLIGENCE THAT THREW ITS QUIVERING SUNSHINE OVER THE TINY FEATURES OF THIS CHILD",
+      "group": "test-clean",
+      "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+      "source_member": "LibriSpeech/test-clean/1221/135766/1221-135766-0000.flac",
+      "duration_s": 12.435,
+      "hypothesis": "how strange it seemed to the sad woman as she watched the growth and the beauty that became every day more brilliant and the intelligence that threw its quivering sunshine over the tiny features of this child",
+      "normalized_reference": "how strange it seemed to the sad woman as she watched the growth and the beauty that became every day more brilliant and the intelligence that threw its quivering sunshine over the tiny features of this child",
+      "normalized_hypothesis": "how strange it seemed to the sad woman as she watched the growth and the beauty that became every day more brilliant and the intelligence that threw its quivering sunshine over the tiny features of this child",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 37,
+      "latencies_s": [
+        0.8963646669872105,
+        0.8787617910420522,
+        0.8559872080222704
+      ],
+      "median_latency_s": 0.8787617910420522,
+      "repeat_hypotheses": [
+        "how strange it seemed to the sad woman as she watched the growth and the beauty that became every day more brilliant and the intelligence that threw its quivering sunshine over the tiny features of this child",
+        "how strange it seemed to the sad woman as she watched the growth and the beauty that became every day more brilliant and the intelligence that threw its quivering sunshine over the tiny features of this child",
+        "how strange it seemed to the sad woman as she watched the growth and the beauty that became every day more brilliant and the intelligence that threw its quivering sunshine over the tiny features of this child"
+      ]
+    },
+    {
+      "file": "test-clean-1284-1180-0000.wav",
+      "reference": "HE WORE BLUE SILK STOCKINGS BLUE KNEE PANTS WITH GOLD BUCKLES A BLUE RUFFLED WAIST AND A JACKET OF BRIGHT BLUE BRAIDED WITH GOLD",
+      "group": "test-clean",
+      "source": "https://www.openslr.org/resources/12/test-clean.tar.gz",
+      "source_member": "LibriSpeech/test-clean/1284/1180/1284-1180-0000.flac",
+      "duration_s": 8.12,
+      "hypothesis": "he wore blue silk stockings blue knee pants with gold buckles a blue ruffled waist and a jacket of bright blue braided with gold",
+      "normalized_reference": "he wore blue silk stockings blue knee pants with gold buckles a blue ruffled waist and a jacket of bright blue braided with gold",
+      "normalized_hypothesis": "he wore blue silk stockings blue knee pants with gold buckles a blue ruffled waist and a jacket of bright blue braided with gold",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.6126464590197429,
+        0.759089250001125,
+        0.641886583995074
+      ],
+      "median_latency_s": 0.641886583995074,
+      "repeat_hypotheses": [
+        "he wore blue silk stockings blue knee pants with gold buckles a blue ruffled waist and a jacket of bright blue braided with gold",
+        "he wore blue silk stockings blue knee pants with gold buckles a blue ruffled waist and a jacket of bright blue braided with gold",
+        "he wore blue silk stockings blue knee pants with gold buckles a blue ruffled waist and a jacket of bright blue braided with gold"
+      ]
+    },
+    {
+      "file": "test-other-1688-142285-0000.wav",
+      "reference": "THERE'S IRON THEY SAY IN ALL OUR BLOOD AND A GRAIN OR TWO PERHAPS IS GOOD BUT HIS HE MAKES ME HARSHLY FEEL HAS GOT A LITTLE TOO MUCH OF STEEL ANON",
+      "group": "test-other",
+      "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+      "source_member": "LibriSpeech/test-other/1688/142285/1688-142285-0000.flac",
+      "duration_s": 15.0,
+      "hypothesis": "there's iron they say in all our blood and a grain or two perhaps is good but his he makes me harshly feel has got a little too much of steel anon",
+      "normalized_reference": "theres iron they say in all our blood and a grain or two perhaps is good but his he makes me harshly feel has got a little too much of steel anon",
+      "normalized_hypothesis": "theres iron they say in all our blood and a grain or two perhaps is good but his he makes me harshly feel has got a little too much of steel anon",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 32,
+      "latencies_s": [
+        1.4950125829782337,
+        1.0825212500058115,
+        0.9642051249975339
+      ],
+      "median_latency_s": 1.0825212500058115,
+      "repeat_hypotheses": [
+        "there's iron they say in all our blood and a grain or two perhaps is good but his he makes me harshly feel has got a little too much of steel anon",
+        "there's iron they say in all our blood and a grain or two perhaps is good but his he makes me harshly feel has got a little too much of steel anon",
+        "there's iron they say in all our blood and a grain or two perhaps is good but his he makes me harshly feel has got a little too much of steel anon"
+      ]
+    },
+    {
+      "file": "test-other-1998-15444-0000.wav",
+      "reference": "IF CALLED TO A CASE SUPPOSED OR SUSPECTED TO BE ONE OF POISONING THE MEDICAL MAN HAS TWO DUTIES TO PERFORM TO SAVE THE PATIENT'S LIFE AND TO PLACE HIMSELF IN A POSITION TO GIVE EVIDENCE IF CALLED ON TO DO SO",
+      "group": "test-other",
+      "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+      "source_member": "LibriSpeech/test-other/1998/15444/1998-15444-0000.flac",
+      "duration_s": 13.315,
+      "hypothesis": "if called to a case supposed or suspected to be one of poisoning the medical man has two duties to perform to save the patient's life and to place himself in a position to give evidence if called on to do so",
+      "normalized_reference": "if called to a case supposed or suspected to be one of poisoning the medical man has two duties to perform to save the patients life and to place himself in a position to give evidence if called on to do so",
+      "normalized_hypothesis": "if called to a case supposed or suspected to be one of poisoning the medical man has two duties to perform to save the patients life and to place himself in a position to give evidence if called on to do so",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 42,
+      "latencies_s": [
+        1.2403739580186084,
+        1.114225041004829,
+        1.0548551659449004
+      ],
+      "median_latency_s": 1.114225041004829,
+      "repeat_hypotheses": [
+        "if called to a case supposed or suspected to be one of poisoning the medical man has two duties to perform to save the patient's life and to place himself in a position to give evidence if called on to do so",
+        "if called to a case supposed or suspected to be one of poisoning the medical man has two duties to perform to save the patient's life and to place himself in a position to give evidence if called on to do so",
+        "if called to a case supposed or suspected to be one of poisoning the medical man has two duties to perform to save the patient's life and to place himself in a position to give evidence if called on to do so"
+      ]
+    },
+    {
+      "file": "test-other-2033-164914-0000.wav",
+      "reference": "REPLIED HE OF A TRUTH I HEARD HIM NOT AND I WOT HIM NOT AND FOLKS ARE ALL SLEEPING",
+      "group": "test-other",
+      "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+      "source_member": "LibriSpeech/test-other/2033/164914/2033-164914-0000.flac",
+      "duration_s": 9.075,
+      "hypothesis": "replied he of a truth i heard him not and i wot him not and folks are all sleeping",
+      "normalized_reference": "replied he of a truth i heard him not and i wot him not and folks are all sleeping",
+      "normalized_hypothesis": "replied he of a truth i heard him not and i wot him not and folks are all sleeping",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 19,
+      "latencies_s": [
+        0.9067247080383822,
+        1.0162417080136947,
+        0.8033137079910375
+      ],
+      "median_latency_s": 0.9067247080383822,
+      "repeat_hypotheses": [
+        "replied he of a truth i heard him not and i wot him not and folks are all sleeping",
+        "replied he of a truth i heard him not and i wot him not and folks are all sleeping",
+        "replied he of a truth i heard him not and i wot him not and folks are all sleeping"
+      ]
+    },
+    {
+      "file": "test-other-2414-128291-0001.wav",
+      "reference": "HE ASKED HIMSELF SOMETHING WARM AND LIVING QUICKENETH ME IT MUST BE IN THE NEIGHBOURHOOD",
+      "group": "test-other",
+      "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+      "source_member": "LibriSpeech/test-other/2414/128291/2414-128291-0001.flac",
+      "duration_s": 8.44,
+      "hypothesis": "he asked himself something warm and living quickeneth me it must be in the neighbourhood",
+      "normalized_reference": "he asked himself something warm and living quickeneth me it must be in the neighbourhood",
+      "normalized_hypothesis": "he asked himself something warm and living quickeneth me it must be in the neighbourhood",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 15,
+      "latencies_s": [
+        0.6571445419685915,
+        0.866784457990434,
+        0.7178681659861468
+      ],
+      "median_latency_s": 0.7178681659861468,
+      "repeat_hypotheses": [
+        "he asked himself something warm and living quickeneth me it must be in the neighbourhood",
+        "he asked himself something warm and living quickeneth me it must be in the neighbourhood",
+        "he asked himself something warm and living quickeneth me it must be in the neighbourhood"
+      ]
+    },
+    {
+      "file": "test-other-2609-156975-0002.wav",
+      "reference": "LET US HAVE FAITH THAT RIGHT MAKES MIGHT AND IN THAT FAITH LET US DARE TO DO OUR DUTY AS WE UNDERSTAND IT LINCOLN",
+      "group": "test-other",
+      "source": "https://www.openslr.org/resources/12/test-other.tar.gz",
+      "source_member": "LibriSpeech/test-other/2609/156975/2609-156975-0002.flac",
+      "duration_s": 10.745,
+      "hypothesis": "let us have faith that right makes might and in that faith let us dare to do our duty as we understand it lincoln",
+      "normalized_reference": "let us have faith that right makes might and in that faith let us dare to do our duty as we understand it lincoln",
+      "normalized_hypothesis": "let us have faith that right makes might and in that faith let us dare to do our duty as we understand it lincoln",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 24,
+      "latencies_s": [
+        0.9692907499847934,
+        0.930201249953825,
+        0.8775133750168607
+      ],
+      "median_latency_s": 0.930201249953825,
+      "repeat_hypotheses": [
+        "let us have faith that right makes might and in that faith let us dare to do our duty as we understand it lincoln",
+        "let us have faith that right makes might and in that faith let us dare to do our duty as we understand it lincoln",
+        "let us have faith that right makes might and in that faith let us dare to do our duty as we understand it lincoln"
+      ]
+    },
+    {
+      "file": "dictation-01.wav",
+      "reference": "Please send the updated meeting notes to the engineering team before Friday afternoon.",
+      "group": "synthetic-dictation",
+      "source": "macOS say; Samantha; 130 words/minute",
+      "duration_s": 5.4991875,
+      "hypothesis": "please send the updated meeting notes to the engineering team before friday afternoon.",
+      "normalized_reference": "please send the updated meeting notes to the engineering team before friday afternoon",
+      "normalized_hypothesis": "please send the updated meeting notes to the engineering team before friday afternoon",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 13,
+      "latencies_s": [
+        0.4092446669819765,
+        0.40249937504995614,
+        0.39645079197362065
+      ],
+      "median_latency_s": 0.40249937504995614,
+      "repeat_hypotheses": [
+        "please send the updated meeting notes to the engineering team before friday afternoon.",
+        "please send the updated meeting notes to the engineering team before friday afternoon.",
+        "please send the updated meeting notes to the engineering team before friday afternoon."
+      ]
+    },
+    {
+      "file": "dictation-02.wav",
+      "reference": "The appointment is on Tuesday at nine thirty. Please remind me to bring the signed documents.",
+      "group": "synthetic-dictation",
+      "source": "macOS say; Samantha; 130 words/minute",
+      "duration_s": 6.08075,
+      "hypothesis": "the appointment is on tuesday at 9.30, please remind me to bring the signed documents.",
+      "normalized_reference": "the appointment is on tuesday at nine thirty please remind me to bring the signed documents",
+      "normalized_hypothesis": "the appointment is on tuesday at 930 please remind me to bring the signed documents",
+      "wer": 0.125,
+      "substitutions": 1,
+      "deletions": 1,
+      "insertions": 0,
+      "reference_words": 16,
+      "latencies_s": [
+        0.46756554098101333,
+        0.5143468339811079,
+        0.5763910409878008
+      ],
+      "median_latency_s": 0.5143468339811079,
+      "repeat_hypotheses": [
+        "the appointment is on tuesday at 9.30, please remind me to bring the signed documents.",
+        "the appointment is on tuesday at 9.30, please remind me to bring the signed documents.",
+        "the appointment is on tuesday at 9.30, please remind me to bring the signed documents."
+      ]
+    },
+    {
+      "file": "dictation-03.wav",
+      "reference": "I tested the new version this morning and found two issues with the audio settings.",
+      "group": "synthetic-dictation",
+      "source": "macOS say; Samantha; 130 words/minute",
+      "duration_s": 5.266375,
+      "hypothesis": "i tested the new version this morning and found two issues with the audio settings.",
+      "normalized_reference": "i tested the new version this morning and found two issues with the audio settings",
+      "normalized_hypothesis": "i tested the new version this morning and found two issues with the audio settings",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 15,
+      "latencies_s": [
+        0.43119037500582635,
+        0.4319852499756962,
+        0.4479313329793513
+      ],
+      "median_latency_s": 0.4319852499756962,
+      "repeat_hypotheses": [
+        "i tested the new version this morning and found two issues with the audio settings.",
+        "i tested the new version this morning and found two issues with the audio settings.",
+        "i tested the new version this morning and found two issues with the audio settings."
+      ]
+    },
+    {
+      "file": "dictation-04.wav",
+      "reference": "Create a shopping list with apples, brown rice, olive oil, and a loaf of bread.",
+      "group": "synthetic-dictation",
+      "source": "macOS say; Samantha; 130 words/minute",
+      "duration_s": 6.067875,
+      "hypothesis": "create a shopping list with apples, brown rice, olive oil, and a loaf of bread.",
+      "normalized_reference": "create a shopping list with apples brown rice olive oil and a loaf of bread",
+      "normalized_hypothesis": "create a shopping list with apples brown rice olive oil and a loaf of bread",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 15,
+      "latencies_s": [
+        0.667675832984969,
+        0.5087317500147037,
+        0.5895246660220437
+      ],
+      "median_latency_s": 0.5895246660220437,
+      "repeat_hypotheses": [
+        "create a shopping list with apples, brown rice, olive oil, and a loaf of bread.",
+        "create a shopping list with apples, brown rice, olive oil, and a loaf of bread.",
+        "create a shopping list with apples, brown rice, olive oil, and a loaf of bread."
+      ]
+    },
+    {
+      "file": "dictation-05.wav",
+      "reference": "The server runs on my computer. It keeps the recording private and returns the transcript to the application.",
+      "group": "synthetic-dictation",
+      "source": "macOS say; Samantha; 130 words/minute",
+      "duration_s": 7.184375,
+      "hypothesis": "the server runs on my computer. it keeps the recording private and returns the transcript to the application.",
+      "normalized_reference": "the server runs on my computer it keeps the recording private and returns the transcript to the application",
+      "normalized_hypothesis": "the server runs on my computer it keeps the recording private and returns the transcript to the application",
+      "wer": 0.0,
+      "substitutions": 0,
+      "deletions": 0,
+      "insertions": 0,
+      "reference_words": 18,
+      "latencies_s": [
+        0.8164063339936547,
+        0.5822287920163944,
+        0.6158668749849312
+      ],
+      "median_latency_s": 0.6158668749849312,
+      "repeat_hypotheses": [
+        "the server runs on my computer. it keeps the recording private and returns the transcript to the application.",
+        "the server runs on my computer. it keeps the recording private and returns the transcript to the application.",
+        "the server runs on my computer. it keeps the recording private and returns the transcript to the application."
+      ]
+    }
+  ],
+  "manifest": "samples/manifest.json",
+  "rss_processes": [
+    36386
+  ],
+  "per_set": {
+    "synthetic-dictation": {
+      "errors": 2,
+      "reference_words": 77,
+      "wer": 0.025974025974025976
+    },
+    "test-clean": {
+      "errors": 0,
+      "reference_words": 125,
+      "wer": 0.0
+    },
+    "test-other": {
+      "errors": 0,
+      "reference_words": 132,
+      "wer": 0.0
+    }
+  }
+}
