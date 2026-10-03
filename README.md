@@ -27,6 +27,11 @@ Probably not. Read this first.
 | A model Handy does not ship, the day it is released | Use this repo. |
 | One strong model shared by several apps or scripts | Use this repo. |
 
+Handy adds models through its own engine,
+[transcribe.cpp](https://github.com/handy-computer/transcribe.cpp). Its catalog
+grew from 65 to 69 models between July and October 2026. A new model can take
+months to arrive, or never arrive. See [docs/upstream.md](docs/upstream.md).
+
 Our own verdict: on a laptop, official Handy with built-in Parakeet plus
 Apple Intelligence cleanup is the better daily setup. This repo pays off on
 a machine with memory to spare and a wish to try every new model.
@@ -103,6 +108,7 @@ and what the patch changes.
 | [docs/decisions.md](docs/decisions.md) | See what we chose, what we rejected, and why |
 | [docs/architecture.md](docs/architecture.md) | Learn Handy's internals and the patch |
 | [docs/model-survey.md](docs/model-survey.md) | Compare open-weight English ASR models, with sources |
+| [docs/upstream.md](docs/upstream.md) | See how fast official Handy adds new models |
 | [docs/post-processing.md](docs/post-processing.md) | Clean up text with a local LLM in official Handy |
 | [server/results.md](server/results.md) | Read the full benchmark |
 
